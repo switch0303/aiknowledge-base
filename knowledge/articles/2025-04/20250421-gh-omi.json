@@ -1,0 +1,24 @@
+{
+  "id": "kba_20250421014",
+  "title": "Omi：多模态 AI 助手",
+  "source_url": "https://github.com/BasedHardware/omi",
+  "source_type": "github",
+  "raw_source_id": "raw_gh_20250421_014",
+  "summary_zh": "一款多模态 AI 助手应用，能够看到用户屏幕、监听对话并实时给出建议。提供全方位的 AI 辅助功能，是一个多模态的 AI 伴侣，适合需要实时辅助和陪伴的用户场景。",
+  "key_points": [
+    "多模态感知：屏幕视觉 + 语音监听",
+    "实时建议和辅助决策",
+    "全方位 AI 伴侣体验",
+    "适合个人助理和陪伴场景"
+  ],
+  "popularity_score": 3634,
+  "quality_score": 7,
+  "tags": ["assistant", "multimodal", "companion", "real-time", "app"],
+  "status": "approved",
+  "priority": "medium",
+  "channels": ["telegram", "feishu"],
+  "collected_at": "2025-04-21T08:30:00Z",
+  "analyzed_at": "2025-04-21T09:00:00Z",
+  "processed_at": "2025-04-21T10:00:00Z",
+  "file_path": "articles/2025-04/20250421-gh-omi.json"
+}

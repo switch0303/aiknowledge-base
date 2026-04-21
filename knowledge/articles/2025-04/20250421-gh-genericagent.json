@@ -1,0 +1,24 @@
+{
+  "id": "kba_20250421009",
+  "title": "GenericAgent：自进化智能体系统",
+  "source_url": "https://github.com/lsdefine/GenericAgent",
+  "source_type": "github",
+  "raw_source_id": "raw_gh_20250421_009",
+  "summary_zh": "一个自进化的 AI Agent 系统，从 3.3K 行种子代码开始，通过自我进化实现完整的系统控制能力。采用创新架构设计，相比其他方案减少 6 倍 Token 消耗，实现高效的任务执行和自我优化。",
+  "key_points": [
+    "自进化架构，从少量种子代码生长",
+    "减少 6 倍 Token 消耗，高效经济",
+    "实现完整系统控制和任务执行",
+    "创新的 Agent 自我优化机制"
+  ],
+  "popularity_score": 3914,
+  "quality_score": 8,
+  "tags": ["agent", "self-evolving", "efficient", "autonomous", "innovation"],
+  "status": "approved",
+  "priority": "medium",
+  "channels": ["telegram", "feishu"],
+  "collected_at": "2025-04-21T08:30:00Z",
+  "analyzed_at": "2025-04-21T09:00:00Z",
+  "processed_at": "2025-04-21T10:00:00Z",
+  "file_path": "articles/2025-04/20250421-gh-genericagent.json"
+}

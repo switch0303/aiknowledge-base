@@ -1,0 +1,132 @@
+[
+  {
+    "id": "raw_gh_20250421_01",
+    "source": "github",
+    "source_url": "https://github.com/NousResearch/hermes-agent",
+    "title": "hermes-agent",
+    "content": "The agent that grows with you",
+    "metadata": {
+      "stars": 107365,
+      "language": "Python",
+      "author": "NousResearch"
+    },
+    "collected_at": "2025-04-21T00:00:00Z"
+  },
+  {
+    "id": "raw_gh_20250421_02",
+    "source": "github",
+    "source_url": "https://github.com/microsoft/markitdown",
+    "title": "markitdown",
+    "content": "Python tool for converting files and office documents to Markdown",
+    "metadata": {
+      "stars": 113835,
+      "language": "Python",
+      "author": "microsoft"
+    },
+    "collected_at": "2025-04-21T00:00:00Z"
+  },
+  {
+    "id": "raw_gh_20250421_03",
+    "source": "github",
+    "source_url": "https://github.com/virattt/ai-hedge-fund",
+    "title": "ai-hedge-fund",
+    "content": "An AI Hedge Fund Team",
+    "metadata": {
+      "stars": 56725,
+      "language": "Python",
+      "author": "virattt"
+    },
+    "collected_at": "2025-04-21T00:00:00Z"
+  },
+  {
+    "id": "raw_gh_20250421_04",
+    "source": "github",
+    "source_url": "https://github.com/openai/openai-agents-python",
+    "title": "openai-agents-python",
+    "content": "A lightweight, powerful framework for multi-agent workflows",
+    "metadata": {
+      "stars": 24275,
+      "language": "Python",
+      "author": "openai"
+    },
+    "collected_at": "2025-04-21T00:00:00Z"
+  },
+  {
+    "id": "raw_gh_20250421_05",
+    "source": "github",
+    "source_url": "https://github.com/HKUDS/DeepTutor",
+    "title": "DeepTutor",
+    "content": "DeepTutor: Agent-Native Personalized Learning Assistant",
+    "metadata": {
+      "stars": 20650,
+      "language": "Python",
+      "author": "HKUDS"
+    },
+    "collected_at": "2025-04-21T00:00:00Z"
+  },
+  {
+    "id": "raw_gh_20250421_06",
+    "source": "github",
+    "source_url": "https://github.com/shiyu-coder/Kronos",
+    "title": "Kronos",
+    "content": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "metadata": {
+      "stars": 19979,
+      "language": "Python",
+      "author": "shiyu-coder"
+    },
+    "collected_at": "2025-04-21T00:00:00Z"
+  },
+  {
+    "id": "raw_gh_20250421_07",
+    "source": "github",
+    "source_url": "https://github.com/topoteretes/cognee",
+    "title": "cognee",
+    "content": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+    "metadata": {
+      "stars": 16585,
+      "language": "Python",
+      "author": "topoteretes"
+    },
+    "collected_at": "2025-04-21T00:00:00Z"
+  },
+  {
+    "id": "raw_gh_20250421_08",
+    "source": "github",
+    "source_url": "https://github.com/OpenBMB/VoxCPM",
+    "title": "VoxCPM",
+    "content": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "metadata": {
+      "stars": 15274,
+      "language": "Python",
+      "author": "OpenBMB"
+    },
+    "collected_at": "2025-04-21T00:00:00Z"
+  },
+  {
+    "id": "raw_gh_20250421_09",
+    "source": "github",
+    "source_url": "https://github.com/lsdefine/GenericAgent",
+    "title": "GenericAgent",
+    "content": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "metadata": {
+      "stars": 5358,
+      "language": "Python",
+      "author": "lsdefine"
+    },
+    "collected_at": "2025-04-21T00:00:00Z"
+  },
+  {
+    "id": "raw_gh_20250421_10",
+    "source": "github",
+    "source_url": "https://github.com/Tracer-Cloud/opensre",
+    "title": "opensre",
+    "content": "Build your own AI SRE agents. The open source toolkit for the AI era ✨",
+    "metadata": {
+      "stars": 2050,
+      "language": "Python",
+      "author": "Tracer-Cloud"
+    },
+    "collected_at": "2025-04-21T00:00:00Z"
+  }
+]

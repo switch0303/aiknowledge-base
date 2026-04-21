@@ -1,0 +1,24 @@
+{
+  "id": "kba_20250421005",
+  "title": "MarkItDown：微软文档转 Markdown 工具",
+  "source_url": "https://github.com/microsoft/markitdown",
+  "source_type": "github",
+  "raw_source_id": "raw_gh_20250421_005",
+  "summary_zh": "微软开源的 Python 工具，专为大语言模型应用设计，支持将 PDF、Word、PowerPoint、Excel 等多种文档格式转换为 Markdown。使 LLM 能够更好地理解和处理企业文档，支持 RAG 和文档问答场景。",
+  "key_points": [
+    "微软官方出品，质量可靠",
+    "支持 PDF、Office 等多种文档格式",
+    "专为 LLM/RAG 场景优化",
+    "保持文档结构和格式完整性"
+  ],
+  "popularity_score": 7084,
+  "quality_score": 9,
+  "tags": ["microsoft", "document", "markdown", "llm", "rag"],
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "collected_at": "2025-04-21T08:30:00Z",
+  "analyzed_at": "2025-04-21T09:00:00Z",
+  "processed_at": "2025-04-21T10:00:00Z",
+  "file_path": "articles/2025-04/20250421-gh-markitdown.json"
+}

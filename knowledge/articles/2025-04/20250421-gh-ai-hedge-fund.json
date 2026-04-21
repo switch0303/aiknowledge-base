@@ -1,0 +1,24 @@
+{
+  "id": "kba_20250421008",
+  "title": "AI Hedge Fund：AI 驱动的对冲基金模拟系统",
+  "source_url": "https://github.com/virattt/ai-hedge-fund",
+  "source_type": "github",
+  "raw_source_id": "raw_gh_20250421_008",
+  "summary_zh": "一个 AI 驱动的对冲基金模拟系统，展示如何使用 AI Agent 进行金融市场分析和投资决策。整合了多种分析策略，包括基本面分析、技术分析和情绪分析，模拟真实对冲基金的操作流程。",
+  "key_points": [
+    "AI 驱动的金融投资决策系统",
+    "整合基本面、技术面、情绪面分析",
+    "模拟真实对冲基金工作流程",
+    "适合学习 AI 在金融领域的应用"
+  ],
+  "popularity_score": 3950,
+  "quality_score": 8,
+  "tags": ["agent", "finance", "trading", "simulation", "investment"],
+  "status": "approved",
+  "priority": "medium",
+  "channels": ["telegram", "feishu"],
+  "collected_at": "2025-04-21T08:30:00Z",
+  "analyzed_at": "2025-04-21T09:00:00Z",
+  "processed_at": "2025-04-21T10:00:00Z",
+  "file_path": "articles/2025-04/20250421-gh-ai-hedge-fund.json"
+}

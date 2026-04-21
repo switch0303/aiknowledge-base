@@ -1,0 +1,24 @@
+{
+  "id": "kba_20250421015",
+  "title": "RAG-Anything：香港大学 RAG 增强框架",
+  "source_url": "https://github.com/HKUDS/RAG-Anything",
+  "source_type": "github",
+  "raw_source_id": "raw_gh_20250421_015",
+  "summary_zh": "香港大学数据科学实验室开发的检索增强生成（RAG）项目，支持对各种类型的文档进行检索增强。通过先进的向量化技术和检索算法，提升大语言模型在特定领域的问答准确性和知识覆盖度。",
+  "key_points": [
+    "香港大学数据科学实验室出品",
+    "支持多种文档类型的 RAG 增强",
+    "先进的向量化和检索技术",
+    "提升 LLM 在专业领域的准确性"
+  ],
+  "popularity_score": 1715,
+  "quality_score": 7,
+  "tags": ["rag", "retrieval", "llm", "document", "hku"],
+  "status": "approved",
+  "priority": "medium",
+  "channels": ["telegram", "feishu"],
+  "collected_at": "2025-04-21T08:30:00Z",
+  "analyzed_at": "2025-04-21T09:00:00Z",
+  "processed_at": "2025-04-21T10:00:00Z",
+  "file_path": "articles/2025-04/20250421-gh-rag-anything.json"
+}

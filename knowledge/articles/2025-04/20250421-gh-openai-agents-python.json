@@ -1,0 +1,24 @@
+{
+  "id": "kba_20250421001",
+  "title": "OpenAI Agents Python：官方多智能体框架",
+  "source_url": "https://github.com/openai/openai-agents-python",
+  "source_type": "github",
+  "raw_source_id": "raw_gh_20250421_001",
+  "summary_zh": "OpenAI 官方推出的轻量级多智能体工作流框架，支持多 Agent 协作、工作流编排、安全护栏等功能。设计简洁，仅保留核心抽象，便于快速构建生产级 Agent 应用。",
+  "key_points": [
+    "OpenAI 官方出品，API 设计简洁优雅",
+    "支持多 Agent 协作和复杂工作流编排",
+    "内置安全护栏和内容审核机制",
+    "与 OpenAI API 深度集成，易于上手"
+  ],
+  "popularity_score": 4200,
+  "quality_score": 9,
+  "tags": ["agent", "openai", "framework", "multi-agent", "workflow"],
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "collected_at": "2025-04-21T08:30:00Z",
+  "analyzed_at": "2025-04-21T09:00:00Z",
+  "processed_at": "2025-04-21T10:00:00Z",
+  "file_path": "articles/2025-04/20250421-gh-openai-agents-python.json"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "kba_20250421006",
+  "title": "MultiCA：开源多智能体管理平台",
+  "source_url": "https://github.com/multica-ai/multica",
+  "source_type": "github",
+  "raw_source_id": "raw_gh_20250421_006",
+  "summary_zh": "开源的托管智能体平台，将编码代理转变为真正的团队成员。支持任务分配、进度跟踪、技能组合等团队管理功能，适合企业级 AI 团队部署，提供多 Agent 协作和项目管理的完整解决方案。",
+  "key_points": [
+    "企业级多 Agent 管理平台",
+    "支持任务分配和进度跟踪",
+    "提供技能组合和团队协作功能",
+    "开源托管，易于部署和定制"
+  ],
+  "popularity_score": 7009,
+  "quality_score": 8,
+  "tags": ["agent", "multi-agent", "platform", "team", "enterprise"],
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "collected_at": "2025-04-21T08:30:00Z",
+  "analyzed_at": "2025-04-21T09:00:00Z",
+  "processed_at": "2025-04-21T10:00:00Z",
+  "file_path": "articles/2025-04/20250421-gh-multica.json"
+}

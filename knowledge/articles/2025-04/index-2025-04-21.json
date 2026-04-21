@@ -1,0 +1,78 @@
+{
+  "date": "2025-04-21",
+  "total_count": 15,
+  "by_source": {
+    "github": 15
+  },
+  "by_category": {
+    "agent_framework": 5,
+    "tools": 3,
+    "education": 1,
+    "rag": 1,
+    "finance": 1,
+    "multimodal": 1,
+    "productivity": 2
+  },
+  "entries": [
+    {
+      "id": "kba_20250421001",
+      "title": "OpenAI Agents Python：官方多智能体框架",
+      "file_path": "articles/2025-04/20250421-gh-openai-agents-python.json"
+    },
+    {
+      "id": "kba_20250421002",
+      "title": "Andrej Karpathy Skills：Claude Code 技能集",
+      "file_path": "articles/2025-04/20250421-gh-andrej-karpathy-skills.json"
+    },
+    {
+      "id": "kba_20250421003",
+      "title": "Hermes Agent：Nous Research 智能体框架",
+      "file_path": "articles/2025-04/20250421-gh-hermes-agent.json"
+    },
+    {
+      "id": "kba_20250421004",
+      "title": "Claude Mem：Claude Code 跨会话记忆插件",
+      "file_path": "articles/2025-04/20250421-gh-claude-mem.json"
+    },
+    {
+      "id": "kba_20250421005",
+      "title": "MarkItDown：微软文档转 Markdown 工具",
+      "file_path": "articles/2025-04/20250421-gh-markitdown.json"
+    },
+    {
+      "id": "kba_20250421006",
+      "title": "MultiCA：开源多智能体管理平台",
+      "file_path": "articles/2025-04/20250421-gh-multica.json"
+    },
+    {
+      "id": "kba_20250421007",
+      "title": "Dive into LLMs：动手学大模型实践教程",
+      "file_path": "articles/2025-04/20250421-gh-dive-into-llms.json"
+    },
+    {
+      "id": "kba_20250421008",
+      "title": "AI Hedge Fund：AI 驱动的对冲基金模拟系统",
+      "file_path": "articles/2025-04/20250421-gh-ai-hedge-fund.json"
+    },
+    {
+      "id": "kba_20250421009",
+      "title": "GenericAgent：自进化智能体系统",
+      "file_path": "articles/2025-04/20250421-gh-genericagent.json"
+    },
+    {
+      "id": "kba_20250421010",
+      "title": "Evolver：AI 智能体自我进化引擎",
+      "file_path": "articles/2025-04/20250421-gh-evolver.json"
+    },
+    {
+      "id": "kba_20250421011",
+      "title": "Omi：多模态 AI 助手",
+      "file_path": "articles/2025-04/20250421-gh-omi.json"
+    },
+    {
+      "id": "kba_20250421012",
+      "title": "RAG-Anything：香港大学 RAG 增强框架",
+      "file_path": "articles/2025-04/20250421-gh-rag-anything.json"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "kba_20250421007",
+  "title": "Dive into LLMs：动手学大模型实践教程",
+  "source_url": "https://github.com/Lordog/dive-into-llms",
+  "source_type": "github",
+  "raw_source_id": "raw_gh_20250421_007",
+  "summary_zh": "系统性的《动手学大模型》编程实践教程，涵盖大语言模型从基础到进阶的完整知识体系。提供丰富的代码示例和实践项目，适合开发者系统学习 LLM 原理、微调、部署和应用开发。",
+  "key_points": [
+    "系统性的 LLM 学习路径和教程",
+    "理论与实践结合，提供完整代码示例",
+    "涵盖预训练、微调、部署全流程",
+    "适合各阶段开发者学习"
+  ],
+  "popularity_score": 5703,
+  "quality_score": 9,
+  "tags": ["llm", "tutorial", "education", "practical", "learning"],
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "collected_at": "2025-04-21T08:30:00Z",
+  "analyzed_at": "2025-04-21T09:00:00Z",
+  "processed_at": "2025-04-21T10:00:00Z",
+  "file_path": "articles/2025-04/20250421-gh-dive-into-llms.json"
+}

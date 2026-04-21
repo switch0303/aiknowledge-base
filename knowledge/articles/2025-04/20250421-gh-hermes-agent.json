@@ -1,0 +1,24 @@
+{
+  "id": "kba_20250421003",
+  "title": "Hermes Agent：Nous Research 智能体框架",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "source_type": "github",
+  "raw_source_id": "raw_gh_20250421_003",
+  "summary_zh": "Nous Research 推出的 AI Agent 框架，专注于打造能够与用户共同成长的个性化 AI 助手。支持长期记忆、上下文学习和个性化适应，适合构建陪伴型 AI 应用。",
+  "key_points": [
+    "Nous Research 出品，注重个性化和成长",
+    "支持长期记忆和上下文学习",
+    "适合构建陪伴型 AI 助手",
+    "开源框架，易于定制和扩展"
+  ],
+  "popularity_score": 30630,
+  "quality_score": 8,
+  "tags": ["agent", "nous-research", "personalization", "memory", "framework"],
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "collected_at": "2025-04-21T08:30:00Z",
+  "analyzed_at": "2025-04-21T09:00:00Z",
+  "processed_at": "2025-04-21T10:00:00Z",
+  "file_path": "articles/2025-04/20250421-gh-hermes-agent.json"
+}

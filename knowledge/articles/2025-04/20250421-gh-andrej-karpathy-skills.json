@@ -1,0 +1,24 @@
+{
+  "id": "kba_20250421002",
+  "title": "Andrej Karpathy Skills：Claude Code 技能集",
+  "source_url": "https://github.com/forrestchang/andrej-karpathy-skills",
+  "source_type": "github",
+  "raw_source_id": "raw_gh_20250421_002",
+  "summary_zh": "收录 Andrej Karpathy 对 LLM 编码的最佳实践和改进建议，整理成 Claude Code 可用的技能集。包含提示工程技巧、代码审查要点、调试策略等，帮助开发者提升 AI 辅助编程效率。",
+  "key_points": [
+    "收录 Andrej Karpathy 的 LLM 编码智慧",
+    "专为 Claude Code 设计的技能集格式",
+    "涵盖提示工程、代码审查、调试等场景",
+    "可直接导入使用，提升 AI 编程效率"
+  ],
+  "popularity_score": 44394,
+  "quality_score": 8,
+  "tags": ["claude", "prompt-engineering", "coding", "llm", "best-practices"],
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "collected_at": "2025-04-21T08:30:00Z",
+  "analyzed_at": "2025-04-21T09:00:00Z",
+  "processed_at": "2025-04-21T10:00:00Z",
+  "file_path": "articles/2025-04/20250421-gh-andrej-karpathy-skills.json"
+}

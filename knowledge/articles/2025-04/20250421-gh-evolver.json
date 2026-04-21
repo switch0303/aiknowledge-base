@@ -1,0 +1,24 @@
+{
+  "id": "kba_20250421013",
+  "title": "Evolver：AI 智能体自我进化引擎",
+  "source_url": "https://github.com/EvoMap/evolver",
+  "source_type": "github",
+  "raw_source_id": "raw_gh_20250421_013",
+  "summary_zh": "基于基因组进化协议（GEP）的 AI Agent 自我进化引擎。为 AI 智能体提供自我进化和能力提升的能力，通过模拟生物进化机制，让 Agent 能够自主学习和适应，持续优化决策和执行能力。",
+  "key_points": [
+    "基于基因组进化协议（GEP）",
+    "模拟生物进化机制实现自我进化",
+    "持续提升 Agent 决策和执行能力",
+    "创新的 AI 能力自主进化框架"
+  ],
+  "popularity_score": 4032,
+  "quality_score": 8,
+  "tags": ["agent", "evolution", "gep", "self-improvement", "framework"],
+  "status": "approved",
+  "priority": "medium",
+  "channels": ["telegram", "feishu"],
+  "collected_at": "2025-04-21T08:30:00Z",
+  "analyzed_at": "2025-04-21T09:00:00Z",
+  "processed_at": "2025-04-21T10:00:00Z",
+  "file_path": "articles/2025-04/20250421-gh-evolver.json"
+}
