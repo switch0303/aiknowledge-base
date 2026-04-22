@@ -1,0 +1,21 @@
+{
+  "id": "kba_20260422012",
+  "title": "MarkItdown：微软文档转 Markdown 工具",
+  "source_url": "https://github.com/microsoft/markitdown",
+  "source_type": "github",
+  "raw_id": "raw_gh_20260422_12",
+  "summary": "MarkItdown：微软开源文档转换工具，将 PDF、Office 文档批量转为 Markdown 格式。专为 LLM 文档处理和 RAG 应用设计，保留结构化信息便于检索。",
+  "highlights": [
+    "格式支持广：PDF、DOCX、PPTX、XLSX、HTML 等",
+    "RAG 优化：保留文档结构，便于切分和检索",
+    "微软品质：Microsoft 出品，代码质量和文档完善"
+  ],
+  "tags": ["document", "markdown", "rag", "pdf"],
+  "quality_score": 8,
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "analyzed_at": "2026-04-22T14:00:00Z",
+  "processed_at": "2026-04-22T15:00:00Z",
+  "file_path": "articles/2026-04/20260422-gh-markitdown.json"
+}

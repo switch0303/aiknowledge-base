@@ -1,0 +1,21 @@
+{
+  "id": "kba_20260422005",
+  "title": "Huggingface Transformers：ML 模型标准库",
+  "source_url": "https://github.com/huggingface/transformers",
+  "source_type": "github",
+  "raw_id": "raw_gh_20260422_05",
+  "summary": "Transformers：Hugging Face 核心项目，业界领先的机器学习模型库。统一支持文本、视觉、音频多模态模型，提供预训练模型和简单 API，是 NLP 和 LLM 开发的事实标准。",
+  "highlights": [
+    "行业标准：159k stars，ML 领域使用最广泛的基础库",
+    "模型丰富：支持 100,000+ 预训练模型，覆盖全模态",
+    "API 统一：from_pretrained() 一行代码加载模型"
+  ],
+  "tags": ["transformers", "nlp", "multimodal", "model-hub"],
+  "quality_score": 9,
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "analyzed_at": "2026-04-22T14:00:00Z",
+  "processed_at": "2026-04-22T15:00:00Z",
+  "file_path": "articles/2026-04/20260422-gh-huggingface-transformers.json"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kba_20260422013",
+  "title": "Awesome LLM Apps：可运行 AI 应用精选集",
+  "source_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+  "source_type": "github",
+  "raw_id": "raw_gh_20260422_13",
+  "summary": "Awesome LLM Apps：精选 100+ 可直接运行的 AI Agent 和 RAG 应用集合。覆盖客服、文档处理、数据分析等场景，配有详细部署指南，一键克隆使用。",
+  "highlights": [
+    "实战导向：100+ 可直接运行的应用示例",
+    "场景覆盖：客服、文档、数据分析等主流场景",
+    "部署友好：配有详细文档，一键克隆"
+  ],
+  "tags": ["llm-apps", "collection", "examples", "rag"],
+  "quality_score": 6,
+  "status": "approved",
+  "priority": "medium",
+  "channels": ["telegram", "feishu"],
+  "analyzed_at": "2026-04-22T14:00:00Z",
+  "processed_at": "2026-04-22T15:00:00Z",
+  "file_path": "articles/2026-04/20260422-gh-awesome-llm-apps.json"
+}

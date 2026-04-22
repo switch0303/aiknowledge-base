@@ -1,0 +1,21 @@
+{
+  "id": "kba_20260422014",
+  "title": "vLLM：高吞吐量 LLM 推理引擎",
+  "source_url": "https://github.com/vllm-project/vllm",
+  "source_type": "github",
+  "raw_id": "raw_gh_20260422_14",
+  "summary": "vLLM：高吞吐量 LLM 推理引擎，支持 PagedAttention 内存优化。推理速度比 HuggingFace 快 24 倍，支持 Tensor Parallel 分布式部署，是大模型生产部署的首选。",
+  "highlights": [
+    "性能领先：推理速度比 HuggingFace 快 24 倍",
+    "内存高效：PagedAttention 减少 80% 显存占用",
+    "分布式支持：Tensor Parallel 支持多卡部署"
+  ],
+  "tags": ["inference", "performance", "llm-serving", "pytorch"],
+  "quality_score": 9,
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "analyzed_at": "2026-04-22T14:00:00Z",
+  "processed_at": "2026-04-22T15:00:00Z",
+  "file_path": "articles/2026-04/20260422-gh-vllm.json"
+}

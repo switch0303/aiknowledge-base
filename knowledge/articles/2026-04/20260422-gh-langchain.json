@@ -1,0 +1,21 @@
+{
+  "id": "kba_20260422009",
+  "title": "LangChain：业界最流行 LLM 应用框架",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "source_type": "github",
+  "raw_id": "raw_gh_20260422_09",
+  "summary": "LangChain：业界最流行 LLM 应用开发框架，提供 Agent、Memory、Tools 等丰富组件。生态完善、文档详尽，是构建复杂 LLM 应用的首选工具。",
+  "highlights": [
+    "生态最大：134k stars，周下载量百万级",
+    "组件完善：Agent、Memory、Tools、Retrieval 全覆盖",
+    "文档详尽：官方文档和教程最完善的新手友好框架"
+  ],
+  "tags": ["langchain", "llm", "rag", "agents", "framework"],
+  "quality_score": 8,
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "analyzed_at": "2026-04-22T14:00:00Z",
+  "processed_at": "2026-04-22T15:00:00Z",
+  "file_path": "articles/2026-04/20260422-gh-langchain.json"
+}

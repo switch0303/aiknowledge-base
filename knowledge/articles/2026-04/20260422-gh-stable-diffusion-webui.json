@@ -1,0 +1,21 @@
+{
+  "id": "kba_20260422004",
+  "title": "Stable Diffusion WebUI：AI 图像生成界面",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "source_type": "github",
+  "raw_id": "raw_gh_20260422_04",
+  "summary": "Stable Diffusion WebUI：最流行的 AI 图像生成 Web 界面，基于 Stable Diffusion 模型。支持文生图、图生图、超分辨率等功能，拥有丰富的插件生态和活跃社区。",
+  "highlights": [
+    "用户规模大：162k stars，SD 社区最受欢迎的前端",
+    "功能全面：文生图、图生图、超分、ControlNet 等",
+    "插件生态：数千款社区插件，定制能力强"
+  ],
+  "tags": ["image-generation", "stable-diffusion", "webui", "plugins"],
+  "quality_score": 8,
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "analyzed_at": "2026-04-22T14:00:00Z",
+  "processed_at": "2026-04-22T15:00:00Z",
+  "file_path": "articles/2026-04/20260422-gh-stable-diffusion-webui.json"
+}

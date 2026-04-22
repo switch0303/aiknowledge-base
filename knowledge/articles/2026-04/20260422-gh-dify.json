@@ -1,0 +1,21 @@
+{
+  "id": "kba_20260422008",
+  "title": "Dify：生产级 Agent 工作流平台",
+  "source_url": "https://github.com/langgenius/dify",
+  "source_type": "github",
+  "raw_id": "raw_gh_20260422_08",
+  "summary": "Dify：生产级 Agent 工作流开发平台，提供从原型到部署的完整工具链。支持 RAG、Agent、MCP 等主流模式，可视化编排降低 AI 应用开发门槛。",
+  "highlights": [
+    "功能完整：原型设计、API 部署、日志监控一体化",
+    "多模式支持：Agent、RAG、Workflow、MCP",
+    "企业级特性：SSO、权限管理、团队协作"
+  ],
+  "tags": ["agent", "workflow", "production", "mcp"],
+  "quality_score": 8,
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "analyzed_at": "2026-04-22T14:00:00Z",
+  "processed_at": "2026-04-22T15:00:00Z",
+  "file_path": "articles/2026-04/20260422-gh-dify.json"
+}

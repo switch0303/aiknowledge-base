@@ -1,0 +1,21 @@
+{
+  "id": "kba_20260422003",
+  "title": "Superpowers：Agentic 开发框架",
+  "source_url": "https://github.com/obra/superpowers",
+  "source_type": "github",
+  "raw_id": "raw_gh_20260422_03",
+  "summary": "Superpowers：创新的 Agentic 开发框架和软件开发方法论，将 AI Agent 技能与实际开发流程深度融合。强调实战导向，帮助团队构建真正可用的 Agent 系统。",
+  "highlights": [
+    "方法论创新：提出 Agentic 软件开发新范式",
+    "实战导向：强调从实际项目出发的技能积累",
+    "框架无关：不绑定特定 Agent 框架，灵活适配"
+  ],
+  "tags": ["agentic", "methodology", "framework"],
+  "quality_score": 7,
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "analyzed_at": "2026-04-22T14:00:00Z",
+  "processed_at": "2026-04-22T15:00:00Z",
+  "file_path": "articles/2026-04/20260422-gh-superpowers.json"
+}

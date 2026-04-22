@@ -1,0 +1,21 @@
+{
+  "id": "kba_20260422002",
+  "title": "Ollama：本地 LLM 运行框架",
+  "source_url": "https://github.com/ollama/ollama",
+  "source_type": "github",
+  "raw_id": "raw_gh_20260422_02",
+  "summary": "Ollama：本地 LLM 运行框架，一键部署 Qwen、DeepSeek、GLM、MiniMax 等主流开源大模型。省去 API 调用成本，支持 GPU 加速，适合隐私敏感场景和离线开发。",
+  "highlights": [
+    "生态完善：支持 Qwen、DeepSeek、GLM、MiniMax 等 20+ 模型",
+    "零配置：一条命令即可运行模型，无需 API Key",
+    "隐私友好：数据完全本地处理，满足企业合规需求"
+  ],
+  "tags": ["llm", "local-deployment", "privacy", "go"],
+  "quality_score": 9,
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "analyzed_at": "2026-04-22T14:00:00Z",
+  "processed_at": "2026-04-22T15:00:00Z",
+  "file_path": "articles/2026-04/20260422-gh-ollama.json"
+}

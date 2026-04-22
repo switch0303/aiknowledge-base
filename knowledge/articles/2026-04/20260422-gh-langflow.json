@@ -1,0 +1,21 @@
+{
+  "id": "kba_20260422007",
+  "title": "Langflow：可视化 AI 工作流构建工具",
+  "source_url": "https://github.com/langflow-ai/langflow",
+  "source_type": "github",
+  "raw_id": "raw_gh_20260422_07",
+  "summary": "Langflow：强大的可视化 AI 工作流构建工具，拖拽式设计 Agent 和 RAG 流水线。无需编写代码即可快速原型验证，支持导出为 Python 代码用于生产部署。",
+  "highlights": [
+    "低代码门槛：拖拽编排，无需编写代码即可原型",
+    "导出能力：可导出 Python 代码用于生产",
+    "LangChain 集成：与 LangChain 生态无缝对接"
+  ],
+  "tags": ["langchain", "visual-flow", "low-code", "rag"],
+  "quality_score": 8,
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "analyzed_at": "2026-04-22T14:00:00Z",
+  "processed_at": "2026-04-22T15:00:00Z",
+  "file_path": "articles/2026-04/20260422-gh-langflow.json"
+}

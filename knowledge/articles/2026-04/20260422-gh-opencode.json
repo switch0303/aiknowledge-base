@@ -1,0 +1,21 @@
+{
+  "id": "kba_20260422006",
+  "title": "OpenCode：开源 AI 编程助手",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "source_type": "github",
+  "raw_id": "raw_gh_20260422_06",
+  "summary": "OpenCode：开源 AI 编程助手，支持多模型协作和代码编辑。通过自然语言交互帮助开发者完成代码修改、Bug 修复和功能开发，提升编程效率。",
+  "highlights": [
+    "开源标杆：147k stars，开源编程助手的代表项目",
+    "多模型支持：可对接多种 LLM 后端",
+    "上下文理解：支持代码库级别的上下文感知"
+  ],
+  "tags": ["coding-agent", "ide", "open-source"],
+  "quality_score": 8,
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "analyzed_at": "2026-04-22T14:00:00Z",
+  "processed_at": "2026-04-22T15:00:00Z",
+  "file_path": "articles/2026-04/20260422-gh-opencode.json"
+}

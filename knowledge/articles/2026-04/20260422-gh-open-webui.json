@@ -1,0 +1,21 @@
+{
+  "id": "kba_20260422010",
+  "title": "Open WebUI：开源 AI 聊天界面",
+  "source_url": "https://github.com/open-webui/open-webui",
+  "source_type": "github",
+  "raw_id": "raw_gh_20260422_10",
+  "summary": "Open WebUI：开源 AI 聊天界面，支持 Ollama 等多种后端。自托管部署保护隐私，界面美观功能丰富，是构建私有 AI 助手的好选择。",
+  "highlights": [
+    "隐私保护：完全自托管，数据不出本地",
+    "多后端兼容：Ollama、OpenAI API、Azure OpenAI",
+    "界面美观：现代化 UI，功能齐全"
+  ],
+  "tags": ["llm-ui", "self-hosted", "ollama", "privacy"],
+  "quality_score": 7,
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "analyzed_at": "2026-04-22T14:00:00Z",
+  "processed_at": "2026-04-22T15:00:00Z",
+  "file_path": "articles/2026-04/20260422-gh-open-webui.json"
+}

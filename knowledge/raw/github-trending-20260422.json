@@ -1,0 +1,159 @@
+{
+  "source": "github-trending",
+  "skill": "github-trending",
+  "collected_at": "2026-04-22T13:00:00Z",
+  "period": "weekly",
+  "total_count": 15,
+  "items": [
+    {
+      "id": "raw_gh_20260422_01",
+      "name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "summary": "AutoGPT：开源自主 AI Agent 先驱项目，让任何人都能轻松构建和使用 AI Agent。提供模块化工具集，支持自主任务规划和执行，适合开发者快速入门 Agent 开发。",
+      "stars": 183663,
+      "language": "Python",
+      "topics": ["agentic-ai", "agents", "ai", "autonomous-agents", "claude", "gpt", "llm"],
+      "author": "Significant-Gravitas"
+    },
+    {
+      "id": "raw_gh_20260422_02",
+      "name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "summary": "Ollama：本地 LLM 运行框架，一键部署 Qwen、DeepSeek、GLM、MiniMax 等主流开源大模型。省去 API 调用成本，支持 GPU 加速，适合隐私敏感场景和离线开发。",
+      "stars": 169686,
+      "language": "Go",
+      "topics": ["llm", "llama", "qwen", "deepseek", "gemma", "ollama", "mistral"],
+      "author": "ollama"
+    },
+    {
+      "id": "raw_gh_20260422_03",
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "Superpowers：创新的 Agentic 开发框架和软件开发方法论，将 AI Agent 技能与实际开发流程深度融合。强调实战导向，帮助团队构建真正可用的 Agent 系统。",
+      "stars": 163915,
+      "language": "Shell",
+      "topics": ["agentic-ai", "agents", "software-development"],
+      "author": "obra"
+    },
+    {
+      "id": "raw_gh_20260422_04",
+      "name": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "summary": "Stable Diffusion WebUI：最流行的 AI 图像生成 Web 界面，基于 Stable Diffusion 模型。支持文生图、图生图、超分辨率等功能，拥有丰富的插件生态和活跃社区。",
+      "stars": 162541,
+      "language": "Python",
+      "topics": ["stable-diffusion", "image-generation", "deep-learning", "ai-art", "diffusion"],
+      "author": "AUTOMATIC1111"
+    },
+    {
+      "id": "raw_gh_20260422_05",
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "summary": "Transformers：Hugging Face 核心项目，业界领先的机器学习模型库。统一支持文本、视觉、音频多模态模型，提供预训练模型和简单 API，是 NLP 和 LLM 开发的事实标准。",
+      "stars": 159743,
+      "language": "Python",
+      "topics": ["transformers", "machine-learning", "nlp", "deep-learning", "pretrained-models"],
+      "author": "huggingface"
+    },
+    {
+      "id": "raw_gh_20260422_06",
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "summary": "OpenCode：开源 AI 编程助手，支持多模型协作和代码编辑。通过自然语言交互帮助开发者完成代码修改、Bug 修复和功能开发，提升编程效率。",
+      "stars": 147502,
+      "language": "TypeScript",
+      "topics": ["ai", "coding-agent", "llm"],
+      "author": "anomalyco"
+    },
+    {
+      "id": "raw_gh_20260422_07",
+      "name": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "summary": "Langflow：强大的可视化 AI 工作流构建工具，拖拽式设计 Agent 和 RAG 流水线。无需编写代码即可快速原型验证，支持导出为 Python 代码用于生产部署。",
+      "stars": 147244,
+      "language": "Python",
+      "topics": ["langflow", "agents", "rag", "visual-flow-builder"],
+      "author": "langflow-ai"
+    },
+    {
+      "id": "raw_gh_20260422_08",
+      "name": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "summary": "Dify：生产级 Agent 工作流开发平台，提供从原型到部署的完整工具链。支持 RAG、Agent、MCP 等主流模式，可视化编排降低 AI 应用开发门槛。",
+      "stars": 138757,
+      "language": "TypeScript",
+      "topics": ["agent", "agentic-workflow", "rag", "llm", "no-code"],
+      "author": "langgenius"
+    },
+    {
+      "id": "raw_gh_20260422_09",
+      "name": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "summary": "LangChain：业界最流行的 LLM 应用开发框架，提供 Agent、Memory、Tools 等丰富组件。生态完善、文档详尽，是构建复杂 LLM 应用的首选工具。",
+      "stars": 134482,
+      "language": "Python",
+      "topics": ["langchain", "agents", "llm", "rag", "framework"],
+      "author": "langchain-ai"
+    },
+    {
+      "id": "raw_gh_20260422_10",
+      "name": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "summary": "Open WebUI：开源 AI 聊天界面，支持 Ollama、OpenAI API 等多种后端。自托管部署保护隐私，界面美观功能丰富，是构建私有 AI 助手的好选择。",
+      "stars": 133291,
+      "language": "Python",
+      "topics": ["llm-ui", "ollama", "openai", "rag", "self-hosted"],
+      "author": "open-webui"
+    },
+    {
+      "id": "raw_gh_20260422_11",
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "summary": "Anthropic Skills：Claude 官方技能库，提供预构建的 Agent 能力扩展。开发者可基于 Skills 快速赋予 Claude 特定领域技能，加速应用开发。",
+      "stars": 122145,
+      "language": "Python",
+      "topics": ["agent-skills", "claude", "anthropic"],
+      "author": "anthropics"
+    },
+    {
+      "id": "raw_gh_20260422_12",
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "summary": "MarkItdown：微软开源文档转换工具，将 PDF、Office 文档批量转为 Markdown 格式。专为 LLM 文档处理和 RAG 应用设计，保留结构化信息便于检索。",
+      "stars": 114546,
+      "language": "Python",
+      "topics": ["markdown", "microsoft-office", "pdf", "llm"],
+      "author": "microsoft"
+    },
+    {
+      "id": "raw_gh_20260422_13",
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "summary": "Awesome LLM Apps：精选 100+ 可直接运行的 AI Agent 和 RAG 应用集合。覆盖客服、文档处理、数据分析等场景，配有详细部署指南，一键克隆使用。",
+      "stars": 106850,
+      "language": "Python",
+      "topics": ["llm-apps", "rag", "agents", "python"],
+      "author": "Shubhamsaboo"
+    },
+    {
+      "id": "raw_gh_20260422_14",
+      "name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "summary": "vLLM：高吞吐量 LLM 推理引擎，支持 PagedAttention 内存优化。推理速度比 HuggingFace 快 24 倍，支持 Tensor Parallel 分布式部署，是大模型生产部署的首选。",
+      "stars": 77688,
+      "language": "Python",
+      "topics": ["llm", "inference", "model-serving", "pytorch"],
+      "author": "vllm-project"
+    },
+    {
+      "id": "raw_gh_20260422_15",
+      "name": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "summary": "RAGFlow：新一代 RAG 引擎，融合 Agent 能力构建深度上下文理解层。支持多种文档格式的智能解析和检索，大幅提升 LLM 回答准确性和可控性。",
+      "stars": 72000,
+      "language": "Python",
+      "topics": ["rag", "agent", "llm", "retrieval-augmented-generation"],
+      "author": "infiniflow"
+    }
+  ]
+}

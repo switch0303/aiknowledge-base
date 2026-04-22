@@ -1,0 +1,21 @@
+{
+  "id": "kba_20260422001",
+  "title": "AutoGPT：开源自主 AI Agent 先驱",
+  "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "source_type": "github",
+  "raw_id": "raw_gh_20260422_01",
+  "summary": "AutoGPT：开源自主 AI Agent 先驱项目，让任何人都能轻松构建和使用 AI Agent。提供模块化工具集，支持自主任务规划和执行，适合开发者快速入门 Agent 开发。",
+  "highlights": [
+    "先驱地位：GitHub 183k stars，AI Agent 领域的开创者",
+    "模块化架构：提供 Tools、Goals、Memory 组件可复用",
+    "学习价值高：适合入门 Agent 开发，理解核心概念"
+  ],
+  "tags": ["agent", "autonomous", "python", "tools"],
+  "quality_score": 8,
+  "status": "approved",
+  "priority": "high",
+  "channels": ["telegram", "feishu"],
+  "analyzed_at": "2026-04-22T14:00:00Z",
+  "processed_at": "2026-04-22T15:00:00Z",
+  "file_path": "articles/2026-04/20260422-gh-autogpt.json"
+}
