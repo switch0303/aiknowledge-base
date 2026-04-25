@@ -1,0 +1,38 @@
+{
+  "id": "github-1185590488",
+  "title": "ai-engineering-from-scratch",
+  "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+  "source_type": "github",
+  "summary": "该内容标题为“ai-engineering-from-scratch”，来源于GitHub，描述为“Learn it. Build it. Ship it for others.”，表明这是一个面向AI工程实践的学习资源或项目，旨在帮助用户从零开始学习AI工程，构建并交付可用的AI系统。内容可能涵盖AI工程的基础知识、开发流程、工具链、最佳实践以及如何将AI模型部署到生产环境。由于描述简短，具体内容深度和广度未知，但整体定位为教育性和实践性资源，适合初学者或希望系统掌握AI工程全流程的开发者。",
+  "tags": [
+    "实践指南",
+    "AI工程",
+    "学习资源",
+    "从零开始",
+    "GitHub项目"
+  ],
+  "category": "resource",
+  "content_en": "Learn it. Build it. Ship it for others.",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:25:27Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 4953,
+    "language": "Python",
+    "author": "rohitg00",
+    "created_at": "2026-03-18T18:38:02Z",
+    "updated_at": "2026-04-25T05:53:19Z"
+  },
+  "_analysis": {
+    "quality_score": 5,
+    "relevance_score": 8,
+    "language": "en"
+  }
+}

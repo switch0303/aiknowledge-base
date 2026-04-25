@@ -1,0 +1,246 @@
+{
+  "source": "rss",
+  "collected_at": "2026-04-25T07:24:49Z",
+  "items": [
+    {
+      "id": "rss-8fa0ef48ec61",
+      "source": "rss",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "title": "Google plans to invest up to $40B in Anthropic",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Fri, 24 Apr 2026 16:04:41 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-72a709e7446e",
+      "source": "rss",
+      "source_url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sat, 25 Apr 2026 05:56:12 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-ff031b3b83a8",
+      "source": "rss",
+      "source_url": "https://clad.you/blog/posts/questionnaire-mlp/",
+      "title": "A 3D Body from Eight Questions – No Photo, No GPU",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Wed, 22 Apr 2026 12:20:01 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-0690f00ca672",
+      "source": "rss",
+      "source_url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+      "title": "Paraloid B-72",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Wed, 22 Apr 2026 04:17:07 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-8466b92e9d64",
+      "source": "rss",
+      "source_url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
+      "title": "Humpback whales are forming super-groups",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Wed, 22 Apr 2026 02:55:49 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-9c1448cabebf",
+      "source": "rss",
+      "source_url": "https://github.com/magiblot/tvision",
+      "title": "Turbo Vision 2.0 – a modern port",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sat, 25 Apr 2026 04:18:01 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-7df92c1c003f",
+      "source": "rss",
+      "source_url": "https://hhh.hn/rodecaster-duo-fw/",
+      "title": "My audio interface has SSH enabled by default",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Fri, 24 Apr 2026 19:30:46 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-1a97c8683dd0",
+      "source": "rss",
+      "source_url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+      "title": "Replace IBM Quantum back end with &#x2F;dev&#x2F;urandom",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sat, 25 Apr 2026 00:58:38 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-c6d2cd33a764",
+      "source": "rss",
+      "source_url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+      "title": "\"Plain text has been around for decades and it&#x27;s here to stay.\" – Unsung",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sat, 25 Apr 2026 01:03:09 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-f150efc88db1",
+      "source": "rss",
+      "source_url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Fri, 24 Apr 2026 14:28:52 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-257ef25326e5",
+      "source": "rss",
+      "source_url": "https://www.thehistoryblog.com/archives/75877",
+      "title": "Iliad fragment found in Roman-era mummy",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Wed, 22 Apr 2026 14:18:35 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-805822603c03",
+      "source": "rss",
+      "source_url": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
+      "title": "(Blender) Cosmology with Geometry Nodes",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sat, 25 Apr 2026 01:08:14 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-4430dcd23dc9",
+      "source": "rss",
+      "source_url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+      "title": "The Classic American Diner",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Fri, 24 Apr 2026 19:01:09 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-6a414be1220b",
+      "source": "rss",
+      "source_url": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
+      "title": "Education must go beyond the mere production of words",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sat, 25 Apr 2026 00:11:43 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-bf3da348fb36",
+      "source": "rss",
+      "source_url": "https://arxiv.org/abs/2604.21691",
+      "title": "There Will Be a Scientific Theory of Deep Learning",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Fri, 24 Apr 2026 18:06:05 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-4eb2ed33740a",
+      "source": "rss",
+      "source_url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+      "title": "Firefox Has Integrated Brave&#x27;s Adblock Engine",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sat, 25 Apr 2026 01:47:33 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-3e29bae99639",
+      "source": "rss",
+      "source_url": "https://www.cell.com/current-biology/fulltext/S0960-9822(26)00259-9",
+      "title": "A disabled kea parrot is the alpha male of his circus",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Thu, 23 Apr 2026 05:07:51 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-53d54d8f57dd",
+      "source": "rss",
+      "source_url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
+      "title": "Work with the garage door up (2024)",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Tue, 21 Apr 2026 17:13:29 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-0ebd8746f1bc",
+      "source": "rss",
+      "source_url": "https://craigmod.com/essays/ipad_neo/",
+      "title": "MacBook Neo and how the iPad should be",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Thu, 23 Apr 2026 04:40:31 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    },
+    {
+      "id": "rss-5a3ec0272fff",
+      "source": "rss",
+      "source_url": "https://buttondown.com/blog/x400-vs-smtp-email",
+      "title": "Email could have been X.400 times better",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Thu, 23 Apr 2026 08:10:09 +0000"
+      },
+      "collected_at": "2026-04-25T07:24:48Z"
+    }
+  ]
+}

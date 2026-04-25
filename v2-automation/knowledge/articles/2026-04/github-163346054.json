@@ -1,0 +1,38 @@
+{
+  "id": "github-163346054",
+  "title": "ludwig",
+  "source_url": "https://github.com/ludwig-ai/ludwig",
+  "source_type": "github",
+  "summary": "Ludwig 是一个低代码框架，旨在简化自定义大型语言模型（LLMs）、神经网络及其他AI模型的构建过程。它通过提供声明式配置接口，使用户无需编写大量代码即可定义模型架构、训练流程和推理逻辑。该框架支持多种模型类型，包括文本分类、序列生成、图像识别等，并集成了数据预处理、超参数调优、模型部署等全流程功能。Ludwig 基于 TensorFlow 和 PyTorch 等主流深度学习库，兼容 GPU 加速，适合快速原型开发和生产环境部署。其核心优势在于降低AI开发门槛，使非专业开发者也能高效创建定制化模型，同时保持灵活性和可扩展性。该项目在GitHub上开源，拥有活跃的社区支持，适用于研究、工业应用和教育场景。",
+  "tags": [
+    "模型构建",
+    "LLM",
+    "AI开发",
+    "低代码框架",
+    "神经网络"
+  ],
+  "category": "framework",
+  "content_en": "Low-code framework for building custom LLMs, neural networks, and other AI models",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:25:17Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 11676,
+    "language": "Python",
+    "author": "ludwig-ai",
+    "created_at": "2018-12-27T23:58:12Z",
+    "updated_at": "2026-04-25T03:54:36Z"
+  },
+  "_analysis": {
+    "quality_score": 8,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

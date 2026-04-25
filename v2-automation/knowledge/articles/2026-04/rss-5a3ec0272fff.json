@@ -1,0 +1,35 @@
+{
+  "id": "rss-5a3ec0272fff",
+  "title": "Email could have been X.400 times better",
+  "source_url": "https://buttondown.com/blog/x400-vs-smtp-email",
+  "source_type": "rss",
+  "summary": "该内容标题为“Email could have been X.400 times better”，来源为RSS，但原始内容为空，无具体描述。标题暗示对电子邮件协议的历史比较，可能涉及X.400（一种基于OSI模型的电子邮件标准）与当前广泛使用的SMTP协议的优劣分析。X.400在1980年代被设计为更强大、更结构化的邮件系统，支持丰富的元数据、安全性和国际字符集，但因其复杂性、高成本和缺乏互联网生态支持而未能普及。相比之下，SMTP简单、轻量且易于部署，最终成为互联网邮件标准。标题中的“X.400 times better”可能是一种双关，既指X.400协议本身，也暗示其理论上比SMTP“好400倍”。由于缺乏正文，无法确认具体技术细节或作者观点，但推测内容属于技术历史或对比分析类文章。",
+  "tags": [
+    "X.400",
+    "电子邮件协议",
+    "技术历史",
+    "SMTP",
+    "协议对比"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:59Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Thu, 23 Apr 2026 08:10:09 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 2,
+    "language": "en"
+  }
+}

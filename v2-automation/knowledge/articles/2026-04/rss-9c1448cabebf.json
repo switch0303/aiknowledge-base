@@ -1,0 +1,35 @@
+{
+  "id": "rss-9c1448cabebf",
+  "title": "Turbo Vision 2.0 – a modern port",
+  "source_url": "https://github.com/magiblot/tvision",
+  "source_type": "rss",
+  "summary": "该内容标题为“Turbo Vision 2.0 – a modern port”，来源为RSS，但原始内容为空（No description）。根据标题推断，Turbo Vision 2.0 是一个经典文本用户界面（TUI）工具包的现代化移植版本，可能涉及对Borland Turbo Vision库的重写或适配，以支持现代操作系统和编译器。该工具通常用于构建基于DOS或控制台的交互式应用程序，具有窗口、菜单、对话框等组件。由于缺乏详细描述，无法确认具体技术细节或更新内容。整体上，该内容可能属于工具或资源类，面向对复古编程环境或TUI开发感兴趣的开发者。",
+  "tags": [
+    "Turbo Vision",
+    "文本用户界面",
+    "TUI",
+    "现代化移植",
+    "Borland"
+  ],
+  "category": "tool",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:15Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 04:18:01 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 4,
+    "language": "en"
+  }
+}

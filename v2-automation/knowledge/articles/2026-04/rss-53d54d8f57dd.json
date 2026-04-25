@@ -1,0 +1,35 @@
+{
+  "id": "rss-53d54d8f57dd",
+  "title": "Work with the garage door up (2024)",
+  "source_url": "https://notes.andymatuschak.org/Work_with_the_garage_door_up",
+  "source_type": "rss",
+  "summary": "该内容标题为“Work with the garage door up (2024)”，来源于RSS订阅，但未提供具体描述。从标题推测，可能是一篇关于在开放或透明环境下工作的技术文章或观点分享，强调在软件开发或技术工作中保持开放、协作和透明的工作方式。由于缺乏详细内容，无法确认具体技术细节或应用场景。该内容可能涉及团队协作、开源文化、远程工作或技术管理等领域。鉴于信息有限，分析结果存在较大不确定性。",
+  "tags": [
+    "工作方式",
+    "透明度",
+    "软件开发",
+    "协作",
+    "技术文化"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:52Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Tue, 21 Apr 2026 17:13:29 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 4,
+    "language": "en"
+  }
+}

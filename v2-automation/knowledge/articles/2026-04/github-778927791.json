@@ -1,0 +1,38 @@
+{
+  "id": "github-778927791",
+  "title": "cai",
+  "source_url": "https://github.com/ad-si/cai",
+  "source_type": "github",
+  "summary": "该内容介绍了一个名为'cai'的命令行界面（CLI）工具，旨在简化AI任务的处理流程。其核心理念是降低用户与大型语言模型（LLMs）及提示词（prompts）交互的复杂性，让用户能够直接获得结果，而无需深入思考底层模型或编写复杂的提示。该工具强调用户友好性，适合开发者和非技术用户快速执行AI相关操作，如文本生成、数据分析等。通过命令行方式，它可能集成了多种AI模型或API，提供简洁的接口以提升效率。整体上，这是一个面向实用场景的轻量级工具，专注于提升AI任务的可访问性和执行速度。",
+  "tags": [
+    "命令行界面",
+    "用户友好",
+    "LLM",
+    "CLI工具",
+    "AI任务"
+  ],
+  "category": "tool",
+  "content_en": "User friendly CLI tool for AI tasks. Stop thinking about LLMs and prompts, start getting results!",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:25:34Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 196,
+    "language": "Rust",
+    "author": "ad-si",
+    "created_at": "2024-03-28T17:24:35Z",
+    "updated_at": "2026-04-24T22:19:24Z"
+  },
+  "_analysis": {
+    "quality_score": 6,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

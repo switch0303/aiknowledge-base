@@ -1,0 +1,38 @@
+{
+  "id": "github-829640443",
+  "title": "tensorzero",
+  "source_url": "https://github.com/tensorzero/tensorzero",
+  "source_type": "github",
+  "summary": "TensorZero 是一个开源的 LLMOps 平台，旨在统一大语言模型（LLM）的网关、可观测性、评估、优化和实验功能。该平台为开发者提供了一套完整的工具链，用于管理 LLM 应用的整个生命周期，包括请求路由、性能监控、模型评估、自动调优以及 A/B 实验等关键环节。通过集成这些功能，TensorZero 帮助团队更高效地部署和迭代 LLM 驱动的产品，降低运营复杂度，并提升模型在实际场景中的表现。其开源特性使得社区可以自由定制和扩展，适用于从原型验证到生产级部署的多种场景。",
+  "tags": [
+    "模型优化",
+    "可观测性",
+    "LLMOps",
+    "LLM网关",
+    "开源平台"
+  ],
+  "category": "tool",
+  "content_en": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:25:37Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 11270,
+    "language": "Rust",
+    "author": "tensorzero",
+    "created_at": "2024-07-16T21:00:53Z",
+    "updated_at": "2026-04-24T22:10:49Z"
+  },
+  "_analysis": {
+    "quality_score": 8,
+    "relevance_score": 10,
+    "language": "en"
+  }
+}

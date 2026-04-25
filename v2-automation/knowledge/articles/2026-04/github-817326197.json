@@ -1,0 +1,38 @@
+{
+  "id": "github-817326197",
+  "title": "screenpipe",
+  "source_url": "https://github.com/screenpipe/screenpipe",
+  "source_type": "github",
+  "summary": "Screenpipe 是一个基于用户行为自动运行的 AI 代理工具，能够实时监控和分析用户在计算机上的操作，从而理解用户正在做什么，并据此执行相应的任务。该项目旨在让 AI 真正了解用户的实际行为，从而提供更智能、更个性化的自动化服务。通过捕捉屏幕活动、应用使用情况等数据，Screenpipe 可以驱动代理程序在后台自主工作，例如自动整理文件、生成报告、提醒待办事项等。该工具强调隐私和本地化处理，可能支持离线运行。其核心价值在于将 AI 与用户日常操作深度结合，实现无需手动指令的智能辅助。目前该项目在 GitHub 上开源，吸引了关注自动化与 AI 代理技术的开发者。",
+  "tags": [
+    "自动化工具",
+    "开源",
+    "屏幕监控",
+    "行为分析",
+    "AI代理"
+  ],
+  "category": "tool",
+  "content_en": "Run agents that work for you based on what you do. AI finally knows what you are doing",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:25:24Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 18387,
+    "language": "Rust",
+    "author": "screenpipe",
+    "created_at": "2024-06-19T13:23:56Z",
+    "updated_at": "2026-04-25T06:09:12Z"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

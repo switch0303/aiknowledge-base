@@ -1,0 +1,38 @@
+{
+  "id": "github-574523116",
+  "title": "prompts.chat",
+  "source_url": "https://github.com/f/prompts.chat",
+  "source_type": "github",
+  "summary": "该项目原名为“Awesome ChatGPT Prompts”，现更名为 prompts.chat，是一个开源社区驱动的提示词（prompts）分享平台。用户可以在该平台上发现、分享和收集各类ChatGPT提示词，旨在帮助用户更高效地使用ChatGPT等大语言模型。项目完全免费且开源，支持自托管部署，用户可以将平台部署在自己的组织中，从而获得完全的隐私保护。该资源汇集了来自社区的多样化提示词，覆盖写作、编程、创意、教育等多个应用场景，是学习和使用AI对话模型的重要参考工具。",
+  "tags": [
+    "社区资源",
+    "提示词",
+    "开源",
+    "AI工具",
+    "ChatGPT"
+  ],
+  "category": "resource",
+  "content_en": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:24:59Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 160576,
+    "language": "HTML",
+    "author": "f",
+    "created_at": "2022-12-05T13:54:13Z",
+    "updated_at": "2026-04-25T07:19:00Z"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

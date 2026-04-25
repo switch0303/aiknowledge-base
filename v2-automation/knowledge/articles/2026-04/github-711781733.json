@@ -1,0 +1,38 @@
+{
+  "id": "github-711781733",
+  "title": "googlegpt",
+  "source_url": "https://github.com/KudoAI/googlegpt",
+  "source_type": "github",
+  "summary": "该项目名为 googlegpt，是一个在 Google 搜索结果中集成 AI 聊天与摘要功能的工具。它利用最新的 LLM（大型语言模型）技术，为用户提供智能化的搜索体验，能够在 Google 搜索页面直接生成对话式回答和内容摘要，从而提升信息获取效率。该工具可能通过浏览器扩展或脚本形式实现，旨在将 AI 能力无缝嵌入日常搜索流程中。项目托管在 GitHub 上，面向开发者或普通用户，提供开源的解决方案。其核心价值在于降低用户在不同平台间切换的成本，使 AI 辅助搜索更加便捷和直观。",
+  "tags": [
+    "开源工具",
+    "AI搜索",
+    "浏览器扩展",
+    "LLM",
+    "Google集成"
+  ],
+  "category": "tool",
+  "content_en": "🤖 AI chat & search summaries in Google Search, powered by the latest LLMs",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:25:40Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 184,
+    "language": "JavaScript",
+    "author": "KudoAI",
+    "created_at": "2023-10-30T06:58:59Z",
+    "updated_at": "2026-04-24T21:32:55Z"
+  },
+  "_analysis": {
+    "quality_score": 6,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

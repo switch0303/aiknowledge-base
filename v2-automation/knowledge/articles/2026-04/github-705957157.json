@@ -1,0 +1,38 @@
+{
+  "id": "github-705957157",
+  "title": "lionagi",
+  "source_url": "https://github.com/khive-ai/lionagi",
+  "source_type": "github",
+  "summary": "lionagi 是一个面向通用人工智能（AGI）的软件开发工具包（SDK），旨在为开发者提供构建和集成 AGI 应用所需的核心组件与接口。该项目托管于 GitHub，可能包含模型调用、数据管理、任务编排等功能模块，以简化 AGI 系统的开发流程。由于描述较为简略，具体技术细节和实现方式需进一步查看仓库代码和文档。整体上，lionagi 定位于 AGI 领域的开发工具，适合用于快速原型设计或复杂 AI 系统的构建。",
+  "tags": [
+    "SDK",
+    "开发工具",
+    "AGI",
+    "GitHub",
+    "人工智能"
+  ],
+  "category": "tool",
+  "content_en": "AGI SDK",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:25:50Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 392,
+    "language": "Python",
+    "author": "khive-ai",
+    "created_at": "2023-10-17T03:10:02Z",
+    "updated_at": "2026-04-24T21:04:15Z"
+  },
+  "_analysis": {
+    "quality_score": 4,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

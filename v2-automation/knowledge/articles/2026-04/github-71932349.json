@@ -1,0 +1,38 @@
+{
+  "id": "github-71932349",
+  "title": "ray",
+  "source_url": "https://github.com/ray-project/ray",
+  "source_type": "github",
+  "summary": "Ray 是一个专为人工智能工作负载设计的计算引擎，由核心分布式运行时和一组用于加速机器学习工作负载的AI库组成。其核心分布式运行时提供了任务调度、对象存储和分布式通信等基础能力，使得开发者能够轻松构建和扩展分布式应用。在此基础上，Ray 提供了一系列高级AI库，如用于强化学习的RLlib、用于超参数调优的Tune、用于数据处理的Datasets以及用于模型服务的Serve等，这些库极大地简化了机器学习管道的构建和部署过程。Ray 的设计目标是让分布式计算变得像单机编程一样简单，同时保持高性能和可扩展性。它支持Python和Java等多种编程语言，并能够与TensorFlow、PyTorch等主流深度学习框架无缝集成。Ray 在学术界和工业界都得到了广泛应用，尤其适用于需要大规模并行计算和复杂工作流编排的AI场景，如自动驾驶、自然语言处理和推荐系统等。",
+  "tags": [
+    "任务调度",
+    "分布式计算",
+    "AI引擎",
+    "机器学习",
+    "强化学习"
+  ],
+  "category": "framework",
+  "content_en": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:25:09Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 42298,
+    "language": "Python",
+    "author": "ray-project",
+    "created_at": "2016-10-25T19:38:30Z",
+    "updated_at": "2026-04-25T06:40:28Z"
+  },
+  "_analysis": {
+    "quality_score": 8,
+    "relevance_score": 10,
+    "language": "en"
+  }
+}

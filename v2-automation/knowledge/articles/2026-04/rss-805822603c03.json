@@ -1,0 +1,35 @@
+{
+  "id": "rss-805822603c03",
+  "title": "(Blender) Cosmology with Geometry Nodes",
+  "source_url": "https://www.blender.org/user-stories/cosmology-with-geometry-nodes/",
+  "source_type": "rss",
+  "summary": "该内容标题为“(Blender) Cosmology with Geometry Nodes”，来源于RSS订阅，但原始内容描述为空。从标题推断，这很可能是一个关于在Blender中使用几何节点（Geometry Nodes）进行宇宙学（Cosmology）可视化或模拟的技术资源或教程。几何节点是Blender中用于程序化生成和操作几何体的强大工具，结合宇宙学主题，可能涉及星系、星云、宇宙结构等复杂三维场景的生成。由于缺乏具体描述，无法确认其详细内容、深度或技术价值，但标题暗示了其作为教学或演示资源的潜力。该内容可能面向Blender用户、数字艺术家或对程序化生成感兴趣的技术人员。",
+  "tags": [
+    "程序化生成",
+    "Geometry Nodes",
+    "宇宙学可视化",
+    "Blender",
+    "3D建模"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:36Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 01:08:14 +0000"
+  },
+  "_analysis": {
+    "quality_score": 4,
+    "relevance_score": 3,
+    "language": "en"
+  }
+}

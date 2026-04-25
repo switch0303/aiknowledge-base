@@ -1,0 +1,38 @@
+{
+  "id": "github-596516907",
+  "title": "DocsGPT",
+  "source_url": "https://github.com/arc53/DocsGPT",
+  "source_type": "github",
+  "summary": "DocsGPT 是一个面向企业级应用的私有AI平台，专注于为智能代理、助手和企业搜索提供支持。该平台内置了代理构建器（Agent Builder），允许用户自定义和部署AI代理；具备深度研究（Deep research）能力，能够进行复杂的分析任务；支持文档分析（Document analysis），可处理和理解企业文档内容；提供多模型支持（Multi-model support），兼容多种AI模型；并具备API连接能力（API connectivity），便于代理与外部系统集成。整体上，DocsGPT旨在为企业提供一个安全、可定制的AI基础设施，以提升内部知识管理和自动化水平。",
+  "tags": [
+    "文档分析",
+    "多模型支持",
+    "AI平台",
+    "智能代理",
+    "企业搜索"
+  ],
+  "category": "tool",
+  "content_en": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:25:53Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 17851,
+    "language": "Python",
+    "author": "arc53",
+    "created_at": "2023-02-02T11:03:23Z",
+    "updated_at": "2026-04-25T04:44:33Z"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

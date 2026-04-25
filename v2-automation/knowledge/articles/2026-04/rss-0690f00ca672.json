@@ -1,0 +1,35 @@
+{
+  "id": "rss-0690f00ca672",
+  "title": "Paraloid B-72",
+  "source_url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+  "source_type": "rss",
+  "summary": "该内容标题为“Paraloid B-72”，来源为RSS，但原始内容为空，无具体描述。Paraloid B-72是一种常见的丙烯酸树脂，广泛应用于文物保护、艺术品修复、涂料和粘合剂等领域，具有优异的透明性、耐老化性和可逆性。由于缺乏具体内容，无法获取详细技术信息或上下文。",
+  "tags": [
+    "修复技术",
+    "文物保护",
+    "丙烯酸树脂",
+    "材料科学",
+    "涂料"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:09Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 22 Apr 2026 04:17:07 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

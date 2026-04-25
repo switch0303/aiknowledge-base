@@ -1,0 +1,38 @@
+{
+  "id": "github-95700338",
+  "title": "trainer",
+  "source_url": "https://github.com/kubeflow/trainer",
+  "source_type": "github",
+  "summary": "该内容介绍了一个名为'trainer'的工具或框架，专注于在Kubernetes集群上进行分布式AI模型训练和大语言模型（LLM）的微调。它旨在简化在Kubernetes环境中部署和管理大规模训练任务的过程，支持分布式训练策略（如数据并行、模型并行），并可能集成常见的LLM微调技术（如LoRA、QLoRA）。通过利用Kubernetes的容器编排能力，该工具能够实现资源的高效调度、弹性扩展和任务自动化，从而降低AI工程师在基础设施层面的操作复杂度。内容可能涵盖了架构设计、核心功能、使用示例以及与现有AI框架（如PyTorch、TensorFlow）的集成方式。整体上，这是一个面向DevOps和AI研究人员的实用资源，旨在提升模型训练和微调的生产力。",
+  "tags": [
+    "容器编排",
+    "Kubernetes",
+    "AI模型训练",
+    "LLM微调",
+    "分布式训练"
+  ],
+  "category": "tool",
+  "content_en": "Distributed AI Model Training and LLM Fine-Tuning on Kubernetes",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:25:21Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 2092,
+    "language": "Go",
+    "author": "kubeflow",
+    "created_at": "2017-06-28T18:38:14Z",
+    "updated_at": "2026-04-25T02:38:34Z"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

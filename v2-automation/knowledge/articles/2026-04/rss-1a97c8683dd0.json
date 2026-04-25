@@ -1,0 +1,35 @@
+{
+  "id": "rss-1a97c8683dd0",
+  "title": "Replace IBM Quantum back end with &#x2F;dev&#x2F;urandom",
+  "source_url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
+  "source_type": "rss",
+  "summary": "该内容标题为“Replace IBM Quantum back end with /dev/urandom”，暗示一种将IBM量子计算后端替换为Linux系统中的/dev/urandom随机数生成器的技术思路或实验。这通常意味着使用经典计算机的伪随机数生成器来模拟或替代量子计算中的随机性来源，可能用于测试、对比或教学目的。由于原始内容没有提供详细描述，分析基于标题推断：该内容可能涉及量子计算与经典随机数生成器的对比，探讨在特定场景下用经典随机数替代量子随机数的可行性、性能差异或安全影响。内容可能属于技术博客、实验报告或讨论帖，具有技术探索性质，但缺乏具体细节，深度有限。",
+  "tags": [
+    "量子计算",
+    "IBM Quantum",
+    "随机数生成",
+    "安全",
+    "Linux"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:23Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 00:58:38 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 6,
+    "language": "en"
+  }
+}

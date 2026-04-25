@@ -1,0 +1,38 @@
+{
+  "id": "github-136202695",
+  "title": "mlflow",
+  "source_url": "https://github.com/mlflow/mlflow",
+  "source_type": "github",
+  "summary": "MLflow是一个开源的AI工程平台，专注于支持代理（agents）、大语言模型（LLMs）和传统机器学习模型的全生命周期管理。该平台旨在帮助不同规模的团队对生产级AI应用进行调试、评估、监控和优化，同时有效控制成本并管理模型与数据的访问权限。MLflow提供了统一的工具链，覆盖从实验跟踪、模型注册、部署到监控的完整流程，使得AI应用的开发与运维更加标准化和高效。其核心价值在于降低AI工程化的门槛，提升团队协作效率，并确保模型在生产环境中的可靠性与可追溯性。作为GitHub上的热门开源项目，MLflow已被广泛应用于各类AI项目的工程实践中。",
+  "tags": [
+    "模型管理",
+    "开源工具",
+    "MLflow",
+    "AI工程平台",
+    "大语言模型"
+  ],
+  "category": "tool",
+  "content_en": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:25:13Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 25553,
+    "language": "Python",
+    "author": "mlflow",
+    "created_at": "2018-06-05T16:05:58Z",
+    "updated_at": "2026-04-25T06:40:17Z"
+  },
+  "_analysis": {
+    "quality_score": 8,
+    "relevance_score": 10,
+    "language": "en"
+  }
+}

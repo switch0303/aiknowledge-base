@@ -1,0 +1,35 @@
+{
+  "id": "rss-bf3da348fb36",
+  "title": "There Will Be a Scientific Theory of Deep Learning",
+  "source_url": "https://arxiv.org/abs/2604.21691",
+  "source_type": "rss",
+  "summary": "该内容标题为“There Will Be a Scientific Theory of Deep Learning”，源自rss，但原始内容为空，缺乏具体描述。从标题推断，该内容可能探讨深度学习领域未来将形成科学理论的前景，涉及深度学习理论基础、可解释性、数学框架等方向。由于无具体内容，无法提供详细摘要。",
+  "tags": [
+    "未来展望",
+    "科学理论",
+    "深度学习",
+    "理论基础",
+    "可解释性"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:43Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Fri, 24 Apr 2026 18:06:05 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 8,
+    "language": "en"
+  }
+}
