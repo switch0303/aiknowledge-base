@@ -25,7 +25,10 @@ from urllib.parse import urljoin, urlparse
 import httpx
 
 # 导入 model_client
-from model_client import create_provider, chat_with_retry
+try:
+    from pipeline.model_client import create_provider, chat_with_retry
+except ImportError:
+    from model_client import create_provider, chat_with_retry
 
 # ============================================================================
 # 配置和常量
