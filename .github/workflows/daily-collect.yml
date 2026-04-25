@@ -38,7 +38,15 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           PYTHONPATH: ${{ github.workspace }}/v2-automation
         run: |
-          python pipeline/pipeline.py --sources github,rss --limit 20 --verbose 2>&1 | head -100
+          echo "=== Checking directory structure ==="
+          ls -la
+          echo "=== Checking pipeline directory ==="
+          ls -la pipeline/
+          echo "=== Testing Python import ==="
+          python -c "import sys; print(sys.path)"
+          python -c "from pipeline.model_client import create_provider; print('Import successful')"
+          echo "=== Running pipeline ==="
+          python pipeline/pipeline.py --sources github,rss --limit 20 --verbose 2>&1
 
       - name: Validate JSON files
         working-directory: v2-automation
