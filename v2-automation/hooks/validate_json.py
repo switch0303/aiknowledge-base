@@ -152,8 +152,8 @@ def main() -> int:
     files = expand_paths(sys.argv[1:])
 
     if not files:
-        print("No JSON files found")
-        sys.exit(1)
+        print("No JSON files found (nothing to validate)")
+        sys.exit(0)
 
     total_files = len(files)
     passed = 0
