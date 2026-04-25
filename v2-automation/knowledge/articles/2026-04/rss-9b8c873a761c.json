@@ -1,0 +1,35 @@
+{
+  "id": "rss-9b8c873a761c",
+  "title": "The mail sent to a video game publisher",
+  "source_url": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
+  "source_type": "rss",
+  "summary": "该内容标题为“The mail sent to a video game publisher”，来源为RSS，但原始内容为空，未提供任何描述或正文。因此无法提取具体的技术细节、观点或分析。标题暗示这可能是一封发送给视频游戏发行商的邮件，但缺乏上下文，无法判断其内容是否涉及技术讨论、商业合作、用户反馈或其他主题。由于内容缺失，无法进行有效的技术内容分析。",
+  "tags": [
+    "内容缺失",
+    "发行商",
+    "视频游戏",
+    "未分类",
+    "邮件"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T08:50:36Z",
+  "processed_at": "2026-04-25T08:52:38Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Tue, 21 Apr 2026 14:39:04 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}
