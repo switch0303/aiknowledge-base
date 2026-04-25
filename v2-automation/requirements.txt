@@ -1,5 +1,2 @@
 # HTTP Client
 httpx>=0.27.0
-
-# Python version requirement
-python-version>=3.10
