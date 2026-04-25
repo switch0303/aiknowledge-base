@@ -1,0 +1,48 @@
+# AI 知识库 RSS 数据源配置
+# 每个源包含：name(名称), url(RSS地址), category(分类), enabled(是否启用)
+# 数据量大的源默认设为 enabled: false
+
+sources:
+  # 综合技术
+  - name: Hacker News Best (AI 相关)
+    url: https://hnrss.org/best?q=ai OR llm OR agent OR machine OR deep OR neural OR language OR gpt
+    category: general
+    enabled: true
+
+  - name: Lobsters AI/ML
+    url: https://lobste.rs/t/ai+ml.rss
+    category: general
+    enabled: true
+
+  # AI 研究
+  - name: arXiv cs.AI
+    url: https://rss.arxiv.org/rss/cs.AI
+    category: research
+    enabled: false
+
+  # 公司博客
+  - name: OpenAI Blog
+    url: https://openai.com/blog/rss
+    category: blog
+    enabled: true
+
+  - name: Anthropic Research
+    url: https://www.anthropic.com/research/index.xml
+    category: blog
+    enabled: true
+
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    category: blog
+    enabled: true
+
+  # 中文社区 (默认禁用，需确认 RSS 可用性)
+  - name: 机器之心
+    url: https://www.jiqizhixin.com/rss
+    category: chinese
+    enabled: false
+
+  - name: 量子位
+    url: https://www.qbitai.com/feed
+    category: chinese
+    enabled: false
