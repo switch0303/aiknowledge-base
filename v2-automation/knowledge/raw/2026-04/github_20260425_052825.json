@@ -1,0 +1,36 @@
+{
+  "source": "github",
+  "collected_at": "2026-04-25T05:28:25Z",
+  "items": [
+    {
+      "id": "github-71932349",
+      "source": "github",
+      "source_url": "https://github.com/ray-project/ray",
+      "title": "ray",
+      "content": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "metadata": {
+        "stars": 42297,
+        "language": "Python",
+        "author": "ray-project",
+        "created_at": "2016-10-25T19:38:30Z",
+        "updated_at": "2026-04-25T05:22:32Z"
+      },
+      "collected_at": "2026-04-25T05:28:25Z"
+    },
+    {
+      "id": "github-614906119",
+      "source": "github",
+      "source_url": "https://github.com/superiorlu/AITreasureBox",
+      "title": "AITreasureBox",
+      "content": "🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎",
+      "metadata": {
+        "stars": 789,
+        "language": "Ruby",
+        "author": "superiorlu",
+        "created_at": "2023-03-16T14:55:55Z",
+        "updated_at": "2026-04-25T05:24:59Z"
+      },
+      "collected_at": "2026-04-25T05:28:25Z"
+    }
+  ]
+}
