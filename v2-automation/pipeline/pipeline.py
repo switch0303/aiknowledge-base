@@ -29,7 +29,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from model_client import create_provider, chat_with_retry
+from model_client import create_provider, chat_with_retry, tracker
 
 # ============================================================================
 # 配置和常量
@@ -851,6 +851,10 @@ class Pipeline:
         logger.info("  - Analyzed:  %d", self.stats['analyzed'])
         logger.info("  - Accepted:  %d", self.stats['accepted'])
         logger.info("  - Saved:     %d", self.stats['saved'])
+
+        # LLM 成本报告
+        if not self.dry_run:
+            tracker.report()
 
         return {
             'success': True,

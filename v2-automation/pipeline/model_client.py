@@ -79,18 +79,20 @@ class LLMProvider(ABC):
         ...         pass
     """
     
-    def __init__(self, api_key: str, base_url: str, model: str, **kwargs):
+    def __init__(self, api_key: str, base_url: str, model: str, provider_name: str = 'deepseek', **kwargs):
         """初始化提供商。
         
         Args:
             api_key: API 密钥
             base_url: API 基础 URL
             model: 默认模型名称
+            provider_name: 提供商名称（deepseek/qwen/openai）
             **kwargs: 其他配置参数
         """
         self.api_key = api_key
         self.base_url = base_url.rstrip('/')
         self.model = model
+        self.provider_name = provider_name.lower()
         self.config = kwargs
         self.client = httpx.Client(
             timeout=kwargs.get('timeout', 60.0),
@@ -240,6 +242,9 @@ class OpenAICompatibleProvider(LLMProvider):
                 f"Chat completed: model={llm_response.model}, "
                 f"tokens={usage.total_tokens}, latency={latency_ms:.1f}ms"
             )
+            
+            # 记录成本
+            tracker.record(usage, self.provider_name)
             
             return llm_response
             
@@ -439,6 +444,146 @@ MODEL_PRICING: Dict[str, tuple] = {
 }
 
 
+# ============================================================================
+# CostTracker 成本追踪
+# ============================================================================
+
+class CostTracker:
+    """LLM 调用成本追踪器。
+
+    追踪各提供商的 Token 消耗和估算成本，单位为人民币（元）。
+
+    价格表（元/百万 tokens）:
+        - deepseek: 输入 1, 输出 2
+        - qwen: 输入 4, 输出 12
+        - openai (gpt-4o-mini): 输入 150, 输出 600
+
+    Attributes:
+        records: 按提供商分组的调用记录列表
+
+    Example:
+        >>> tracker = CostTracker()
+        >>> tracker.record(Usage(1000, 500), 'deepseek')
+        >>> print(tracker.estimated_cost('deepseek'))
+        0.002
+        >>> tracker.report()
+    """
+
+    # 国产模型价格表（元/百万 tokens），格式: (input_price, output_price)
+    PRICING_CNY: Dict[str, tuple] = {
+        'deepseek': (1.0, 2.0),
+        'qwen': (4.0, 12.0),
+        'openai': (150.0, 600.0),
+    }
+
+    def __init__(self):
+        """初始化成本追踪器。"""
+        self.records: Dict[str, List[Usage]] = {
+            'deepseek': [],
+            'qwen': [],
+            'openai': [],
+        }
+        logger.debug("CostTracker initialized")
+
+    def record(self, usage: Usage, provider: str) -> None:
+        """记录一次 API 调用的 Token 使用情况。
+
+        Args:
+            usage: Token 使用统计对象
+            provider: 提供商名称（deepseek/qwen/openai）
+
+        Raises:
+            ValueError: 当提供商名称无效时
+        """
+        provider = provider.lower()
+        if provider not in self.records:
+            raise ValueError(
+                f"Unknown provider: {provider}. "
+                f"Supported: {list(self.records.keys())}"
+            )
+        self.records[provider].append(usage)
+        logger.debug(
+            f"Recorded usage for {provider}: "
+            f"prompt={usage.prompt_tokens}, completion={usage.completion_tokens}"
+        )
+
+    def estimated_cost(self, provider: Optional[str] = None) -> float:
+        """计算估算成本（元）。
+
+        Args:
+            provider: 提供商名称，None 表示计算所有提供商总成本
+
+        Returns:
+            估算的总成本（人民币，元）
+        """
+        total_cost = 0.0
+
+        if provider:
+            provider = provider.lower()
+            if provider not in self.records:
+                return 0.0
+            providers_to_calculate = [provider]
+        else:
+            providers_to_calculate = list(self.records.keys())
+
+        for p in providers_to_calculate:
+            input_price, output_price = self.PRICING_CNY[p]
+            for usage in self.records[p]:
+                # 转换为百万 tokens 计算
+                input_cost = (usage.prompt_tokens / 1_000_000) * input_price
+                output_cost = (usage.completion_tokens / 1_000_000) * output_price
+                total_cost += input_cost + output_cost
+
+        return round(total_cost, 6)
+
+    def report(self, provider: Optional[str] = None) -> None:
+        """打印成本报告。
+
+        Args:
+            provider: 提供商名称，None 表示显示所有提供商报告
+        """
+        if provider:
+            providers = [provider.lower()]
+        else:
+            providers = list(self.records.keys())
+
+        logger.info("=" * 60)
+        logger.info("LLM Cost Report (CNY)")
+        logger.info("=" * 60)
+
+        grand_total_tokens = 0
+        grand_total_cost = 0.0
+
+        for p in providers:
+            records = self.records[p]
+            if not records:
+                continue
+
+            total_prompt = sum(u.prompt_tokens for u in records)
+            total_completion = sum(u.completion_tokens for u in records)
+            total_tokens = total_prompt + total_completion
+            cost = self.estimated_cost(p)
+
+            logger.info(f"\n[{p.upper()}]")
+            logger.info(f"  Calls: {len(records)}")
+            logger.info(f"  Prompt tokens: {total_prompt:,}")
+            logger.info(f"  Completion tokens: {total_completion:,}")
+            logger.info(f"  Total tokens: {total_tokens:,}")
+            logger.info(f"  Estimated cost: ¥{cost:.4f}")
+
+            grand_total_tokens += total_tokens
+            grand_total_cost += cost
+
+        logger.info("\n" + "-" * 60)
+        logger.info(f"Total tokens across all providers: {grand_total_tokens:,}")
+        logger.info(f"Total estimated cost: ¥{grand_total_cost:.4f}")
+        logger.info("=" * 60)
+
+
+# 全局 tracker 实例
+tracker = CostTracker()
+
+
 def estimate_tokens(text: str, model: Optional[str] = None) -> int:
     """估算文本的 Token 数量。
     
@@ -623,6 +768,7 @@ def create_provider(
         api_key=api_key,
         base_url=config['base_url'],
         model=model_name,
+        provider_name=provider_name,
         **kwargs
     )
 
