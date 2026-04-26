@@ -1,0 +1,38 @@
+{
+  "id": "github-976390946",
+  "title": "machine-learning-interview-questions",
+  "source_url": "https://github.com/amitshekhariitbhu/machine-learning-interview-questions",
+  "source_type": "github",
+  "summary": "该内容是一个GitHub上的机器学习面试题库资源，标题为“Your Cheat Sheet for Machine Learning Interview – Questions and Answers”，旨在为准备机器学习相关岗位面试的求职者提供问答形式的复习材料。内容覆盖机器学习核心概念、算法原理、模型评估、特征工程、深度学习基础等常见面试问题，并附有参考答案。作为开源资源，它适合作为面试前的快速查阅和知识巩固工具，但缺乏深度推导和最新前沿话题。整体上是一个实用但非权威的面试准备资源。",
+  "tags": [
+    "面试题库",
+    "机器学习",
+    "GitHub资源",
+    "算法原理",
+    "求职准备"
+  ],
+  "category": "resource",
+  "content_en": "Your Cheat Sheet for Machine Learning Interview – Questions and Answers.",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-26T08:58:39Z",
+  "processed_at": "2026-04-26T08:59:42Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 177,
+    "language": "Markdown",
+    "author": "amitshekhariitbhu",
+    "created_at": "2025-05-02T03:03:34Z",
+    "updated_at": "2026-04-26T07:05:23Z"
+  },
+  "_analysis": {
+    "quality_score": 6,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rss-99aa8e1a1ea0",
+  "title": "The West Forgot How to Make Things. Now It&#x27;s Forgetting How to Code",
+  "source_url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+  "source_type": "rss",
+  "summary": "该内容标题指出西方世界曾失去制造能力，现在又面临编程能力衰退的危机。文章可能探讨了技术外包、教育体系变化、产业空心化等因素导致西方在硬件制造和软件开发领域的竞争力下降。内容涉及对技术产业趋势的反思，强调从制造到编程的技能流失对经济、创新和国家安全的影响。文章可能引用历史案例或数据，分析西方如何从工业革命时期的制造强国转变为依赖外部供应链，并在数字化时代面临编程人才短缺和外包依赖的问题。最终，内容呼吁重新重视基础制造和编程教育，以恢复技术自主性。",
+  "tags": [
+    "技术产业",
+    "编程能力",
+    "制造业衰退",
+    "教育体系",
+    "外包"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T08:59:48Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 06:24:42 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 8,
+    "language": "en"
+  }
+}

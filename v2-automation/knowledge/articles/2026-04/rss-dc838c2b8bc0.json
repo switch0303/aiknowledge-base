@@ -1,0 +1,35 @@
+{
+  "id": "rss-dc838c2b8bc0",
+  "title": "Quirks of Human Anatomy",
+  "source_url": "https://www.sdbonline.org/sites/fly/lewheldquirk/figlegq6.htm",
+  "source_type": "rss",
+  "summary": "该内容标题为“Quirks of Human Anatomy”，来源为RSS，但原始内容为空，无法获取具体的技术细节或分析。标题暗示可能讨论人体解剖学中的奇特现象或异常结构，但缺乏实际内容，无法进行深入的技术或AI相关分析。因此，摘要仅能基于标题推测其可能涉及生物学、医学或解剖学领域的趣味知识，但无实质信息可供总结。",
+  "tags": [
+    "科普",
+    "医学",
+    "人体解剖学",
+    "异常结构",
+    "生物学"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T09:00:22Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 04:31:14 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

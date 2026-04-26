@@ -1,0 +1,35 @@
+{
+  "id": "rss-37258a3ea5db",
+  "title": "The Free Universal Construction Kit",
+  "source_url": "https://fffff.at/free-universal-construction-kit/",
+  "source_type": "rss",
+  "summary": "该内容标题为“The Free Universal Construction Kit”，但原始内容为空，无法获取详细描述。根据标题推测，这可能是一个关于自由通用构建工具包的技术资源或项目，旨在提供一种跨平台或跨系统的通用构建解决方案。由于缺乏具体内容，无法确认其技术细节、功能特性或应用场景。该资源可能涉及软件开发、系统集成或硬件构建等领域，但需要进一步获取实际内容才能进行准确分析。",
+  "tags": [
+    "开源",
+    "通用工具包",
+    "构建工具",
+    "系统集成",
+    "资源"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T09:00:44Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 22 Apr 2026 07:20:23 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

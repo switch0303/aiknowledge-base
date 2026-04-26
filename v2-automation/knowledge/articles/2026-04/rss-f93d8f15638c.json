@@ -1,0 +1,35 @@
+{
+  "id": "rss-f93d8f15638c",
+  "title": "OpenAI Privacy Filter",
+  "source_url": "https://openai.com/index/introducing-openai-privacy-filter/",
+  "source_type": "rss",
+  "summary": "该内容标题为'OpenAI Privacy Filter'，来源于RSS订阅，但未提供具体描述。根据标题推测，该内容可能涉及OpenAI在隐私保护方面的技术或政策，例如数据过滤、用户隐私保护机制或相关工具。由于缺乏详细内容，无法确认具体技术细节或应用场景。整体上，该内容可能属于新闻或资源类，旨在介绍OpenAI在隐私过滤方面的最新进展或工具。",
+  "tags": [
+    "OpenAI",
+    "数据过滤",
+    "技术新闻",
+    "隐私保护",
+    "AI安全"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T09:00:30Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Thu, 23 Apr 2026 00:14:55 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 6,
+    "language": "en"
+  }
+}

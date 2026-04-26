@@ -1,0 +1,35 @@
+{
+  "id": "rss-8fc5188a0464",
+  "title": "Why has there been so little progress on Alzheimer&#x27;s disease?",
+  "source_url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+  "source_type": "rss",
+  "summary": "该内容标题为‘Why has there been so little progress on Alzheimer's disease?’，但原始内容为空，无法获取具体文本。通常此类标题探讨阿尔茨海默病研究进展缓慢的原因，可能涉及药物研发失败、疾病机制复杂性、临床试验设计挑战、资金分配问题或诊断技术局限等。由于缺乏实际内容，无法提供详细摘要。",
+  "tags": [
+    "疾病机制",
+    "神经科学",
+    "医学研究",
+    "药物研发",
+    "阿尔茨海默病"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T08:59:54Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 00:12:47 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

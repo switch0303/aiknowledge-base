@@ -1,0 +1,38 @@
+{
+  "id": "github-704959035",
+  "title": "AIGC-Interview-Book",
+  "source_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
+  "source_type": "github",
+  "summary": "该内容是一个名为《三年面试五年模拟》的AIGC算法工程师面试秘籍，托管于GitHub平台。它系统性地覆盖了AI行业多个前沿与经典领域的面试笔试干货、经验与核心知识，包括AIGC、大语言模型（LLM）、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙以及通用人工智能（AGI）等。该资源旨在为求职算法工程师岗位的候选人提供全面的备考材料，整合了从基础理论到最新技术趋势的面试要点，是一份综合性的学习与复习指南。",
+  "tags": [
+    "AIGC",
+    "面试秘籍",
+    "GitHub资源",
+    "算法工程师",
+    "大模型"
+  ],
+  "category": "resource",
+  "content_en": "",
+  "content_zh": "【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-26T08:58:39Z",
+  "processed_at": "2026-04-26T08:59:07Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 3576,
+    "language": "Unknown",
+    "author": "WeThinkIn",
+    "created_at": "2023-10-14T16:15:40Z",
+    "updated_at": "2026-04-26T04:37:13Z"
+  },
+  "_analysis": {
+    "quality_score": 8,
+    "relevance_score": 10,
+    "language": "zh"
+  }
+}

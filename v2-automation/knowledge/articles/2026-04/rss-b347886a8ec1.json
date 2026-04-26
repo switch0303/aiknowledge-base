@@ -1,0 +1,35 @@
+{
+  "id": "rss-b347886a8ec1",
+  "title": "Exposing Floating Point – Bartosz Ciechanowski (2019)",
+  "source_url": "https://ciechanow.ski/exposing-floating-point/",
+  "source_type": "rss",
+  "summary": "该内容为Bartosz Ciechanowski于2019年发布的一篇技术文章，深入剖析了浮点数在计算机中的表示原理与实现机制。文章从IEEE 754标准出发，详细解释了浮点数的二进制结构（符号位、指数位、尾数位）、规格化与非规格化数、特殊值（无穷大、NaN）以及精度限制等核心概念。通过直观的图表和交互式示例，作者揭示了浮点数运算中常见的舍入误差、溢出、下溢和精度丢失问题，并讨论了这些现象对科学计算、图形学及金融应用的实际影响。文章还涵盖了浮点数比较的陷阱、不同精度格式（如float32与float64）的差异，以及如何通过算法设计来缓解数值不稳定性。整体内容兼具理论深度与工程实践指导，适合计算机科学、数值分析及软件开发领域的读者。",
+  "tags": [
+    "技术科普",
+    "计算机体系结构",
+    "浮点数",
+    "数值计算",
+    "IEEE 754"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T08:59:58Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 07:19:20 +0000"
+  },
+  "_analysis": {
+    "quality_score": 9,
+    "relevance_score": 7,
+    "language": "en"
+  }
+}

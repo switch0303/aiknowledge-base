@@ -1,0 +1,35 @@
+{
+  "id": "rss-cb71f78e9a19",
+  "title": "EU Age Control: The trojan horse for digital IDs",
+  "source_url": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
+  "source_type": "rss",
+  "summary": "该内容标题为“EU Age Control: The trojan horse for digital IDs”，来源于RSS，但未提供具体描述。从标题推断，内容可能探讨欧盟在年龄控制（如在线年龄验证）方面的政策或技术措施，并暗示这些措施可能成为推广数字身份（Digital IDs）的“特洛伊木马”，即表面上是为保护未成年人而实施年龄控制，实则可能推动更广泛的数字身份系统建设。分析可能涉及欧盟的电子身份法规（eIDAS）、隐私保护、技术实现（如年龄验证API或区块链身份）以及潜在的社会影响。由于缺乏详细内容，摘要基于标题和常见技术讨论背景进行合理推测，强调数字身份与年龄控制之间的关联及潜在风险。",
+  "tags": [
+    "身份管理",
+    "欧盟法规",
+    "年龄验证",
+    "隐私保护",
+    "数字身份"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T09:00:38Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 03:44:28 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 5,
+    "language": "en"
+  }
+}

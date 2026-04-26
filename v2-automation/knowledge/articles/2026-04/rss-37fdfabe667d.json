@@ -1,0 +1,35 @@
+{
+  "id": "rss-37fdfabe667d",
+  "title": "Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
+  "source_url": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
+  "source_type": "rss",
+  "summary": "该内容为Terra API（YC W21）发布的招聘信息，职位为Applied AI Strategist（Health Intelligence）。Terra API是一家专注于健康数据整合的API平台，旨在通过统一接口连接可穿戴设备、医疗设备和健康应用。该职位要求候选人具备人工智能战略规划能力，专注于健康智能领域，可能涉及利用AI技术分析健康数据、优化算法策略以及推动产品在医疗健康场景中的应用。内容本身未提供详细描述，但结合标题和来源，可推断这是一则技术岗位招聘新闻，面向AI与健康交叉领域的人才。",
+  "tags": [
+    "人工智能战略",
+    "招聘",
+    "健康智能",
+    "API平台",
+    "YC创业公司"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T09:00:19Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 07:00:10 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 6,
+    "language": "en"
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "source": "github",
+  "collected_at": "2026-04-26T08:58:39Z",
+  "items": [
+    {
+      "id": "github-614906119",
+      "source": "github",
+      "source_url": "https://github.com/superiorlu/AITreasureBox",
+      "title": "AITreasureBox",
+      "content": "🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎",
+      "metadata": {
+        "stars": 790,
+        "language": "Ruby",
+        "author": "superiorlu",
+        "created_at": "2023-03-16T14:55:55Z",
+        "updated_at": "2026-04-26T08:42:32Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-1190778303",
+      "source": "github",
+      "source_url": "https://github.com/alvinreal/awesome-opensource-ai",
+      "title": "awesome-opensource-ai",
+      "content": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+      "metadata": {
+        "stars": 2983,
+        "language": "Python",
+        "author": "alvinreal",
+        "created_at": "2026-03-24T15:58:22Z",
+        "updated_at": "2026-04-26T08:34:57Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-574523116",
+      "source": "github",
+      "source_url": "https://github.com/f/prompts.chat",
+      "title": "prompts.chat",
+      "content": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "metadata": {
+        "stars": 160711,
+        "language": "HTML",
+        "author": "f",
+        "created_at": "2022-12-05T13:54:13Z",
+        "updated_at": "2026-04-26T08:28:38Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-163346054",
+      "source": "github",
+      "source_url": "https://github.com/ludwig-ai/ludwig",
+      "title": "ludwig",
+      "content": "Low-code framework for building custom LLMs, neural networks, and other AI models",
+      "metadata": {
+        "stars": 11678,
+        "language": "Python",
+        "author": "ludwig-ai",
+        "created_at": "2018-12-27T23:58:12Z",
+        "updated_at": "2026-04-26T08:32:30Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-71932349",
+      "source": "github",
+      "source_url": "https://github.com/ray-project/ray",
+      "title": "ray",
+      "content": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "metadata": {
+        "stars": 42312,
+        "language": "Python",
+        "author": "ray-project",
+        "created_at": "2016-10-25T19:38:30Z",
+        "updated_at": "2026-04-26T08:30:04Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-817326197",
+      "source": "github",
+      "source_url": "https://github.com/screenpipe/screenpipe",
+      "title": "screenpipe",
+      "content": "Run agents that work for you based on what you do. AI finally knows what you are doing",
+      "metadata": {
+        "stars": 18405,
+        "language": "Rust",
+        "author": "screenpipe",
+        "created_at": "2024-06-19T13:23:56Z",
+        "updated_at": "2026-04-26T08:23:49Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-722915433",
+      "source": "github",
+      "source_url": "https://github.com/SwanHubX/SwanLab",
+      "title": "SwanLab",
+      "content": "⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / verl / LLaMA Factory / ms-swift / Ultralytics / MMEngine / Keras etc.",
+      "metadata": {
+        "stars": 3870,
+        "language": "Python",
+        "author": "SwanHubX",
+        "created_at": "2023-11-24T08:54:45Z",
+        "updated_at": "2026-04-26T05:09:31Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-704959035",
+      "source": "github",
+      "source_url": "https://github.com/WeThinkIn/AIGC-Interview-Book",
+      "title": "AIGC-Interview-Book",
+      "content": "【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。",
+      "metadata": {
+        "stars": 3576,
+        "language": "Unknown",
+        "author": "WeThinkIn",
+        "created_at": "2023-10-14T16:15:40Z",
+        "updated_at": "2026-04-26T04:37:13Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-209120637",
+      "source": "github",
+      "source_url": "https://github.com/Netflix/metaflow",
+      "title": "metaflow",
+      "content": "Build, Manage and Deploy AI/ML Systems",
+      "metadata": {
+        "stars": 10056,
+        "language": "Python",
+        "author": "Netflix",
+        "created_at": "2019-09-17T17:48:25Z",
+        "updated_at": "2026-04-26T02:20:14Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-136202695",
+      "source": "github",
+      "source_url": "https://github.com/mlflow/mlflow",
+      "title": "mlflow",
+      "content": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
+      "metadata": {
+        "stars": 25566,
+        "language": "Python",
+        "author": "mlflow",
+        "created_at": "2018-06-05T16:05:58Z",
+        "updated_at": "2026-04-26T06:17:38Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-596516907",
+      "source": "github",
+      "source_url": "https://github.com/arc53/DocsGPT",
+      "title": "DocsGPT",
+      "content": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "metadata": {
+        "stars": 17849,
+        "language": "Python",
+        "author": "arc53",
+        "created_at": "2023-02-02T11:03:23Z",
+        "updated_at": "2026-04-26T00:53:45Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-829640443",
+      "source": "github",
+      "source_url": "https://github.com/tensorzero/tensorzero",
+      "title": "tensorzero",
+      "content": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+      "metadata": {
+        "stars": 11275,
+        "language": "Rust",
+        "author": "tensorzero",
+        "created_at": "2024-07-16T21:00:53Z",
+        "updated_at": "2026-04-26T06:55:55Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-1076969585",
+      "source": "github",
+      "source_url": "https://github.com/kayba-ai/agentic-context-engine",
+      "title": "agentic-context-engine",
+      "content": "🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai ",
+      "metadata": {
+        "stars": 2163,
+        "language": "Python",
+        "author": "kayba-ai",
+        "created_at": "2025-10-15T15:36:20Z",
+        "updated_at": "2026-04-25T20:56:06Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-1185590488",
+      "source": "github",
+      "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "title": "ai-engineering-from-scratch",
+      "content": "Learn it. Build it. Ship it for others.",
+      "metadata": {
+        "stars": 5077,
+        "language": "Python",
+        "author": "rohitg00",
+        "created_at": "2026-03-18T18:38:02Z",
+        "updated_at": "2026-04-26T08:54:52Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-394089041",
+      "source": "github",
+      "source_url": "https://github.com/spiceai/spiceai",
+      "title": "spiceai",
+      "content": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
+      "metadata": {
+        "stars": 2898,
+        "language": "Rust",
+        "author": "spiceai",
+        "created_at": "2021-08-08T23:26:13Z",
+        "updated_at": "2026-04-25T20:18:33Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-866517667",
+      "source": "github",
+      "source_url": "https://github.com/Andrew-Jang/RAGHub",
+      "title": "RAGHub",
+      "content": "A community-driven collection of RAG (Retrieval-Augmented Generation) frameworks, projects, and resources. Contribute and explore the evolving RAG ecosystem.",
+      "metadata": {
+        "stars": 1715,
+        "language": "Unknown",
+        "author": "Andrew-Jang",
+        "created_at": "2024-10-02T12:07:52Z",
+        "updated_at": "2026-04-25T19:31:32Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-639079153",
+      "source": "github",
+      "source_url": "https://github.com/pixeltable/pixeltable",
+      "title": "pixeltable",
+      "content": "Data Infrastructure providing a declarative, incremental approach for multimodal AI workloads.",
+      "metadata": {
+        "stars": 1548,
+        "language": "Python",
+        "author": "pixeltable",
+        "created_at": "2023-05-10T18:03:02Z",
+        "updated_at": "2026-04-25T18:32:05Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-1155576139",
+      "source": "github",
+      "source_url": "https://github.com/rocketride-org/rocketride-server",
+      "title": "rocketride-server",
+      "content": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.",
+      "metadata": {
+        "stars": 1871,
+        "language": "C++",
+        "author": "rocketride-org",
+        "created_at": "2026-02-11T17:02:53Z",
+        "updated_at": "2026-04-26T04:55:51Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-976390946",
+      "source": "github",
+      "source_url": "https://github.com/amitshekhariitbhu/machine-learning-interview-questions",
+      "title": "machine-learning-interview-questions",
+      "content": "Your Cheat Sheet for Machine Learning Interview – Questions and Answers.",
+      "metadata": {
+        "stars": 177,
+        "language": "Markdown",
+        "author": "amitshekhariitbhu",
+        "created_at": "2025-05-02T03:03:34Z",
+        "updated_at": "2026-04-26T07:05:23Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    },
+    {
+      "id": "github-216628419",
+      "source": "github",
+      "source_url": "https://github.com/flyteorg/flyte",
+      "title": "flyte",
+      "content": "Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk",
+      "metadata": {
+        "stars": 6954,
+        "language": "Go",
+        "author": "flyteorg",
+        "created_at": "2019-10-21T17:40:04Z",
+        "updated_at": "2026-04-25T06:15:08Z"
+      },
+      "collected_at": "2026-04-26T08:58:39Z"
+    }
+  ]
+}
