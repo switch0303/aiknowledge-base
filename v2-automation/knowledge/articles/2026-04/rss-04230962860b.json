@@ -1,0 +1,35 @@
+{
+  "id": "rss-04230962860b",
+  "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+  "source_url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+  "source_type": "rss",
+  "summary": "该内容报道了运动员Sawe在正式比赛中首次实现马拉松跑进两小时的突破。这一成就标志着人类耐力运动史上的里程碑，类似于此前在实验室条件下实现的破二记录，但此次是在公开竞技赛事中完成。内容可能涉及运动科学、训练方法、装备技术（如跑鞋、营养策略）以及生理极限的突破。由于原始内容缺乏详细描述，分析基于标题推断，实际技术细节需进一步查阅原文。",
+  "tags": [
+    "体育科技",
+    "人类极限",
+    "运动生理学",
+    "马拉松",
+    "竞技突破"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:14:54Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 20:56:30 +0000"
+  },
+  "_analysis": {
+    "quality_score": 5,
+    "relevance_score": 3,
+    "language": "en"
+  }
+}

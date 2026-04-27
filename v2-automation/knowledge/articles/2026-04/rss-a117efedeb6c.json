@@ -1,0 +1,35 @@
+{
+  "id": "rss-a117efedeb6c",
+  "title": "Flipdiscs",
+  "source_url": "https://flipdisc.io",
+  "source_type": "rss",
+  "summary": "该内容标题为“Flipdiscs”，来源为RSS，但原始内容仅标注“No description”，未提供任何具体技术细节、背景信息或上下文。Flipdiscs通常指一种电磁翻转点阵显示技术，常用于信息显示屏、艺术装置或公共交通指示牌等场景。由于缺乏详细描述，无法确认其具体技术内容、应用案例或创新点。分析基于标题推测，该技术可能涉及低功耗显示、机械式像素控制、户外可见性优化等特性。但鉴于内容缺失，无法进行深度技术评估。",
+  "tags": [
+    "低功耗显示",
+    "硬件设备",
+    "信息显示屏",
+    "电磁翻转点阵",
+    "显示技术"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:14:00Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Thu, 23 Apr 2026 13:54:31 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 2,
+    "language": "en"
+  }
+}

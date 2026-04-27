@@ -1,0 +1,35 @@
+{
+  "id": "rss-18d64ced60e5",
+  "title": "SWE-bench Verified no longer measures frontier coding capabilities",
+  "source_url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+  "source_type": "rss",
+  "summary": "该内容标题为“SWE-bench Verified no longer measures frontier coding capabilities”，来源为RSS，但原始内容为空，无具体描述。SWE-bench是一个用于评估大语言模型在软件工程任务（如代码生成、修复）中能力的基准测试。标题暗示经过验证的SWE-bench版本已不再能有效衡量前沿编码能力，可能由于模型性能提升导致基准饱和，或测试集存在数据泄露、难度不足等问题。这反映了AI编码评估领域的一个关键挑战：基准测试需要持续更新以跟上模型进步。由于缺乏具体内容，分析基于标题推断。",
+  "tags": [
+    "SWE-bench",
+    "大语言模型",
+    "AI编码",
+    "软件工程",
+    "基准测试"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:14:47Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 13:58:13 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 8,
+    "language": "en"
+  }
+}

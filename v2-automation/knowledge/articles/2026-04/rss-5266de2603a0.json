@@ -1,0 +1,35 @@
+{
+  "id": "rss-5266de2603a0",
+  "title": "It&#x27;s OK to abandon your side-project (2024)",
+  "source_url": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
+  "source_type": "rss",
+  "summary": "该内容标题为《It's OK to abandon your side-project (2024)》，来源于RSS订阅，但原始内容为空，无具体描述。根据标题推测，文章可能讨论在2024年背景下，开发者或技术爱好者放弃个人副项目（side-project）的合理性、心理负担、时间管理或技术债务等话题。由于缺乏实际内容，无法提供详细摘要，但标题暗示了技术社区中关于项目放弃的常见讨论，可能涉及个人成长、优先级调整或技术趋势变化。",
+  "tags": [
+    "开发者心理",
+    "side-project",
+    "时间管理",
+    "技术社区",
+    "项目管理"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:14:09Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Mon, 27 Apr 2026 08:11:16 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

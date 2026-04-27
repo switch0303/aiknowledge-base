@@ -1,0 +1,35 @@
+{
+  "id": "rss-7ad5899db020",
+  "title": "Electrostatics and High Voltage Links",
+  "source_url": "http://amasci.com/static/electrostatic1.html",
+  "source_type": "rss",
+  "summary": "该内容标题为“Electrostatics and High Voltage Links”，来源为RSS，但原始描述为空，无法获取具体内容。根据标题推测，内容可能涉及静电学与高压链路的技术原理、应用或相关研究。静电学是物理学分支，研究静止电荷及其相互作用；高压链路则可能指电力传输、高压电缆或电子设备中的高压连接技术。两者结合可能探讨高压环境下的静电效应、绝缘设计、放电防护或高压电力系统的稳定性。由于缺乏具体描述，无法确认是论文、工具、框架、新闻还是资源，也无法评估其技术深度和AI相关性。整体信息不完整，需进一步获取原文才能进行准确分析。",
+  "tags": [
+    "绝缘技术",
+    "电磁兼容",
+    "电力传输",
+    "高压链路",
+    "静电学"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:14:44Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Fri, 24 Apr 2026 09:47:21 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

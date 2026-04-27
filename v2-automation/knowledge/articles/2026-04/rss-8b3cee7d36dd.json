@@ -1,0 +1,35 @@
+{
+  "id": "rss-8b3cee7d36dd",
+  "title": "AI should elevate your thinking, not replace it",
+  "source_url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+  "source_type": "rss",
+  "summary": "该内容标题为“AI should elevate your thinking, not replace it”，强调人工智能应作为提升人类思维能力的工具，而非替代人类思考。文章可能探讨了AI在辅助决策、增强创造力、优化工作流程等方面的应用，同时警示过度依赖AI可能导致认知能力下降或思维惰性。内容呼吁在技术发展中保持人类的主导地位，倡导设计以人为中心的AI系统，确保技术服务于人类的长远利益。文章可能涉及AI伦理、人机协作、认知增强等话题，并引用实际案例或研究支持观点。整体上，这是一篇关于AI技术哲学与伦理的评论性文章，旨在引导读者理性看待AI的潜力与局限。",
+  "tags": [
+    "技术哲学",
+    "AI伦理",
+    "思维工具",
+    "认知增强",
+    "人机协作"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:14:12Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 20:03:12 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

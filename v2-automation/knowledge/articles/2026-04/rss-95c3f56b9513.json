@@ -1,0 +1,35 @@
+{
+  "id": "rss-95c3f56b9513",
+  "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+  "source_url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+  "source_type": "rss",
+  "summary": "该内容标题为'Fast16: High-precision software sabotage 5 years before Stuxnet'，来自rss源，但原始描述为空。从标题推断，内容可能涉及一种名为'Fast16'的早期高精度软件破坏技术或事件，其发生时间比著名的震网（Stuxnet）病毒早5年。震网病毒通常被认为在2010年被发现，因此Fast16可能指向2005年左右的一次关键网络攻击或恶意软件事件。内容可能探讨该技术的原理、影响及其与震网的关系，但缺乏具体描述，无法确认细节。由于原始内容缺失，分析基于标题推测，实际信息有限。",
+  "tags": [
+    "恶意软件",
+    "震网病毒",
+    "网络安全",
+    "软件破坏",
+    "历史攻击"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:14:31Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 20:18:37 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 5,
+    "language": "en"
+  }
+}

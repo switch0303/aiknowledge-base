@@ -1,0 +1,35 @@
+{
+  "id": "rss-f7286312c6d2",
+  "title": "When the cheap one is the cool one",
+  "source_url": "https://arun.is/blog/cheap-cool/",
+  "source_type": "rss",
+  "summary": "该内容标题为“When the cheap one is the cool one”，来源为RSS，但原始内容为空，无具体描述。标题暗示一种技术或产品趋势：低成本方案反而成为流行或受追捧的选择。可能涉及开源软件、廉价硬件、低成本AI模型（如小模型或量化模型）在特定场景下超越昂贵方案的现象。由于缺乏具体内容，无法提取详细技术细节，但标题本身反映了技术社区中关于性价比、可及性与创新之间关系的讨论。",
+  "tags": [
+    "成本效益",
+    "AI模型",
+    "硬件",
+    "技术趋势",
+    "开源"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:14:34Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 01:25:13 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 3,
+    "language": "en"
+  }
+}

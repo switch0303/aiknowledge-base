@@ -1,0 +1,35 @@
+{
+  "id": "rss-7bae1e9c180d",
+  "title": "Mystery Cpuid Bit",
+  "source_url": "http://www.os2museum.com/wp/mystery-cpuid-bit/",
+  "source_type": "rss",
+  "summary": "该内容标题为“Mystery Cpuid Bit”，来源为RSS，但原始内容中未提供具体描述。Cpuid通常指CPUID指令，用于获取处理器信息，而“Mystery Cpuid Bit”可能涉及CPUID中某个未公开或未文档化的标志位，可能涉及硬件安全、处理器微架构特性或底层系统编程。由于缺乏具体内容，无法确定其技术细节或应用场景。该内容可能是一篇技术文章、漏洞分析或硬件研究，但信息不足，无法进行深入分析。",
+  "tags": [
+    "底层编程",
+    "硬件安全",
+    "微架构",
+    "CPUID",
+    "处理器"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:14:57Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 06:27:06 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 5,
+    "language": "en"
+  }
+}

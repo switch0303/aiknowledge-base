@@ -1,0 +1,35 @@
+{
+  "id": "rss-42e0b15130e1",
+  "title": "A Guide to CubeSat Mission and Bus Design",
+  "source_url": "https://pressbooks-dev.oer.hawaii.edu/epet302/",
+  "source_type": "rss",
+  "summary": "该内容标题为《A Guide to CubeSat Mission and Bus Design》，来源为RSS，但原始内容为空，未提供具体描述。根据标题推测，该内容可能是一篇关于立方星（CubeSat）任务设计与卫星平台（Bus）设计的指南或教程。立方星是一种小型标准化卫星，广泛应用于科研、教育、商业遥感、通信等领域。内容可能涵盖任务目标定义、轨道选择、载荷集成、电源系统、通信系统、姿态控制、热控、结构设计等关键技术点。由于缺乏实际内容，无法确认其深度和完整性，但标题表明其属于航天工程领域的教育资源。",
+  "tags": [
+    "航天工程",
+    "任务规划",
+    "卫星设计",
+    "CubeSat",
+    "技术指南"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:14:37Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 02:15:36 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 2,
+    "language": "en"
+  }
+}
