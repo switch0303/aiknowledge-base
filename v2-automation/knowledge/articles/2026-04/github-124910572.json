@@ -1,0 +1,38 @@
+{
+  "id": "github-124910572",
+  "title": "bugbug",
+  "source_url": "https://github.com/mozilla/bugbug",
+  "source_type": "github",
+  "summary": "该内容来自GitHub，标题为“bugbug”，描述为“Platform for Machine Learning projects on Software Engineering”。这是一个专注于软件工程领域的机器学习平台，旨在为软件工程中的机器学习项目提供支持。平台可能包含数据集、模型、工具或框架，帮助研究人员和开发者应用机器学习技术解决软件工程中的问题，如缺陷预测、代码分析、测试优化等。由于描述简短，具体功能和技术细节未详细说明，但整体上它是一个面向软件工程与机器学习交叉领域的资源或工具集合。",
+  "tags": [
+    "平台",
+    "机器学习",
+    "缺陷预测",
+    "软件工程",
+    "GitHub"
+  ],
+  "category": "resource",
+  "content_en": "Platform for Machine Learning projects on Software Engineering",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:12:14Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 563,
+    "language": "Python",
+    "author": "mozilla",
+    "created_at": "2018-03-12T15:29:09Z",
+    "updated_at": "2026-04-28T09:42:24Z"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 7,
+    "language": "en"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rss-fd305fbcd1eb",
+  "title": "High Performance Git",
+  "source_url": "https://gitperf.com/",
+  "source_type": "rss",
+  "summary": "该内容标题为“High Performance Git”，但原始内容中未提供具体描述。根据标题推测，该内容可能涉及Git版本控制系统的性能优化技巧、配置调优、大型仓库管理策略或相关工具介绍。由于缺乏详细内容，无法准确判断其深度和具体技术细节。通常，高性能Git主题涵盖如何通过配置（如调整压缩级别、使用浅克隆、稀疏检出）、工作流优化（如减少分支数量、使用rebase代替merge）以及工具（如Git LFS、Git Annex）来提升Git在大型项目中的操作效率。该内容可能是一篇技术文章、教程或资源汇总，旨在帮助开发者解决Git在大型代码库或团队协作中的性能瓶颈问题。",
+  "tags": [
+    "Git",
+    "DevOps",
+    "性能优化",
+    "版本控制",
+    "大型仓库"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:13:32Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Tue, 28 Apr 2026 00:32:04 +0000"
+  },
+  "_analysis": {
+    "quality_score": 5,
+    "relevance_score": 6,
+    "language": "en"
+  }
+}

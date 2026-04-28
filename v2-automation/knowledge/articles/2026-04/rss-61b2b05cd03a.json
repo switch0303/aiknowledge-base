@@ -1,0 +1,35 @@
+{
+  "id": "rss-61b2b05cd03a",
+  "title": "WASM is not quite a stack machine",
+  "source_url": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/",
+  "source_type": "rss",
+  "summary": "该内容标题为“WASM is not quite a stack machine”，主要探讨WebAssembly（WASM）的底层执行模型。文章指出，尽管WASM常被描述为一种基于栈的虚拟机，但其实际设计在指令编码、控制流结构（如块和循环）以及类型堆栈的抽象程度上与传统栈机存在显著差异。WASM的指令集更接近于一种结构化栈机，其验证和执行依赖于类型栈的静态检查，而非简单的操作数栈。文章深入分析了WASM的指令格式、局部变量访问、内存操作以及控制指令（如br、br_if）如何影响栈的抽象行为，并对比了经典栈机（如JVM）与WASM的区别。最终结论是，WASM的栈模型更偏向于一种受限的、可验证的抽象，而非物理栈实现，这对于理解WASM的性能特性和编译优化具有重要意义。",
+  "tags": [
+    "底层技术分析",
+    "虚拟机架构",
+    "WebAssembly",
+    "栈机模型",
+    "编译原理"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:13:29Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Tue, 28 Apr 2026 04:34:29 +0000"
+  },
+  "_analysis": {
+    "quality_score": 8,
+    "relevance_score": 7,
+    "language": "en"
+  }
+}

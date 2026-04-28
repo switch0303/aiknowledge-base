@@ -1,0 +1,35 @@
+{
+  "id": "rss-d0c0a008188f",
+  "title": "How I leared what a decoupling capacitor is for, the hard way",
+  "source_url": "https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor",
+  "source_type": "rss",
+  "summary": "该内容标题为“How I learned what a decoupling capacitor is for, the hard way”，来源为RSS，但原始内容描述为空。从标题推断，这是一篇个人经验分享文章，作者通过亲身经历（可能涉及电路设计错误或故障）深刻理解了去耦电容在电子电路中的重要作用。去耦电容用于滤除电源噪声、稳定电压，防止电路间干扰，是数字和模拟电路设计中的关键元件。文章可能以叙事方式讲述作者在项目中因忽略去耦电容而导致的失败教训，从而强调其必要性。由于缺乏具体内容，摘要基于标题和常见技术背景进行合理推测。",
+  "tags": [
+    "电子工程",
+    "去耦电容",
+    "经验教训",
+    "电路设计",
+    "硬件开发"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:13:52Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 22:27:44 +0000"
+  },
+  "_analysis": {
+    "quality_score": 5,
+    "relevance_score": 3,
+    "language": "en"
+  }
+}

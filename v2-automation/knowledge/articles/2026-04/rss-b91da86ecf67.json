@@ -1,0 +1,35 @@
+{
+  "id": "rss-b91da86ecf67",
+  "title": "Networking changes coming in macOS 27",
+  "source_url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
+  "source_type": "rss",
+  "summary": "该内容标题为“Networking changes coming in macOS 27”，来源为RSS，但原始内容描述为空，无法获取具体的技术细节。根据标题推测，该内容可能涉及macOS 27版本在网络功能方面的更新或变更，例如网络协议支持、网络性能优化、安全增强、新API引入或网络配置管理改进等。由于缺乏具体描述，无法确认变更的具体范围、技术深度或实际影响。该内容属于操作系统版本更新的新闻类信息，可能对macOS开发者、网络管理员或关注苹果生态的技术人员具有参考价值。但鉴于内容缺失，无法进行更深入的技术分析。",
+  "tags": [
+    "新闻",
+    "网络",
+    "操作系统更新",
+    "系统功能",
+    "macOS"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:13:55Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Mon, 27 Apr 2026 15:36:12 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

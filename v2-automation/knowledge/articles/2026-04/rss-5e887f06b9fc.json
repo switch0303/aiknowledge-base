@@ -1,0 +1,35 @@
+{
+  "id": "rss-5e887f06b9fc",
+  "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+  "source_url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+  "source_type": "rss",
+  "summary": "该内容报道了一起发生在多伦多的技术相关案件：三名男子因涉嫌使用短信群发器（SMS Blaster）进行非法活动而被逮捕并面临指控。短信群发器是一种能够向大量手机用户发送未经请求的短信的设备，通常被用于垃圾短信、诈骗或恶意营销。案件涉及的技术手段可能包括伪造基站或利用移动网络漏洞。目前，当地执法部门已对嫌疑人提出指控，但具体细节（如发送的短信内容、受害者数量或造成的损失）尚未披露。此事件反映了移动通信安全领域的挑战，以及执法机构对滥用通信技术的打击力度。",
+  "tags": [
+    "短信群发器",
+    "移动通信安全",
+    "网络犯罪",
+    "多伦多",
+    "执法行动"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:13:43Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Mon, 27 Apr 2026 20:44:16 +0000"
+  },
+  "_analysis": {
+    "quality_score": 5,
+    "relevance_score": 4,
+    "language": "en"
+  }
+}

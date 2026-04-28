@@ -1,0 +1,38 @@
+{
+  "id": "github-314197645",
+  "title": "zenml",
+  "source_url": "https://github.com/zenml-io/zenml",
+  "source_type": "github",
+  "summary": "ZenML 是一个开源的 MLOps 框架，旨在为机器学习工作流提供统一的平台，从数据管道构建到模型部署和智能代理管理。它强调可重复性、可扩展性和生产就绪性，支持与主流 ML 工具（如 TensorFlow、PyTorch、Kubeflow、Airflow 等）集成，帮助团队将实验性代码转化为生产级管道。ZenML 的核心特性包括管道抽象、步骤缓存、元数据跟踪、版本控制以及多环境部署支持。其最新定位扩展至“从管道到代理”，意味着不仅管理传统 ML 管道，还支持构建和编排 AI 代理工作流，进一步覆盖自动化决策和智能体协作场景。该项目在 GitHub 上活跃，拥有社区贡献和文档支持，适合数据科学家、ML 工程师和 DevOps 团队使用。总体而言，ZenML 是一个面向现代 AI 工程化需求的框架，降低了从开发到生产的复杂度。",
+  "tags": [
+    "开源框架",
+    "机器学习管道",
+    "AI代理",
+    "工作流编排",
+    "MLOps"
+  ],
+  "category": "framework",
+  "content_en": "ZenML 🙏: One AI Platform from Pipelines to Agents. https://zenml.io.",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:13:04Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 5368,
+    "language": "Python",
+    "author": "zenml-io",
+    "created_at": "2020-11-19T09:25:46Z",
+    "updated_at": "2026-04-28T02:52:14Z"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

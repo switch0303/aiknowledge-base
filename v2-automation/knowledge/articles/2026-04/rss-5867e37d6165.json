@@ -1,0 +1,35 @@
+{
+  "id": "rss-5867e37d6165",
+  "title": "Mo RAM, Mo Problems (2025)",
+  "source_url": "https://fabiensanglard.net/curse/",
+  "source_type": "rss",
+  "summary": "该内容标题为“Mo RAM, Mo Problems (2025)”，来源于RSS订阅，但原始内容为空，未提供任何描述或正文。标题暗示可能讨论RAM（随机存取存储器）容量增加带来的问题，类似于“更多RAM，更多麻烦”的讽刺表达，可能涉及内存管理、性能瓶颈、功耗或成本等话题。由于缺乏具体内容，无法提取详细技术细节。分析基于标题推测，内容可能属于技术评论或新闻类，但实际信息缺失。",
+  "tags": [
+    "硬件",
+    "内存管理",
+    "技术评论",
+    "性能分析",
+    "RAM"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:13:35Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 15:41:54 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 5,
+    "language": "en"
+  }
+}

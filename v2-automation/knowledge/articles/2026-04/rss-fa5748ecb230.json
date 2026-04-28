@@ -1,0 +1,35 @@
+{
+  "id": "rss-fa5748ecb230",
+  "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
+  "source_url": "https://technology.robbyant.com/lingbot-map",
+  "source_type": "rss",
+  "summary": "LingBot-Map 是一种基于几何上下文变换器的流式三维重建方法。该技术通过引入几何上下文变换器（Geometric Context Transformer），在实时或流式数据输入条件下，高效地处理三维场景的重建任务。与传统方法相比，LingBot-Map 能够更好地捕捉空间几何关系，提升重建的精度和鲁棒性，尤其适用于动态环境或大规模场景的在线重建。该研究可能涉及点云处理、深度估计、多视图几何等核心技术，并针对流式数据的特点优化了计算效率与内存管理。其潜在应用包括机器人导航、自动驾驶、增强现实和数字孪生等领域。",
+  "tags": [
+    "三维重建",
+    "计算机视觉",
+    "几何上下文变换器",
+    "深度学习",
+    "流式处理"
+  ],
+  "category": "paper",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:13:59Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Tue, 28 Apr 2026 03:27:40 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

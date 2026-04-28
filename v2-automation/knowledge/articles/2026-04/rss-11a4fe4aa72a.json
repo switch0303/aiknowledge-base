@@ -1,0 +1,35 @@
+{
+  "id": "rss-11a4fe4aa72a",
+  "title": "The quiet resurgence of RF engineering",
+  "source_url": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
+  "source_type": "rss",
+  "summary": "该内容标题为“The quiet resurgence of RF engineering”，来源为rss，但原始内容为空，无法获取具体细节。根据标题推断，内容可能探讨射频（RF）工程领域在近年来悄然复兴的趋势，涉及无线通信、5G/6G、物联网、雷达系统等应用场景，以及RF设计、测试、材料、电路等方面的技术进展。由于缺乏正文，无法提供详细摘要。",
+  "tags": [
+    "无线通信",
+    "物联网",
+    "5G/6G",
+    "RF工程",
+    "射频技术"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:13:46Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 18:25:54 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 5,
+    "language": "en"
+  }
+}
