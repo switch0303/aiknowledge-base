@@ -1,0 +1,38 @@
+{
+  "id": "github-178976529",
+  "title": "BentoML",
+  "source_url": "https://github.com/bentoml/BentoML",
+  "source_type": "github",
+  "summary": "BentoML是一个专注于简化AI应用和模型服务部署的开源工具。它提供了构建模型推理API、任务队列、大型语言模型（LLM）应用、多模型管道等功能，旨在让开发者能够以最便捷的方式将AI模型投入生产环境。该工具支持多种主流机器学习框架，并提供了高效的模型打包、部署和扩展能力。通过BentoML，用户可以快速将训练好的模型转化为可调用的REST API，同时支持异步任务处理、模型版本管理、自动扩缩容等生产级特性。其设计理念是降低AI服务化的门槛，使数据科学家和工程师能够更专注于模型本身而非基础设施。BentoML在GitHub上开源，拥有活跃的社区和丰富的文档资源，是当前AI工程化领域的重要工具之一。",
+  "tags": [
+    "模型服务",
+    "开源工具",
+    "推理API",
+    "AI部署",
+    "LLM应用"
+  ],
+  "category": "tool",
+  "content_en": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:03:59Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 8610,
+    "language": "Python",
+    "author": "bentoml",
+    "created_at": "2019-04-02T01:39:27Z",
+    "updated_at": "2026-04-29T08:28:22Z"
+  },
+  "_analysis": {
+    "quality_score": 8,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rss-fe047c984195",
+  "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
+  "source_url": "https://github.com/rocky-data/rocky",
+  "source_type": "rss",
+  "summary": "Rocky 是一个基于 Rust 语言开发的 SQL 引擎，其核心创新在于引入了分支（branches）、回放（replay）和列级血缘（column lineage）功能。分支功能允许用户像版本控制一样对 SQL 查询进行分支管理，便于实验和迭代；回放功能支持对历史查询或数据变更进行重放，有助于调试和审计；列级血缘则提供了从输出列到输入列的精确溯源能力，增强了数据治理和可追溯性。该引擎旨在为数据分析和数据工程场景提供更灵活、可复现且透明的查询体验。作为一款开源工具，Rocky 展示了 Rust 在构建高性能数据处理系统方面的潜力，并填补了传统 SQL 引擎在版本管理和血缘追踪方面的空白。",
+  "tags": [
+    "Rust",
+    "版本控制",
+    "SQL引擎",
+    "数据工程",
+    "数据血缘"
+  ],
+  "category": "tool",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:05:16Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Tue, 28 Apr 2026 14:35:59 +0000"
+  },
+  "_analysis": {
+    "quality_score": 8,
+    "relevance_score": 7,
+    "language": "en"
+  }
+}

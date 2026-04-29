@@ -1,0 +1,35 @@
+{
+  "id": "rss-89eae6eebb45",
+  "title": "Ghostty is leaving GitHub",
+  "source_url": "https://mitchellh.com/writing/ghostty-leaving-github",
+  "source_type": "rss",
+  "summary": "该内容标题为“Ghostty is leaving GitHub”，表明一个名为Ghostty的项目或组织正在离开GitHub平台。由于原始内容没有提供详细描述，无法获取具体原因、背景或后续计划。Ghostty可能是一个开源项目、工具或服务，其离开GitHub可能涉及对平台政策、所有权、隐私或技术方向的考量。这一举动可能意味着项目将迁移到其他代码托管平台（如GitLab、SourceHut或自托管），或完全停止在GitHub上的维护。由于缺乏具体信息，摘要主要基于标题推断，建议进一步查阅相关来源以获取完整背景。",
+  "tags": [
+    "技术新闻",
+    "开源",
+    "代码托管",
+    "项目迁移",
+    "GitHub"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:04:49Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Tue, 28 Apr 2026 19:44:52 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 2,
+    "language": "en"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rss-fd2dd86b8d51",
+  "title": "HardenedBSD Is Now Officially on Radicle",
+  "source_url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
+  "source_type": "rss",
+  "summary": "HardenedBSD 项目正式宣布入驻 Radicle 平台。Radicle 是一个基于区块链技术的去中心化代码协作网络，旨在提供不依赖中心化服务器的开源开发环境。HardenedBSD 是 FreeBSD 的一个安全强化分支，专注于提升操作系统的安全性和隐私保护。此次迁移意味着 HardenedBSD 的源代码、问题追踪和协作开发将完全托管在 Radicle 上，以增强项目的抗审查能力和去中心化特性。这一举措反映了开源社区对去中心化工具和自主基础设施的持续探索，同时也为其他 BSD 或安全相关项目提供了参考案例。",
+  "tags": [
+    "安全强化",
+    "开源协作",
+    "HardenedBSD",
+    "去中心化",
+    "Radicle"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:05:06Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 29 Apr 2026 06:38:44 +0000"
+  },
+  "_analysis": {
+    "quality_score": 6,
+    "relevance_score": 4,
+    "language": "en"
+  }
+}

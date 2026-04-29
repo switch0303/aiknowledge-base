@@ -1,0 +1,35 @@
+{
+  "id": "rss-db9dd2a665b0",
+  "title": "How ChatGPT serves ads",
+  "source_url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+  "source_type": "rss",
+  "summary": "该内容标题为“How ChatGPT serves ads”，但原始内容中未提供具体描述。根据标题推测，内容可能探讨ChatGPT（或类似AI聊天机器人）如何在其交互界面中集成和展示广告，包括广告投放机制、用户数据利用、广告与对话内容的融合方式，以及可能涉及的隐私和伦理问题。由于缺乏详细内容，无法确认具体技术细节或案例。整体上，该内容属于AI商业化应用领域的新闻或分析类文章，关注AI产品如何通过广告实现盈利。",
+  "tags": [
+    "广告投放",
+    "对话系统",
+    "AI商业化",
+    "用户隐私",
+    "ChatGPT"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:05:10Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Tue, 28 Apr 2026 23:54:14 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 7,
+    "language": "en"
+  }
+}

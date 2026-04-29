@@ -1,0 +1,35 @@
+{
+  "id": "rss-36f51b7dde03",
+  "title": "Show HN: Rip.so – a graveyard for dead internet things",
+  "source_url": "https://rip.so",
+  "source_type": "rss",
+  "summary": "该内容标题为“Show HN: Rip.so – a graveyard for dead internet things”，来自RSS源，但原始内容描述为空。根据标题推测，Rip.so可能是一个展示已失效或已关闭的互联网项目、网站或服务的“墓地”式存档工具或资源集合，类似于互联网历史遗迹的收录平台。由于缺乏具体描述，无法确认其技术实现细节或功能完整性。该内容可能属于工具或资源类别，旨在记录和展示互联网上已消亡的事物，具有一定的怀旧和存档价值。但鉴于信息量极少，无法进行深入技术分析。",
+  "tags": [
+    "项目展示",
+    "互联网存档",
+    "网络历史",
+    "资源收集",
+    "工具"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:04:59Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 29 Apr 2026 09:21:32 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 4,
+    "language": "en"
+  }
+}

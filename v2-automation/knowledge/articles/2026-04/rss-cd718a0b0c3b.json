@@ -1,0 +1,35 @@
+{
+  "id": "rss-cd718a0b0c3b",
+  "title": "Tell HN: An update from the new Tindie team",
+  "source_url": "https://news.ycombinator.com/item?id=47945522",
+  "source_type": "rss",
+  "summary": "该内容标题为“Tell HN: An update from the new Tindie team”，来源为RSS，但原始内容缺失（显示为“No description”）。Tindie是一个专注于硬件创客和电子DIY产品的在线市场平台，通常由社区或团队发布更新。由于缺乏具体描述，无法获取详细的技术信息或更新内容。推测该内容可能涉及Tindie平台的新团队变动、功能更新、政策调整或社区公告，属于技术社区（Hacker News）中的一则简短新闻或通知。由于信息不完整，无法进行深入的技术分析。",
+  "tags": [
+    "社区公告",
+    "Hacker News",
+    "团队更新",
+    "硬件市场",
+    "Tindie"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:05:03Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 29 Apr 2026 08:16:37 +0000"
+  },
+  "_analysis": {
+    "quality_score": 2,
+    "relevance_score": 3,
+    "language": "en"
+  }
+}

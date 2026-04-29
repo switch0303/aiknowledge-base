@@ -1,0 +1,35 @@
+{
+  "id": "rss-37e09e628581",
+  "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+  "source_url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+  "source_type": "rss",
+  "summary": "该内容报道了OpenAI模型即将集成到亚马逊云服务（AWS）的Bedrock平台的消息，并包含对OpenAI和AWS CEO的专访。这一合作意味着AWS客户将能够通过Bedrock平台直接访问OpenAI的先进AI模型，如GPT系列，从而简化企业级AI应用的部署和管理。文章探讨了双方合作的战略意义，包括如何结合OpenAI的模型能力与AWS的云基础设施优势，为企业提供更安全、可扩展的AI解决方案。此外，CEO们可能讨论了AI技术的未来发展方向、模型部署的合规性、以及如何降低企业使用AI的门槛。该新闻对AI行业和云计算市场具有重要影响，标志着两大科技巨头的深度合作。",
+  "tags": [
+    "AWS Bedrock",
+    "AI模型部署",
+    "OpenAI",
+    "云计算",
+    "企业AI"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:05:30Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Tue, 28 Apr 2026 19:24:43 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "github-1059784055",
+  "title": "sdk-typescript",
+  "source_url": "https://github.com/strands-agents/sdk-typescript",
+  "source_type": "github",
+  "summary": "该内容介绍了一个名为 sdk-typescript 的项目，它采用模型驱动的方法，允许开发者仅用几行代码即可构建 AI 代理。该项目托管在 GitHub 上，旨在简化 AI 代理的开发流程，通过预定义的模型和抽象层，降低开发门槛，使开发者能够快速集成和部署智能代理功能。内容强调了其高效性和易用性，适合需要快速原型开发或集成 AI 能力的场景。",
+  "tags": [
+    "SDK",
+    "TypeScript",
+    "快速开发",
+    "AI代理",
+    "模型驱动"
+  ],
+  "category": "tool",
+  "content_en": "A model-driven approach to building AI agents in just a few lines of code. ",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:04:38Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 596,
+    "language": "TypeScript",
+    "author": "strands-agents",
+    "created_at": "2025-09-19T00:13:25Z",
+    "updated_at": "2026-04-29T08:21:26Z"
+  },
+  "_analysis": {
+    "quality_score": 6,
+    "relevance_score": 8,
+    "language": "en"
+  }
+}

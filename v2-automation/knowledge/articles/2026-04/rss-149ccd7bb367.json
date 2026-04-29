@@ -1,0 +1,35 @@
+{
+  "id": "rss-149ccd7bb367",
+  "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
+  "source_url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
+  "source_type": "rss",
+  "summary": "该内容标题为“Behavioral timescale synaptic plasticity rewires the brain after an experience”，探讨了行为时间尺度突触可塑性（BTSP）在经验后重塑大脑的机制。BTSP是一种不同于传统Hebbian可塑性的突触修饰形式，能够在行为时间尺度（秒级）上快速改变神经连接，从而编码新经验并形成记忆。该机制涉及突触前和突触后活动的时序依赖，通过钙离子信号和特定分子通路实现长期增强或抑制。研究可能基于神经科学实验，如海马体或皮层记录，揭示了BTSP在空间导航、学习记忆和适应行为中的关键作用。内容属于前沿神经科学领域，强调经验依赖的神经可塑性如何动态重组神经网络，为理解大脑信息处理、记忆巩固以及神经疾病治疗提供了新视角。由于原始内容仅提供标题，分析基于标题推断，具体细节需参考全文。",
+  "tags": [
+    "神经科学",
+    "行为时间尺度",
+    "大脑重塑",
+    "突触可塑性",
+    "记忆机制"
+  ],
+  "category": "paper",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:05:51Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Mon, 27 Apr 2026 13:54:47 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 6,
+    "language": "en"
+  }
+}

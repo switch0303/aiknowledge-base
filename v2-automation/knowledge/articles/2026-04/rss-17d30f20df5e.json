@@ -1,0 +1,35 @@
+{
+  "id": "rss-17d30f20df5e",
+  "title": "Gallium oxide electronics withstand extreme cold",
+  "source_url": "https://discovery.kaust.edu.sa/en/article/26858/gallium-oxide-electronics-withstand-extreme-cold/",
+  "source_type": "rss",
+  "summary": "该内容报道了氧化镓（Gallium oxide）电子器件在极端低温环境下的性能表现。氧化镓作为一种宽禁带半导体材料，因其优异的电学特性和耐高温能力而受到关注，但最新研究显示其在极寒条件下同样表现出色。实验表明，基于氧化镓的电子设备能够在接近绝对零度的温度下稳定工作，这为深空探测、极地科研和低温物理实验等极端环境下的电子系统提供了新的可能性。该发现拓展了氧化镓的应用场景，使其不仅适用于高温高功率领域，也能在低温电子学中发挥重要作用。研究团队通过测试氧化镓场效应晶体管等器件，验证了其在低温下的载流子迁移率和开关特性，证明了该材料在极端温度范围内的可靠性。这一进展有望推动下一代耐极端环境电子技术的发展。",
+  "tags": [
+    "低温电子器件",
+    "极端环境电子学",
+    "氧化镓",
+    "材料科学",
+    "宽禁带半导体"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:05:43Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Mon, 27 Apr 2026 11:31:20 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 6,
+    "language": "en"
+  }
+}
