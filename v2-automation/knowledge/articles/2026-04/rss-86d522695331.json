@@ -1,0 +1,35 @@
+{
+  "id": "rss-86d522695331",
+  "title": "Zed 1.0",
+  "source_url": "https://zed.dev/blog/zed-1-0",
+  "source_type": "rss",
+  "summary": "Zed 1.0 是一款由前 Atom 编辑器开发者打造的高性能代码编辑器，正式发布 1.0 版本。该编辑器采用 Rust 语言编写，强调极致的启动速度和响应性能，支持多光标编辑、语法高亮、代码补全、Git 集成等现代编辑器功能。Zed 1.0 还引入了协作编辑能力，允许开发者实时共享工作区。其设计理念聚焦于减少延迟和提升开发效率，适用于大型代码库和复杂项目。作为一款新兴工具，Zed 1.0 在开发者社区中引起了广泛关注，被视为对 VS Code 等主流编辑器的潜在挑战。",
+  "tags": [
+    "Rust",
+    "代码编辑器",
+    "协作编辑",
+    "开发工具",
+    "高性能"
+  ],
+  "category": "tool",
+  "content_en": "",
+  "content_zh": "No description",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:13Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 29 Apr 2026 14:34:19 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 6,
+    "language": "zh"
+  }
+}

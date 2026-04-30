@@ -1,0 +1,35 @@
+{
+  "id": "rss-897862e0e88d",
+  "title": "Craig Venter has died",
+  "source_url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+  "source_type": "rss",
+  "summary": "该内容标题为“Craig Venter has died”，来源为RSS，但原始内容为空，无具体描述。Craig Venter是一位著名的生物技术科学家，以领导人类基因组计划、合成首个细菌基因组以及创建合成生命体而闻名。由于缺乏具体内容，无法提供详细摘要。",
+  "tags": [
+    "合成生物学",
+    "Craig Venter",
+    "基因组学",
+    "生物技术",
+    "讣告"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:19Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Thu, 30 Apr 2026 01:44:56 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

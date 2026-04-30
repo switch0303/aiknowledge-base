@@ -1,0 +1,35 @@
+{
+  "id": "rss-dac58fd2d8d6",
+  "title": "Copy Fail",
+  "source_url": "https://copy.fail/",
+  "source_type": "rss",
+  "summary": "该内容标题为“Copy Fail”，来源为RSS，但原始内容为空，无具体描述。因此无法提取任何技术细节、观点或数据。分析表明该内容可能是一个无效或未完成的条目，缺乏实质信息。",
+  "tags": [
+    "RSS",
+    "数据缺失",
+    "无效内容",
+    "空描述",
+    "技术分析"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:25Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 29 Apr 2026 18:13:53 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

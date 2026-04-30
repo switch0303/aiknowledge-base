@@ -1,0 +1,35 @@
+{
+  "id": "rss-6c72ac7aa7ac",
+  "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+  "source_url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+  "source_type": "rss",
+  "summary": "该内容讨论了FastCGI协议，尽管已有30年历史，但作者认为它仍然是反向代理场景中更优的协议选择。文章可能对比了FastCGI与现代替代方案（如HTTP代理、gRPC等），强调其在性能、资源消耗、进程管理等方面的优势。FastCGI通过持久化进程和高效通信机制，减少了传统CGI的每次请求创建进程的开销，尤其适合高并发场景。文章可能还分析了FastCGI在现代化架构（如容器化、微服务）中的适用性，指出其简单、稳定且与多种Web服务器（如Nginx、Apache）兼容的特性。整体上，内容旨在重新审视这一经典协议的价值，并挑战当前主流技术选择。",
+  "tags": [
+    "Web服务器",
+    "协议对比",
+    "FastCGI",
+    "反向代理",
+    "性能优化"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:48Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 29 Apr 2026 16:16:39 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 6,
+    "language": "en"
+  }
+}

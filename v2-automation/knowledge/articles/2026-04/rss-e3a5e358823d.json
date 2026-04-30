@@ -1,0 +1,35 @@
+{
+  "id": "rss-e3a5e358823d",
+  "title": "Laws of UX",
+  "source_url": "https://lawsofux.com/",
+  "source_type": "rss",
+  "summary": "该内容标题为“Laws of UX”，来源为RSS，但原始描述为空。Laws of UX通常指用户体验设计中的一系列心理学原则和设计准则，如菲茨定律、希克定律、雅各布定律等，用于指导界面设计、交互流程和用户行为预测。这些法则帮助设计师创建更直观、高效且令人满意的数字产品。由于缺乏具体描述，分析基于常见理解：该资源可能是一篇总结性文章、设计指南或参考列表，旨在为UI/UX设计师提供理论支持。内容可能涵盖认知负荷、视觉层次、反馈机制等核心概念，适用于网页、移动应用及软件界面设计。整体属于设计资源类，强调理论与实践结合，对提升产品可用性和用户满意度有直接价值。",
+  "tags": [
+    "用户体验",
+    "心理学",
+    "设计原则",
+    "界面设计",
+    "交互设计"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:07:08Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 29 Apr 2026 16:58:13 +0000"
+  },
+  "_analysis": {
+    "quality_score": 5,
+    "relevance_score": 6,
+    "language": "en"
+  }
+}

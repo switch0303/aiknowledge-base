@@ -1,0 +1,35 @@
+{
+  "id": "rss-a21d210fc7da",
+  "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+  "source_url": "https://github.com/anthropics/claude-code/issues/53262",
+  "source_type": "rss",
+  "summary": "该内容标题提及在提交消息中包含'HERMES.md'会导致请求路由到额外使用计费，暗示这可能是一个与Git提交消息处理或计费系统相关的技术问题或漏洞。由于原始内容没有提供详细描述，分析基于标题推断：这可能涉及开发工作流中的元数据注入，导致API或服务计费系统错误地将常规请求归类为额外使用，从而产生意外费用。该问题可能影响使用特定CI/CD工具或云服务的开发者，需要关注提交消息的解析逻辑或计费路由机制。",
+  "tags": [
+    "提交消息",
+    "路由漏洞",
+    "开发工作流",
+    "Git",
+    "计费系统"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:07:01Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 29 Apr 2026 18:54:31 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 6,
+    "language": "en"
+  }
+}

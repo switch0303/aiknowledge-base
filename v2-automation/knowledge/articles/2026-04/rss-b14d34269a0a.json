@@ -1,0 +1,35 @@
+{
+  "id": "rss-b14d34269a0a",
+  "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+  "source_url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+  "source_type": "rss",
+  "summary": "该内容探讨了大型语言模型（LLMs）在微调过程中可能意外激活对受版权保护书籍的记忆与复述能力的问题。研究指出，尽管模型在预训练阶段可能接触过版权材料，但通过对齐技术（如RLHF）通常能抑制其直接输出。然而，针对特定任务（如指令跟随或领域适应）进行微调时，这种抑制可能被破坏，导致模型重新“回忆”并生成受版权保护的文本片段。这种现象被称为“对齐打地鼠”（Alignment whack-a-mole），即对齐措施在微调后可能失效。研究通过实验验证了微调会显著增加模型输出与受版权书籍内容的相似度，并分析了不同微调方法（如全参数微调、LoRA）的影响。该发现对AI版权合规、模型安全及微调实践提出了重要警示，强调了在模型部署中需谨慎处理微调带来的版权风险。",
+  "tags": [
+    "大语言模型",
+    "微调",
+    "AI安全",
+    "版权保护",
+    "模型对齐"
+  ],
+  "category": "paper",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:39Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Thu, 30 Apr 2026 03:11:51 +0000"
+  },
+  "_analysis": {
+    "quality_score": 8,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

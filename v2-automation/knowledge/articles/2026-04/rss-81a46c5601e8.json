@@ -1,0 +1,37 @@
+{
+  "id": "rss-81a46c5601e8",
+  "title": "Mozilla&#x27;s Opposition to Chrome&#x27;s Prompt API",
+  "source_url": "https://github.com/mozilla/standards-positions/issues/1213",
+  "source_type": "rss",
+  "summary": "本文讨论了Mozilla对Chrome Prompt API的反对立场。Chrome Prompt API是Google提出的一项Web标准提案，旨在允许网页在用户设备上本地运行AI模型，从而提供更智能的交互体验。然而，Mozilla对此表示担忧，认为该API可能带来隐私和安全风险，尤其是它可能使浏览器能够访问和利用本地AI能力，从而收集用户数据或执行未经用户充分同意的操作。Mozilla强调，任何AI功能的集成都应遵循开放、透明和用户控制的原则，避免形成对特定浏览器供应商的依赖。文章分析了双方的技术观点和潜在影响，指出这一争议反映了浏览器生态系统中关于AI集成、隐私保护和标准制定的更广泛冲突。Mozilla的反对可能延缓该API的标准化进程，并促使社区重新审视AI在Web平台中的角色。",
+  "tags": [
+    "Chrome",
+    "隐私",
+    "争议",
+    "浏览器",
+    "AI API",
+    "Web标准",
+    "Mozilla"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:23Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Thu, 30 Apr 2026 07:43:55 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

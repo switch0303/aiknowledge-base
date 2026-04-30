@@ -1,0 +1,35 @@
+{
+  "id": "rss-f11de7089b79",
+  "title": "\"Parse, don&#x27;t validate\" through the years with C++",
+  "source_url": "https://derekrodriguez.dev/parse-dont-validate-through-the-years-with-c-/",
+  "source_type": "rss",
+  "summary": "本文探讨了C++编程中'解析而非验证'的设计理念，通过多年的实践经验展示了如何将输入数据的解析与验证分离，以提高代码的健壮性和可维护性。文章从基本概念出发，解释了传统验证方法（如返回bool值或抛出异常）的局限性，并引入解析器组合子、类型安全解析等高级技术。作者通过C++代码示例，逐步演示了如何构建解析器来将原始数据转换为强类型表示，从而在编译期捕获错误。内容涵盖了从简单字符串解析到复杂结构化数据处理的多种场景，强调了类型系统在减少运行时错误中的作用。文章还讨论了该理念在C++中的演进，包括现代C++特性（如constexpr、模板元编程）如何支持更优雅的解析实现。整体上，这是一篇面向有经验的C++开发者的深度技术文章，提供了实用的设计模式和最佳实践。",
+  "tags": [
+    "C++",
+    "解析验证",
+    "设计模式",
+    "类型安全",
+    "编程实践"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:32Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Mon, 27 Apr 2026 16:08:34 +0000"
+  },
+  "_analysis": {
+    "quality_score": 8,
+    "relevance_score": 7,
+    "language": "en"
+  }
+}

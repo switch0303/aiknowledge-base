@@ -1,0 +1,35 @@
+{
+  "id": "rss-9a6b392d8f50",
+  "title": "Monad Tutorials Timeline",
+  "source_url": "https://wiki.haskell.org/Monad_tutorials_timeline",
+  "source_type": "rss",
+  "summary": "该内容标题为“Monad Tutorials Timeline”，来源为RSS，但原始内容为空，未提供任何描述或具体信息。Monad通常指一种编程概念（如单子）或特定项目（如Monad区块链），但缺乏详细内容无法确认具体指向。由于无实际内容，无法进行技术分析或提取关键信息。",
+  "tags": [
+    "Monad",
+    "RSS",
+    "未定义",
+    "时间线",
+    "教程"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:55Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Thu, 30 Apr 2026 04:28:07 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}
