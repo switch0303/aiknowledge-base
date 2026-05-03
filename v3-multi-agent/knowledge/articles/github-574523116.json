@@ -3,19 +3,19 @@
   "title": "prompts.chat",
   "source_url": "https://github.com/f/prompts.chat",
   "source_type": "github",
-  "summary": "prompts.chat 是一个广受欢迎的开源项目，原名 Awesome ChatGPT Prompts，拥有 161,430 颗星。该项目使用 HTML 构建，旨在让用户分享、发现和收集来自社区的 ChatGPT 提示。它提供免费且开源的自托管解决方案，可以完全在组织内部私有部署，确保隐私。用户可以通过社区贡献不断丰富提示库，适用于各种场景如写作、编程、学习等，帮助提升 ChatGPT 的使用效率。",
+  "summary": "prompts.chat 是一个开源项目，原名 Awesome ChatGPT Prompts，旨在提供一个社区驱动的提示词分享和发现平台。该项目允许用户分享、发现和收集来自社区的提示词，并且支持完全自托管，确保组织的隐私安全。项目使用 HTML 语言开发，拥有超过 16 万星标，是 AI 提示词领域的重要资源。",
   "tags": [
-    "chatgpt",
+    "ChatGPT",
     "提示词",
-    "开源",
-    "社区",
-    "自托管"
+    "社区驱动",
+    "自托管",
+    "开源"
   ],
   "category": "tool",
   "priority": "high",
   "status": "pending",
-  "collected_at": "2026-05-03T12:40:24.010438Z",
-  "processed_at": "2026-05-03T12:41:02.770485Z",
+  "collected_at": "2026-05-03T12:56:50.388634Z",
+  "processed_at": "2026-05-03T12:57:21.121394Z",
   "published_at": null,
   "channels": [
     "telegram",

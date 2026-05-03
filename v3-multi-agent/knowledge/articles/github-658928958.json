@@ -3,19 +3,17 @@
   "title": "ollama",
   "source_url": "https://github.com/ollama/ollama",
   "source_type": "github",
-  "summary": "Ollama 是一个开源工具，旨在简化本地大语言模型的运行和管理。它支持多种主流模型，如 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等，用户可以通过简单的命令行快速启动和交互。该项目使用 Go 语言开发，在 GitHub 上拥有超过 17 万颗星，社区活跃度高。Ollama 降低了本地部署 AI 模型的门槛，适合开发者和爱好者进行实验和应用开发。此外，它提供了模型下载、加载、推理等功能，并支持自定义模型配置，使得用户可以灵活地选择和使用不同的模型。",
+  "summary": "Ollama 是一个开源工具，支持快速本地部署和运行多种大型语言模型，包括 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。项目使用 Go 语言开发，拥有超过 17 万星标，社区活跃度高。它简化了模型管理、推理和 API 交互流程，适合开发者和研究人员在本地环境测试和使用各类主流 AI 模型。该项目降低了模型部署门槛，促进了 AI 应用的开发与实验。",
   "tags": [
     "大语言模型",
-    "本地部署",
-    "开源工具",
-    "模型推理",
-    "命令行工具"
+    "模型部署",
+    "本地推理"
   ],
   "category": "tool",
   "priority": "high",
   "status": "pending",
-  "collected_at": "2026-05-03T12:40:24.010435Z",
-  "processed_at": "2026-05-03T12:41:02.770482Z",
+  "collected_at": "2026-05-03T12:56:50.388631Z",
+  "processed_at": "2026-05-03T12:57:21.121388Z",
   "published_at": null,
   "channels": [
     "telegram",
