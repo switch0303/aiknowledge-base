@@ -1,0 +1,22 @@
+{
+  "id": "github-658928958",
+  "title": "ollama",
+  "source_url": "https://github.com/ollama/ollama",
+  "source_type": "github",
+  "summary": "Ollama 是一个开源项目，使用 Go 语言开发，旨在让用户轻松运行和管理多种大型语言模型，如 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、gpt-oss、Qwen 和 Gemma 等。该项目在 GitHub 上拥有 170605 颗星，表明其受到广泛关注和认可。通过简洁的命令行界面，Ollama 简化了模型的下载、部署和推理过程，降低了使用 LLM 的门槛，适合开发者和研究人员快速实验和集成。",
+  "tags": [
+    "大语言模型",
+    "模型管理",
+    "开源工具"
+  ],
+  "category": "tool",
+  "priority": "high",
+  "status": "pending",
+  "collected_at": "2026-05-03T12:35:52.854025Z",
+  "processed_at": "2026-05-03T12:36:05.834106Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ]
+}

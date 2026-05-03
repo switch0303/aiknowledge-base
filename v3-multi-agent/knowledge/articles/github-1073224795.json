@@ -1,0 +1,22 @@
+{
+  "id": "github-1073224795",
+  "title": "superpowers",
+  "source_url": "https://github.com/obra/superpowers",
+  "source_type": "github",
+  "summary": "Superpowers 是一个基于代理技能的框架和软件开发方法论，旨在提升开发效率和协作能力。该项目使用 Shell 语言实现，获得了较高的社区关注度（176,982 星标），表明其在自动化、工作流优化或开发者工具领域具有显著影响力。框架可能提供模块化的技能组件，支持智能代理的构建与集成，适合用于复杂软件系统的开发与运维场景。",
+  "tags": [
+    "代理技能框架",
+    "软件开发方法论",
+    "Shell"
+  ],
+  "category": "framework",
+  "priority": "high",
+  "status": "pending",
+  "collected_at": "2026-05-03T12:35:52.854017Z",
+  "processed_at": "2026-05-03T12:36:05.834092Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ]
+}
