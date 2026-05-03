@@ -3,19 +3,20 @@
   "title": "AutoGPT",
   "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
   "source_type": "github",
-  "summary": "AutoGPT 是一个旨在使人工智能对每个人都易于访问和构建的项目。其使命是提供工具，让用户专注于重要的事情。该项目使用 Python 语言开发，拥有 183,947 个星标，是一个备受关注的开源项目。AutoGPT 通过自动化任务和决策过程，展示了 AI 在实际应用中的潜力，特别是在自主代理和任务执行方面。",
+  "summary": "AutoGPT是一个开源项目，旨在让AI技术对所有人更易访问和使用。它提供了一系列自动化工具，帮助用户高效完成任务并专注于重要事务。该项目使用Python编写，在GitHub上已获得超过18.3万星标，社区认可度极高，影响力广泛。",
   "tags": [
-    "AI",
-    "自动化",
+    "ai",
     "开源",
-    "Python",
-    "自主代理"
+    "自动化工具",
+    "python",
+    "gpt",
+    "社区认可"
   ],
   "category": "tool",
   "priority": "high",
   "status": "pending",
-  "collected_at": "2026-05-03T12:35:52.854003Z",
-  "processed_at": "2026-05-03T12:36:05.834082Z",
+  "collected_at": "2026-05-03T12:40:24.010416Z",
+  "processed_at": "2026-05-03T12:41:02.770459Z",
   "published_at": null,
   "channels": [
     "telegram",
