@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+
+# 采集生成的数据
+knowledge/articles/*.json
+knowledge/raw/*.json
