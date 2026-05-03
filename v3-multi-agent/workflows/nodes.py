@@ -185,53 +185,6 @@ def organize_node(state: KBState) -> Dict[str, Any]:
     return {"articles": articles, "cost_tracker": _get_cost_data()}
 
 
-def review_node(state: KBState) -> Dict[str, Any]:
-    print("[review_node] 开始审核...")
-
-    articles = state.get("articles", [])
-    iteration = state.get("iteration", 0)
-
-    if iteration >= 2:
-        print(f"[review_node] iteration={iteration}，强制通过")
-        return {"review_passed": True, "review_feedback": "已达到最大重试次数，强制通过", "iteration": iteration + 1, "cost_tracker": _get_cost_data()}
-
-    articles_json = json.dumps(articles, ensure_ascii=False)
-    prompt = f"""审核以下文章，输出 JSON：
-{{
-  "passed": true,
-  "overall_score": 0.8,
-  "feedback": "审核意见",
-  "scores": {{
-    "summary_quality": 0.8,
-    "tag_accuracy": 0.8,
-    "category_reasonable": 0.8,
-    "consistency": 0.8
-  }}
-}}
-
-审核标准：
-1. 摘要质量：信息完整、简洁准确
-2. 标签准确：与内容匹配、分类清晰
-3. 分类合理：属于 paper/tool/framework/news 之一
-4. 一致性：各字段逻辑自洽
-
-文章列表: {articles_json}
-"""
-
-    result = _chat_json(prompt, system="你是严格的内容审核员，输出严格 JSON。")
-
-    passed = result.get("passed", True)
-    feedback = result.get("feedback", "通过")
-
-    print(f"[review_node] 审核结果: {'通过' if passed else '不通过'}, {feedback}")
-    return {
-        "review_passed": passed,
-        "review_feedback": feedback,
-        "iteration": iteration + 1,
-        "cost_tracker": _get_cost_data(),
-    }
-
-
 def save_node(state: KBState) -> Dict[str, Any]:
     print("[save_node] 开始保存文章...")
 

@@ -6,13 +6,14 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from langgraph.graph import StateGraph, END
 
 from workflows.state import KBState
-from workflows.nodes import collect_node, analyze_node, organize_node, review_node, save_node
+from workflows.nodes import collect_node, analyze_node, organize_node, save_node
+from workflows.reviewer import review_node
 
 
 def review_router(state: KBState) -> str:
     if state.get("review_passed", False):
-        return "save"
-    return "organize"
+        return "organize"
+    return "analyze"
 
 
 def build_graph():
@@ -20,25 +21,25 @@ def build_graph():
 
     graph.add_node("collect", collect_node)
     graph.add_node("analyze", analyze_node)
-    graph.add_node("organize", organize_node)
     graph.add_node("review", review_node)
+    graph.add_node("organize", organize_node)
     graph.add_node("save", save_node)
 
     graph.set_entry_point("collect")
 
     graph.add_edge("collect", "analyze")
-    graph.add_edge("analyze", "organize")
-    graph.add_edge("organize", "review")
+    graph.add_edge("analyze", "review")
 
     graph.add_conditional_edges(
         "review",
         review_router,
         {
-            "save": "save",
             "organize": "organize",
+            "analyze": "analyze",
         },
     )
 
+    graph.add_edge("organize", "save")
     graph.add_edge("save", END)
 
     return graph.compile()
