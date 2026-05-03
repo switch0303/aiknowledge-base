@@ -193,7 +193,7 @@ def review_node(state: KBState) -> Dict[str, Any]:
 
     if iteration >= 2:
         print(f"[review_node] iteration={iteration}，强制通过")
-        return {"review_passed": True, "review_feedback": "已达到最大重试次数，强制通过"}
+        return {"review_passed": True, "review_feedback": "已达到最大重试次数，强制通过", "iteration": iteration + 1, "cost_tracker": _get_cost_data()}
 
     articles_json = json.dumps(articles, ensure_ascii=False)
     prompt = f"""审核以下文章，输出 JSON：
