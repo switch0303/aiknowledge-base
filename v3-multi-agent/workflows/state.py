@@ -58,3 +58,16 @@ class KBState(TypedDict):
     包含：total_tokens, prompt_tokens, completion_tokens, total_cost_usd
     每个字段为累计值，按调用累加。
     """
+
+    needs_human_review: bool
+    """是否需要人工审核。
+
+    当超过最大迭代次数仍未通过审核时，标记为 True。
+    标记后的数据将写入 human_review 目录，不进入主知识库。
+    """
+
+    human_review_file: str
+    """人工审核文件路径。
+
+    存储 human_flag_node 生成的待审核文件名，便于后续追踪。
+    """

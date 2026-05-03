@@ -8,12 +8,17 @@ from langgraph.graph import StateGraph, END
 from workflows.state import KBState
 from workflows.nodes import collect_node, analyze_node, organize_node, save_node
 from workflows.reviewer import review_node
+from workflows.reviser import revise_node
+from workflows.human_flag import human_flag_node
 
 
-def review_router(state: KBState) -> str:
+def route_after_review(state: KBState) -> str:
+    """审核后的 3 路条件路由。"""
     if state.get("review_passed", False):
         return "organize"
-    return "analyze"
+    if state.get("iteration", 0) < 3:
+        return "revise"
+    return "human_flag"
 
 
 def build_graph():
@@ -22,6 +27,8 @@ def build_graph():
     graph.add_node("collect", collect_node)
     graph.add_node("analyze", analyze_node)
     graph.add_node("review", review_node)
+    graph.add_node("revise", revise_node)
+    graph.add_node("human_flag", human_flag_node)
     graph.add_node("organize", organize_node)
     graph.add_node("save", save_node)
 
@@ -32,13 +39,16 @@ def build_graph():
 
     graph.add_conditional_edges(
         "review",
-        review_router,
+        route_after_review,
         {
             "organize": "organize",
-            "analyze": "analyze",
+            "revise": "revise",
+            "human_flag": "human_flag",
         },
     )
 
+    graph.add_edge("revise", "review")
+    graph.add_edge("human_flag", END)
     graph.add_edge("organize", "save")
     graph.add_edge("save", END)
 
@@ -56,6 +66,8 @@ if __name__ == "__main__":
         "review_passed": False,
         "iteration": 0,
         "cost_tracker": {},
+        "needs_human_review": False,
+        "human_review_file": "",
     }
 
     for output in app.stream(initial_state):
@@ -87,6 +99,17 @@ if __name__ == "__main__":
                 print(f"审核结果: {'通过' if passed else '不通过'}")
                 print(f"审核意见: {feedback}")
                 print(f"迭代次数: {iteration}")
+
+            elif node_name == "revise":
+                improved_count = len(node_output.get("analyses", []))
+                print(f"修正条目数: {improved_count}")
+                if improved_count:
+                    cost = node_output.get("cost_tracker", {})
+                    print(f"累计 Token: {cost.get('total_tokens', 0)}")
+
+            elif node_name == "human_flag":
+                print(f"状态: 已标记人工审核")
+                print(f"文件: {node_output.get('human_review_file', '')}")
 
             elif node_name == "save":
                 print("文章已保存到 knowledge/articles/")
