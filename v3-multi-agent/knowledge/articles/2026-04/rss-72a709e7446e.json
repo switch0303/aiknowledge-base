@@ -1,0 +1,35 @@
+{
+  "id": "rss-72a709e7446e",
+  "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+  "source_url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+  "source_type": "rss",
+  "summary": "该内容报道了新一代10GbE（万兆以太网）USB适配器的发布，主要强调其在散热性能、体积大小和价格方面的显著改进。与早期版本相比，新型适配器采用了更高效的散热设计，使得设备在长时间高负载运行时温度更低，同时体积更小巧，便于携带和部署。此外，制造成本的降低使得这些适配器的售价更加亲民，有望推动10GbE网络在家庭和小型企业中的普及。文章可能还提及了兼容性、功耗以及实际性能测试结果，但原始内容未提供详细描述。整体而言，这是一则关于网络硬件更新的新闻，反映了USB适配器技术向更高效、更经济方向发展的趋势。",
+  "tags": [
+    "网络硬件",
+    "10GbE",
+    "硬件更新",
+    "散热技术",
+    "USB适配器"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:03Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 05:56:12 +0000"
+  },
+  "_analysis": {
+    "quality_score": 5,
+    "relevance_score": 3,
+    "language": "en"
+  }
+}

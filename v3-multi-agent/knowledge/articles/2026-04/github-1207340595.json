@@ -1,0 +1,38 @@
+{
+  "id": "github-1207340595",
+  "title": "ParseBench",
+  "source_url": "https://github.com/run-llama/ParseBench",
+  "source_type": "github",
+  "summary": "ParseBench 是一个专为 AI 代理设计的文档解析基准测试项目，旨在评估和比较不同文档解析工具或模型在处理复杂文档结构时的性能。该项目提供了一个标准化的测试框架，包含多种类型的文档（如PDF、扫描件、表格、表单等），以及对应的解析任务和评估指标。通过 ParseBench，开发者可以客观衡量其解析系统在准确性、鲁棒性和效率方面的表现，从而推动文档理解技术的发展。该基准测试特别关注AI代理在实际应用中面临的挑战，如非结构化数据提取、多模态内容处理以及复杂布局解析。项目开源在GitHub上，提供了数据集、评估脚本和参考实现，便于社区参与和贡献。ParseBench 的发布有助于填补文档解析领域缺乏统一评估标准的空白，促进相关技术的进步。",
+  "tags": [
+    "基准测试",
+    "AI代理",
+    "信息提取",
+    "文档解析",
+    "开源项目"
+  ],
+  "category": "resource",
+  "content_en": "ParseBench - A Document Parsing Benchmark for AI Agents",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:25:57Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 424,
+    "language": "Python",
+    "author": "run-llama",
+    "created_at": "2026-04-10T20:46:33Z",
+    "updated_at": "2026-04-25T05:53:43Z"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

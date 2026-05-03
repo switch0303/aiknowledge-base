@@ -1,0 +1,35 @@
+{
+  "id": "rss-8fa0ef48ec61",
+  "title": "Google plans to invest up to $40B in Anthropic",
+  "source_url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+  "source_type": "rss",
+  "summary": "谷歌计划向人工智能公司Anthropic投资高达400亿美元，这一重大投资表明谷歌在AI领域的战略布局进一步深化。Anthropic是一家专注于AI安全与研究的公司，其开发的Claude系列模型在自然语言处理领域具有重要影响力。此次投资将有助于谷歌增强其在AI领域的竞争力，尤其是在大语言模型和AI安全技术方面。同时，这也反映了科技巨头之间在AI领域的激烈竞争，以及对于AI技术未来发展的巨大信心。该投资可能推动AI技术的进一步创新，并影响整个行业的格局。",
+  "tags": [
+    "AI投资",
+    "谷歌",
+    "AI安全",
+    "Anthropic",
+    "大语言模型"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:00Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Fri, 24 Apr 2026 16:04:41 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

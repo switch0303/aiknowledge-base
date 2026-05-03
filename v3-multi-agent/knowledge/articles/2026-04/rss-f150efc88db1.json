@@ -1,0 +1,35 @@
+{
+  "id": "rss-f150efc88db1",
+  "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+  "source_url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+  "source_type": "rss",
+  "summary": "该内容探讨了在技术项目中因过度思考、范围蔓延和结构性差异（structural diffing）而导致项目失败或受阻的常见问题。过度思考指团队在决策时陷入无休止的分析和讨论，延误了实际进展；范围蔓延则指项目需求不断被添加，超出原始边界，导致资源分散和交付延迟；结构性差异是一种技术概念，可能指代码或系统架构变更时，因对差异理解不足而引入的复杂性和错误。文章可能通过案例或理论分析，揭示了这些行为如何相互关联，共同破坏项目效率，并提出了避免或缓解这些问题的策略，如明确边界、简化决策流程和采用更有效的差异管理工具。整体上，内容聚焦于项目管理与工程实践中的认知偏差和技术挑战。",
+  "tags": [
+    "项目管理",
+    "过度思考",
+    "范围蔓延",
+    "软件工程",
+    "结构性差异"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:29Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Fri, 24 Apr 2026 14:28:52 +0000"
+  },
+  "_analysis": {
+    "quality_score": 6,
+    "relevance_score": 7,
+    "language": "en"
+  }
+}

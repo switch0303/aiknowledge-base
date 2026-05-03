@@ -1,0 +1,38 @@
+{
+  "id": "github-250213286",
+  "title": "datasets",
+  "source_url": "https://github.com/huggingface/datasets",
+  "source_type": "github",
+  "summary": "该内容介绍了Hugging Face的Datasets库，这是一个面向AI模型的大型数据集中心，提供了快速、易用且高效的数据操作工具。作为GitHub上的开源资源，它汇集了众多即用型数据集，支持自然语言处理、计算机视觉等多种AI任务。用户可以通过简单的API加载、预处理和转换数据，从而加速模型训练和评估流程。该库强调易用性和性能优化，旨在降低数据处理的复杂度，使研究人员和开发者能够更专注于模型开发。整体上，这是一个重要的AI资源，为社区提供了标准化的数据访问和管理方式。",
+  "tags": [
+    "数据集",
+    "Hugging Face",
+    "数据预处理",
+    "自然语言处理",
+    "开源工具"
+  ],
+  "category": "resource",
+  "content_en": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:05:40Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 21469,
+    "language": "Python",
+    "author": "huggingface",
+    "created_at": "2020-03-26T09:23:22Z",
+    "updated_at": "2026-04-30T02:14:54Z"
+  },
+  "_analysis": {
+    "quality_score": 8,
+    "relevance_score": 10,
+    "language": "en"
+  }
+}

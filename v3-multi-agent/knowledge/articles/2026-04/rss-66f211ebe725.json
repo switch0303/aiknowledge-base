@@ -1,0 +1,35 @@
+{
+  "id": "rss-66f211ebe725",
+  "title": "The Joy of Folding Bikes",
+  "source_url": "https://blog.korny.info/2026/04/19/the-joy-of-folding-bikes",
+  "source_type": "rss",
+  "summary": "该内容标题为'The Joy of Folding Bikes'，来源于RSS订阅，但原始内容描述为空，未提供任何具体技术细节或文本。因此，无法提取有效技术信息或进行深度分析。标题暗示可能涉及折叠自行车的使用体验、设计或技术特点，但缺乏实际内容支撑。基于现有信息，该内容无法归类为技术论文、工具、框架、新闻或资源，且质量与AI相关度均无法评估。",
+  "tags": [
+    "骑行体验",
+    "折叠自行车",
+    "未分类",
+    "生活方式",
+    "产品设计"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T09:00:51Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 22 Apr 2026 16:50:27 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

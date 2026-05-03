@@ -1,0 +1,35 @@
+{
+  "id": "rss-508725e9ae31",
+  "title": "Tell HN: An app is silently installing itself on my iPhone every day",
+  "source_url": "https://news.ycombinator.com/item?id=47906253",
+  "source_type": "rss",
+  "summary": "该内容来自Hacker News，标题为'Tell HN: An app is silently installing itself on my iPhone every day'，但原始内容无描述。根据标题推测，这是一则用户报告，描述其iPhone每天被静默安装一个应用，可能涉及iOS系统的隐私或安全漏洞、恶意软件或未经授权的应用安装行为。该内容属于用户社区的技术问题反馈，可能引发对Apple应用审核机制、设备管理配置或第三方应用权限的讨论。由于缺乏具体细节，无法确认应用来源或技术原理，但此类问题通常与MDM（移动设备管理）配置、恶意配置文件或App Store漏洞相关。整体上，这是一条技术新闻或用户求助帖，反映了移动设备安全领域的潜在风险。",
+  "tags": [
+    "应用安装",
+    "用户反馈",
+    "恶意软件",
+    "iOS安全",
+    "隐私漏洞"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T09:00:09Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 00:50:56 +0000"
+  },
+  "_analysis": {
+    "quality_score": 4,
+    "relevance_score": 6,
+    "language": "en"
+  }
+}

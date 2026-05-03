@@ -1,0 +1,38 @@
+{
+  "id": "github-866517667",
+  "title": "RAGHub",
+  "source_url": "https://github.com/Andrew-Jang/RAGHub",
+  "source_type": "github",
+  "summary": "RAGHub 是一个由社区驱动的资源集合，专注于检索增强生成（RAG）领域。该项目汇集了多种 RAG 框架、项目和相关资源，旨在帮助开发者、研究者和爱好者探索不断演进的 RAG 生态系统。用户可以通过贡献和浏览该仓库，获取最新的 RAG 技术实现、工具和最佳实践。该资源库涵盖了从基础框架到高级应用的广泛内容，适合不同层次的学习和开发需求。通过社区协作，RAGHub 持续更新，反映了 RAG 技术的最新进展和趋势。",
+  "tags": [
+    "框架集合",
+    "检索增强生成",
+    "开源项目",
+    "RAG",
+    "社区资源"
+  ],
+  "category": "resource",
+  "content_en": "A community-driven collection of RAG (Retrieval-Augmented Generation) frameworks, projects, and resources. Contribute and explore the evolving RAG ecosystem.",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-26T08:58:39Z",
+  "processed_at": "2026-04-26T08:59:32Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 1715,
+    "language": "Unknown",
+    "author": "Andrew-Jang",
+    "created_at": "2024-10-02T12:07:52Z",
+    "updated_at": "2026-04-25T19:31:32Z"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

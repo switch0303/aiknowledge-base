@@ -1,0 +1,35 @@
+{
+  "id": "rss-586e893d9d02",
+  "title": "Men who stare at walls",
+  "source_url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+  "source_type": "rss",
+  "summary": "该内容标题为“Men who stare at walls”，来源为rss，但原始内容为空，无具体描述。因此无法提取详细的技术内容、背景或分析。标题可能暗示某种技术或心理现象，但缺乏实质信息。基于现有信息，无法进行有意义的摘要。",
+  "tags": [
+    "未知",
+    "无内容",
+    "待补充",
+    "rss",
+    "标题仅存"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:13:40Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Mon, 27 Apr 2026 11:08:26 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

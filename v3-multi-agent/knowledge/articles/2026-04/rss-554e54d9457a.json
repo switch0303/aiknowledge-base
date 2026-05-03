@@ -1,0 +1,35 @@
+{
+  "id": "rss-554e54d9457a",
+  "title": "The Zig project&#x27;s rationale for their anti-AI contribution policy",
+  "source_url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+  "source_type": "rss",
+  "summary": "该内容讨论了Zig项目团队制定的一项反AI贡献政策及其背后的理由。Zig是一种系统编程语言，其项目维护者决定禁止使用AI工具（如GitHub Copilot或ChatGPT）生成的代码贡献，主要基于对代码质量、版权归属、法律责任和项目长期维护的担忧。政策制定者认为，AI生成的代码可能包含未经许可的第三方代码片段，导致版权纠纷；同时，AI缺乏对项目设计哲学和编码规范的深入理解，可能引入难以调试的隐蔽错误。此外，维护者担心AI贡献会降低社区贡献者的参与度和责任感，破坏开源协作的精神。该政策要求所有贡献者声明其代码为原创或明确获得许可，并禁止使用AI工具生成补丁。这一决定在开发者社区引发了广泛讨论，反映了AI工具在开源项目中应用时面临的伦理、法律和技术挑战。",
+  "tags": [
+    "代码版权",
+    "Zig语言",
+    "开源政策",
+    "开发者社区",
+    "AI伦理"
+  ],
+  "category": "news",
+  "content_en": "",
+  "content_zh": "No description",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:17Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Thu, 30 Apr 2026 02:15:47 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "zh"
+  }
+}

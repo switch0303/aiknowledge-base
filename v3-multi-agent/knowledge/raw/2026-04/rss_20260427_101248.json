@@ -1,0 +1,246 @@
+{
+  "source": "rss",
+  "collected_at": "2026-04-27T10:12:48Z",
+  "items": [
+    {
+      "id": "rss-a117efedeb6c",
+      "source": "rss",
+      "source_url": "https://flipdisc.io",
+      "title": "Flipdiscs",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Thu, 23 Apr 2026 13:54:31 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-0c79a4c23213",
+      "source": "rss",
+      "source_url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+      "title": "I bought Friendster for $30k – Here&#x27;s what I&#x27;m doing with it",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sun, 26 Apr 2026 20:41:06 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-3c67ba7cc87f",
+      "source": "rss",
+      "source_url": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
+      "title": "Bob Odenkirk would like to remind you that life is a meaningless farce",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sun, 26 Apr 2026 12:42:11 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-5266de2603a0",
+      "source": "rss",
+      "source_url": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
+      "title": "It&#x27;s OK to abandon your side-project (2024)",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 08:11:16 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-8b3cee7d36dd",
+      "source": "rss",
+      "source_url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "title": "AI should elevate your thinking, not replace it",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sun, 26 Apr 2026 20:03:12 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-60dd06c7f61d",
+      "source": "rss",
+      "source_url": "https://arkaung.github.io/interactive-turboquant/",
+      "title": "TurboQuant: A first-principles walkthrough",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 01:54:32 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-571167b7c123",
+      "source": "rss",
+      "source_url": "https://interblah.net/self-updating-screenshots",
+      "title": "Self-updating screenshots",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sun, 26 Apr 2026 07:00:39 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-bf524bfcccd1",
+      "source": "rss",
+      "source_url": "https://developer.chrome.com/docs/ai/prompt-api",
+      "title": "The Prompt API",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 02:18:58 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-6b4d4d561ccd",
+      "source": "rss",
+      "source_url": "https://jordanlord.co.uk/blog/3-constraints/",
+      "title": "Three constraints before I build anything",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sat, 25 Apr 2026 18:41:03 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-7257f39ad801",
+      "source": "rss",
+      "source_url": "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html",
+      "title": "Rust Memory Management: Ownership vs. Reference Counting",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sat, 25 Apr 2026 09:20:55 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-95c3f56b9513",
+      "source": "rss",
+      "source_url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sun, 26 Apr 2026 20:18:37 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-f7286312c6d2",
+      "source": "rss",
+      "source_url": "https://arun.is/blog/cheap-cool/",
+      "title": "When the cheap one is the cool one",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sun, 26 Apr 2026 01:25:13 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-42e0b15130e1",
+      "source": "rss",
+      "source_url": "https://pressbooks-dev.oer.hawaii.edu/epet302/",
+      "title": "A Guide to CubeSat Mission and Bus Design",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sun, 26 Apr 2026 02:15:36 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-f28de004c955",
+      "source": "rss",
+      "source_url": "https://dystroy.org/blog/box-to-save-memory/",
+      "title": "Box to save memory in Rust",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Thu, 23 Apr 2026 17:02:24 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-7ad5899db020",
+      "source": "rss",
+      "source_url": "http://amasci.com/static/electrostatic1.html",
+      "title": "Electrostatics and High Voltage Links",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Fri, 24 Apr 2026 09:47:21 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-18d64ced60e5",
+      "source": "rss",
+      "source_url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sun, 26 Apr 2026 13:58:13 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-53cacfbbc77a",
+      "source": "rss",
+      "source_url": "https://github.com/ebrandi/FDD-book",
+      "title": "FreeBSD Device Drivers Book",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sun, 26 Apr 2026 22:53:06 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-04230962860b",
+      "source": "rss",
+      "source_url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+      "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sun, 26 Apr 2026 20:56:30 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-7bae1e9c180d",
+      "source": "rss",
+      "source_url": "http://www.os2museum.com/wp/mystery-cpuid-bit/",
+      "title": "Mystery Cpuid Bit",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sat, 25 Apr 2026 06:27:06 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    },
+    {
+      "id": "rss-5b0b5c7c102a",
+      "source": "rss",
+      "source_url": "https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/",
+      "title": "The Mushroom That Makes People Have the Exact Same Hallucination",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 07:21:17 +0000"
+      },
+      "collected_at": "2026-04-27T10:12:47Z"
+    }
+  ]
+}

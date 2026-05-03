@@ -1,0 +1,35 @@
+{
+  "id": "rss-c6d2cd33a764",
+  "title": "\"Plain text has been around for decades and it&#x27;s here to stay.\" – Unsung",
+  "source_url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+  "source_type": "rss",
+  "summary": "该内容标题引用了一句关于纯文本（Plain text）的陈述，强调其数十年的历史地位和持续存在的价值。内容来源为RSS订阅，但原始内容描述为空，缺乏具体的技术细节、论证或上下文。因此，分析基于标题本身：纯文本作为一种基础数据格式，在计算机科学和信息技术领域具有持久的重要性，广泛应用于编程、数据存储、通信协议等场景。尽管没有展开讨论，但标题暗示了对纯文本简洁性、可读性和跨平台兼容性的认可。整体内容极为简短，缺乏深度和实质性信息，可能仅为一个观点或引用的片段。",
+  "tags": [
+    "历史观点",
+    "技术哲学",
+    "基础技术",
+    "数据格式",
+    "纯文本"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:26Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 01:03:09 +0000"
+  },
+  "_analysis": {
+    "quality_score": 2,
+    "relevance_score": 3,
+    "language": "en"
+  }
+}

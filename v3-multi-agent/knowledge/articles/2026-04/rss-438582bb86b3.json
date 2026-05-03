@@ -1,0 +1,35 @@
+{
+  "id": "rss-438582bb86b3",
+  "title": "OpenTrafficMap",
+  "source_url": "https://opentrafficmap.org/",
+  "source_type": "rss",
+  "summary": "OpenTrafficMap是一个专注于交通数据可视化和分析的开源项目，旨在提供实时交通流量、道路状况和出行模式的地图展示。该项目可能整合了多种数据源（如GPS轨迹、传感器数据或公开交通报告），并通过交互式地图界面帮助用户理解城市交通动态。虽然原始内容未提供详细描述，但基于名称推测，它类似于OpenStreetMap的交通扩展，可能支持开发者自定义图层、历史数据回放或拥堵预测功能。该工具对于城市规划、物流优化和智能交通系统研究具有潜在价值，但缺乏具体技术细节和文档说明。",
+  "tags": [
+    "实时监测",
+    "智能交通",
+    "交通地图",
+    "数据可视化",
+    "开源工具"
+  ],
+  "category": "tool",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:45Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 29 Apr 2026 19:49:30 +0000"
+  },
+  "_analysis": {
+    "quality_score": 4,
+    "relevance_score": 6,
+    "language": "en"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rss-114eebda8666",
+  "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+  "source_url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+  "source_type": "rss",
+  "summary": "该内容报道了微软与OpenAI终止独家合作关系及收入分成协议的消息。此前，微软作为OpenAI的主要投资者和独家云服务提供商，深度参与了其技术商业化。此次终止意味着OpenAI将能够自由选择其他云服务商和合作伙伴，同时微软也可能调整其AI战略布局。这一变化可能对全球AI产业格局产生深远影响，包括云服务市场竞争、AI模型商业化路径以及双方未来在技术研发上的协作模式。报道未提供具体细节，但暗示了双方在商业利益和战略方向上的分歧。",
+  "tags": [
+    "OpenAI",
+    "AI合作",
+    "产业格局",
+    "商业协议",
+    "微软"
+  ],
+  "category": "news",
+  "content_en": "",
+  "content_zh": "No description",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:13:14Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Mon, 27 Apr 2026 13:22:42 +0000"
+  },
+  "_analysis": {
+    "quality_score": 6,
+    "relevance_score": 9,
+    "language": "zh"
+  }
+}

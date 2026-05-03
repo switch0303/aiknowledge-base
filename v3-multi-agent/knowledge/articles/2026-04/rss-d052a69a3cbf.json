@@ -1,0 +1,35 @@
+{
+  "id": "rss-d052a69a3cbf",
+  "title": "Tiled Words 6 Month Update",
+  "source_url": "https://paulmakeswebsites.com/writing/six-months-of-tiled-words/",
+  "source_type": "rss",
+  "summary": "该内容标题为'Tiled Words 6 Month Update'，来源为RSS，但原始内容描述为空，无法获取具体技术细节。根据标题推测，这可能是一个名为'Tiled Words'的项目或产品的六个月更新报告，涉及技术进展、功能迭代或社区反馈。由于缺乏具体内容，无法提供详细摘要。建议补充原始内容以进行准确分析。",
+  "tags": [
+    "未知领域",
+    "技术进展",
+    "产品迭代",
+    "项目更新",
+    "RSS"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:14:04Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 19:14:49 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

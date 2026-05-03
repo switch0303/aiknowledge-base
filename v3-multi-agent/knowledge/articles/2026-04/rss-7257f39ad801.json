@@ -1,0 +1,35 @@
+{
+  "id": "rss-7257f39ad801",
+  "title": "Rust Memory Management: Ownership vs. Reference Counting",
+  "source_url": "https://slicker.me/rust/ownership_and_borrowing_vs_reference_counting.html",
+  "source_type": "rss",
+  "summary": "该内容探讨了Rust语言中两种核心内存管理机制：所有权（Ownership）与引用计数（Reference Counting）。所有权是Rust的独特特性，通过编译时规则确保内存安全，无需垃圾回收器，每个值有唯一所有者，通过借用和生命周期管理引用。引用计数（如Rc<T>和Arc<T>）则允许多个所有者共享数据，通过运行时计数决定何时释放内存，适用于图结构或多线程场景。文章对比了两种方法的性能、安全性和适用场景：所有权提供零成本抽象和确定性释放，但限制共享；引用计数牺牲部分性能以换取灵活性，但可能引入循环引用问题。整体上，内容深入浅出，适合Rust初学者理解内存管理核心概念，并帮助开发者根据需求选择合适策略。",
+  "tags": [
+    "Rust",
+    "所有权",
+    "系统编程",
+    "引用计数",
+    "内存管理"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:14:28Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 09:20:55 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 6,
+    "language": "en"
+  }
+}

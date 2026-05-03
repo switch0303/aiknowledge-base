@@ -1,0 +1,35 @@
+{
+  "id": "rss-4430dcd23dc9",
+  "title": "The Classic American Diner",
+  "source_url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+  "source_type": "rss",
+  "summary": "该内容标题为“The Classic American Diner”，来源为rss，但原始内容为空，仅提供“No description”。由于缺乏具体技术内容，无法提取详细摘要。标题可能指向美国经典餐厅文化，与AI技术无关。",
+  "tags": [
+    "内容缺失",
+    "非技术内容",
+    "rss源",
+    "无描述",
+    "文化主题"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:38Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Fri, 24 Apr 2026 19:01:09 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

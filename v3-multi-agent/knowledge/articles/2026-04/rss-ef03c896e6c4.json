@@ -1,0 +1,35 @@
+{
+  "id": "rss-ef03c896e6c4",
+  "title": "I won a championship that doesn&#x27;t exist",
+  "source_url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
+  "source_type": "rss",
+  "summary": "该内容标题为“I won a championship that doesn't exist”，来源为RSS，但原始内容为空（No description）。由于缺乏具体的技术细节、上下文或可分析的主体内容，无法提取任何技术信息、应用场景或技术价值。标题暗示可能涉及虚构或非现实的成就，但无法确认其与技术领域的关联。因此，该内容不具备技术分析的基础，属于无效或缺失内容。",
+  "tags": [
+    "无技术信息",
+    "无效内容",
+    "RSS源",
+    "标题模糊",
+    "内容缺失"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:05:36Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Tue, 28 Apr 2026 20:38:21 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

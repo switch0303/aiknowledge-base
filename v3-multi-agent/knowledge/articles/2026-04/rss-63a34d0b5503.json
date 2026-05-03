@@ -1,0 +1,35 @@
+{
+  "id": "rss-63a34d0b5503",
+  "title": "1-Bit Hokusai&#x27;s \"The Great Wave\" (2023)",
+  "source_url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+  "source_type": "rss",
+  "summary": "该内容标题为“1-Bit Hokusai's 'The Great Wave' (2023)”，来源为RSS，但未提供具体描述。根据标题推测，这可能是一个技术或艺术项目，涉及将葛饰北斋的经典浮世绘《神奈川冲浪里》以1-bit（单色位图）风格进行数字化或艺术化再现。内容可能属于资源或工具类别，展示了如何利用计算机图形学、图像处理或生成式AI技术，将传统艺术作品转换为极简风格的1-bit图像。由于缺乏详细描述，无法确认其技术深度或具体实现方式，但标题暗示了2023年的创作时间，可能与AI艺术、像素艺术或复古数字艺术相关。整体上，该内容可能是一个创意资源或演示项目，适合对数字艺术、图像处理或AI生成艺术感兴趣的受众。",
+  "tags": [
+    "1-bit艺术",
+    "图像处理",
+    "AI生成",
+    "浮世绘",
+    "数字艺术"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T09:00:35Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 22 Apr 2026 13:46:23 +0000"
+  },
+  "_analysis": {
+    "quality_score": 4,
+    "relevance_score": 5,
+    "language": "en"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rss-8466b92e9d64",
+  "title": "Humpback whales are forming super-groups",
+  "source_url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
+  "source_type": "rss",
+  "summary": "该内容标题为“座头鲸正在形成超级群体”，来源为RSS订阅，但原始内容缺失描述，无法获取详细信息。基于标题推测，内容可能涉及海洋生物学或生态学领域，描述座头鲸行为变化，即它们开始聚集形成比以往更大规模的群体。这一现象可能与海洋环境变化、食物资源分布或人类活动影响有关。然而，由于缺乏具体内容，无法确认其技术深度或AI相关性。该内容可能属于新闻或科普类报道，但未提供可分析的技术细节。",
+  "tags": [
+    "生态变化",
+    "新闻",
+    "海洋生物学",
+    "动物行为",
+    "座头鲸"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:12Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 22 Apr 2026 02:55:49 +0000"
+  },
+  "_analysis": {
+    "quality_score": 2,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

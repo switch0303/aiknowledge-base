@@ -1,0 +1,35 @@
+{
+  "id": "rss-f5b3b2b7cdf4",
+  "title": "Tip: Web requests should not be measured in Hz [Hertz]",
+  "source_url": "https://mastodon.catgirl.cloud/@sophie/116467789133733136",
+  "source_type": "rss",
+  "summary": "该内容标题为'Tip: Web requests should not be measured in Hz [Hertz]'，来源于RSS，但原始内容描述为空。从标题推断，内容主要讨论Web请求的度量单位问题，指出不应使用赫兹（Hz）来衡量Web请求。赫兹通常用于表示频率（每秒周期数），而Web请求的度量更适合使用每秒请求数（RPS）或吞吐量等指标。该提示可能涉及性能测试、系统监控或网络工程中的常见误区，强调正确选择度量单位以避免误解。由于缺乏具体内容，无法深入分析技术细节，但标题本身具有技术指导意义，适合作为开发或运维人员的参考提示。",
+  "tags": [
+    "度量单位",
+    "Web性能",
+    "系统监控",
+    "性能测试",
+    "网络工程"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T09:00:25Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 07:13:08 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 5,
+    "language": "en"
+  }
+}

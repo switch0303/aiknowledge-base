@@ -1,0 +1,35 @@
+{
+  "id": "rss-ef0b642697d9",
+  "title": "The route from Prussian military headquarters to Gary Gygax’s basement",
+  "source_url": "https://asteriskmag.com/issues/14/shall-we-play-a-game",
+  "source_type": "rss",
+  "summary": "该内容标题暗示了一条从普鲁士军事总部到Gary Gygax地下室的路径，可能探讨历史、军事战略与角色扮演游戏（如《龙与地下城》）之间的关联。由于原始内容无描述，推测其可能涉及普鲁士军事思想如何影响游戏设计，尤其是Gygax在创作D&D时借鉴的战争游戏元素。内容可能涵盖军事历史、游戏设计理论、文化传播等主题，但缺乏具体细节，无法确定其技术深度或AI相关性。",
+  "tags": [
+    "军事历史",
+    "游戏设计",
+    "角色扮演游戏",
+    "文化影响",
+    "Gary Gygax"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T09:00:16Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Thu, 23 Apr 2026 16:34:40 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

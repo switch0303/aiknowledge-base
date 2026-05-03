@@ -1,0 +1,35 @@
+{
+  "id": "rss-7df92c1c003f",
+  "title": "My audio interface has SSH enabled by default",
+  "source_url": "https://hhh.hn/rodecaster-duo-fw/",
+  "source_type": "rss",
+  "summary": "该内容标题为“My audio interface has SSH enabled by default”，来自RSS源，但未提供具体描述。根据标题推测，内容可能涉及某款音频接口设备默认启用了SSH（安全外壳协议）功能。这通常意味着该设备具有网络连接能力，并允许通过SSH进行远程访问或管理。此类情况可能引发安全关注，因为默认开启SSH可能带来未授权访问风险，尤其是在未更改默认凭据或未配置防火墙的情况下。内容可能属于技术新闻或安全公告，讨论设备默认配置的安全隐患，或提供如何禁用或加固SSH的指南。由于缺乏详细描述，无法确认具体设备型号或厂商，但整体上属于网络设备安全与配置管理领域。",
+  "tags": [
+    "音频接口",
+    "网络安全",
+    "设备管理",
+    "默认配置",
+    "SSH"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:19Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Fri, 24 Apr 2026 19:30:46 +0000"
+  },
+  "_analysis": {
+    "quality_score": 4,
+    "relevance_score": 5,
+    "language": "en"
+  }
+}

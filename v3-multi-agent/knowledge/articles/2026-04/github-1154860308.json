@@ -1,0 +1,38 @@
+{
+  "id": "github-1154860308",
+  "title": "ai-functions",
+  "source_url": "https://github.com/strands-labs/ai-functions",
+  "source_type": "github",
+  "summary": "ai-functions 是一个基于 GitHub 的开源项目，旨在通过 AI 代理（agents）增强 Python 函数的执行能力。其核心特性在于为 Python 函数引入运行时后置条件（runtime post-conditions），从而确保代理工作流（agentic workflows）的可靠性与可预测性。该项目允许开发者定义函数时指定后置条件，AI 代理在运行时自动验证这些条件是否满足，若未满足则触发重试或修正逻辑，从而减少错误传播并提升自动化流程的鲁棒性。该工具适用于需要动态决策、多步骤任务编排或与大型语言模型（LLM）交互的场景，如自动化数据处理、智能 API 调用、复杂业务逻辑编排等。通过将 AI 代理的灵活性与函数式编程的确定性结合，ai-functions 为构建可靠、可维护的智能工作流提供了一种轻量级解决方案。",
+  "tags": [
+    "后置条件",
+    "函数增强",
+    "AI代理",
+    "Python",
+    "工作流自动化"
+  ],
+  "category": "tool",
+  "content_en": "Python functions powered by AI agents - with runtime post-conditions for reliable agentic workflows.",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:05:23Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 266,
+    "language": "Python",
+    "author": "strands-labs",
+    "created_at": "2026-02-10T21:21:15Z",
+    "updated_at": "2026-04-30T07:20:39Z"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rss-4eb2ed33740a",
+  "title": "Firefox Has Integrated Brave&#x27;s Adblock Engine",
+  "source_url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+  "source_type": "rss",
+  "summary": "该内容报道了Firefox浏览器集成了Brave开发的广告拦截引擎。这一技术整合意味着Firefox将采用Brave的广告过滤技术来提升其内置的广告拦截能力，从而为用户提供更高效、更隐私保护的浏览体验。Brave的广告拦截引擎以其高性能和低资源消耗著称，集成后Firefox用户将受益于更快的页面加载速度和更少的追踪器干扰。此举反映了开源浏览器社区之间的技术合作，以及浏览器厂商在隐私保护和用户体验优化方面的持续竞争。虽然原始内容未提供详细描述，但这一新闻对关注浏览器技术、广告拦截和隐私保护的技术人员具有参考价值。",
+  "tags": [
+    "隐私保护",
+    "Brave",
+    "广告拦截",
+    "Firefox",
+    "浏览器"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:46Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 01:47:33 +0000"
+  },
+  "_analysis": {
+    "quality_score": 6,
+    "relevance_score": 7,
+    "language": "en"
+  }
+}

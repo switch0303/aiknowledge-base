@@ -1,0 +1,35 @@
+{
+  "id": "rss-33cc44f66e5a",
+  "title": "Flickr: The first and last great photo platform",
+  "source_url": "https://petapixel.com/2026/04/22/flickr-the-first-and-last-great-photo-platform/",
+  "source_type": "rss",
+  "summary": "该内容标题为“Flickr: The first and last great photo platform”，来自rss源，但原始内容为空，无具体描述。基于标题推测，内容可能探讨Flickr作为首个且最后一个伟大的照片平台的历史地位、技术影响或行业意义。由于缺乏正文，无法提供详细摘要，仅能反映标题所暗示的怀旧或批判性分析。",
+  "tags": [
+    "技术历史",
+    "照片平台",
+    "社交媒体",
+    "摄影",
+    "Flickr"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T09:00:28Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 22 Apr 2026 18:34:21 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 2,
+    "language": "en"
+  }
+}

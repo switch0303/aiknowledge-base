@@ -1,0 +1,35 @@
+{
+  "id": "rss-e9c3233da747",
+  "title": "The woes of sanitizing SVGs",
+  "source_url": "https://muffin.ink/blog/scratch-svg-sanitization/",
+  "source_type": "rss",
+  "summary": "该内容讨论了在Web应用中清理和消毒SVG（可缩放矢量图形）文件时面临的挑战与问题。SVG作为一种基于XML的矢量图像格式，因其灵活性和交互性被广泛使用，但同时也带来了安全风险，如跨站脚本攻击（XSS）和代码注入。文章详细分析了SVG消毒的难点，包括如何正确处理嵌套元素、事件处理器、外部资源引用以及复杂的命名空间。此外，还探讨了现有消毒库（如DOMPurify）的局限性，以及为什么简单的正则表达式或黑名单方法不足以应对所有攻击向量。内容强调了在保持SVG功能性的同时确保安全性的平衡问题，并提出了可能的改进方向，如使用更严格的解析器和上下文感知的过滤策略。整体上，这是一篇针对前端安全开发者的技术分析文章。",
+  "tags": [
+    "Web安全",
+    "前端开发",
+    "SVG",
+    "XSS",
+    "安全"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:14:02Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Mon, 27 Apr 2026 15:31:36 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 8,
+    "language": "en"
+  }
+}

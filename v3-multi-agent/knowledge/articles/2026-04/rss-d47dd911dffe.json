@@ -1,0 +1,35 @@
+{
+  "id": "rss-d47dd911dffe",
+  "title": "Where the goblins came from",
+  "source_url": "https://openai.com/index/where-the-goblins-came-from/",
+  "source_type": "rss",
+  "summary": "该内容标题为“Where the goblins came from”，来源为RSS，但原始内容描述为空，无法获取具体技术细节。从标题推测，可能涉及奇幻或游戏领域的背景故事、文化起源或隐喻性技术讨论，但缺乏实际内容支撑。由于无描述，无法进行技术分析或提取有效信息。",
+  "tags": [
+    "未知内容",
+    "待确认",
+    "文化隐喻",
+    "RSS源",
+    "无描述"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:06Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Thu, 30 Apr 2026 03:21:04 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

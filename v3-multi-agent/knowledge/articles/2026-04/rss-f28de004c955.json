@@ -1,0 +1,35 @@
+{
+  "id": "rss-f28de004c955",
+  "title": "Box to save memory in Rust",
+  "source_url": "https://dystroy.org/blog/box-to-save-memory/",
+  "source_type": "rss",
+  "summary": "该内容标题为“Box to save memory in Rust”，来自RSS源，但原始内容为空，无具体描述。根据标题推测，内容可能探讨Rust语言中Box智能指针在内存管理中的应用，包括其堆分配特性、所有权转移机制以及如何通过Box优化内存使用。Box是Rust中用于在堆上分配数据的指针类型，常用于递归数据结构或需要动态大小类型时。由于缺乏实际内容，无法确认是否涉及性能对比、内存布局或与其他智能指针（如Rc、Arc）的比较。整体而言，该内容可能是一篇技术博客或教程片段，旨在帮助开发者理解Box在Rust内存优化中的作用。",
+  "tags": [
+    "编程语言",
+    "Rust",
+    "Box智能指针",
+    "堆分配",
+    "内存管理"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:14:41Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Thu, 23 Apr 2026 17:02:24 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 5,
+    "language": "en"
+  }
+}

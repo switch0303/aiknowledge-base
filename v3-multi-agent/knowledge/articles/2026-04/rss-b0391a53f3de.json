@@ -1,0 +1,35 @@
+{
+  "id": "rss-b0391a53f3de",
+  "title": "USB Cheat Sheet (2022)",
+  "source_url": "https://fabiensanglard.net/usbcheat/index.html",
+  "source_type": "rss",
+  "summary": "该内容标题为《USB Cheat Sheet (2022)》，来源为RSS订阅，但原始内容描述为空。根据标题推测，这是一份关于USB（通用串行总线）技术的速查表或参考指南，可能涵盖USB接口标准、版本（如USB 2.0、3.0、3.1、3.2、4.0）、引脚定义、数据传输速率、供电能力、协议类型（如USB-C、USB-PD）、常见故障排除或硬件兼容性等实用信息。由于缺乏具体内容，无法确认其深度和完整性，但作为2022年的资源，可能包含当时最新的USB标准更新。该内容属于技术参考类资源，适合硬件工程师、嵌入式开发者或IT技术人员快速查阅。",
+  "tags": [
+    "速查表",
+    "技术参考",
+    "硬件接口",
+    "USB",
+    "嵌入式系统"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T09:00:02Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 21:51:18 +0000"
+  },
+  "_analysis": {
+    "quality_score": 5,
+    "relevance_score": 3,
+    "language": "en"
+  }
+}

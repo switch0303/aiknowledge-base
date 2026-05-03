@@ -1,0 +1,35 @@
+{
+  "id": "rss-d62676faed2e",
+  "title": "Soft launch of open-source code platform for government",
+  "source_url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+  "source_type": "rss",
+  "summary": "该内容报道了政府开源代码平台的软启动（soft launch）消息。软启动通常指产品在正式发布前，向有限用户或特定群体开放测试，以收集反馈并优化系统。该平台旨在为政府部门提供开源代码托管、协作开发、版本控制等功能，促进政府技术项目的透明化、标准化和复用性。通过开源，政府可以降低软件开发成本，避免重复建设，并吸引社会开发者参与公共服务的创新。此次软启动可能涉及部分试点项目或特定政府机构，后续将根据测试结果逐步扩大开放范围。该举措体现了政府数字化转型中对开放协作模式的探索，有助于提升政务系统的安全性和可维护性。",
+  "tags": [
+    "代码托管",
+    "政府数字化",
+    "开源平台",
+    "软启动",
+    "公共服务创新"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:04:52Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 29 Apr 2026 09:14:37 +0000"
+  },
+  "_analysis": {
+    "quality_score": 6,
+    "relevance_score": 7,
+    "language": "en"
+  }
+}

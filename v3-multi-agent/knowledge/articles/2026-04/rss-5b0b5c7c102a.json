@@ -1,0 +1,35 @@
+{
+  "id": "rss-5b0b5c7c102a",
+  "title": "The Mushroom That Makes People Have the Exact Same Hallucination",
+  "source_url": "https://www.vice.com/en/article/meet-the-mushroom-that-make-people-have-the-exact-same-hallucination/",
+  "source_type": "rss",
+  "summary": "该内容标题为“The Mushroom That Makes People Have the Exact Same Hallucination”，源自rss，但原始内容为空，无描述。标题提及一种能引发人们产生完全相同幻觉的蘑菇，可能涉及致幻蘑菇（如裸盖菇属）的神经科学或心理学研究，探讨其活性成分（如裸盖菇素）如何导致一致的视觉或感知体验。由于缺乏具体内容，无法确认其技术深度或应用场景。推测该内容可能属于科普新闻或研究报告，涉及神经科学、精神药理学或认知科学领域。鉴于无详细描述，分析受限，仅能基于标题推断其潜在主题。",
+  "tags": [
+    "神经科学",
+    "裸盖菇素",
+    "幻觉研究",
+    "致幻蘑菇",
+    "精神药理学"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:15:01Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Mon, 27 Apr 2026 07:21:17 +0000"
+  },
+  "_analysis": {
+    "quality_score": 2,
+    "relevance_score": 3,
+    "language": "en"
+  }
+}

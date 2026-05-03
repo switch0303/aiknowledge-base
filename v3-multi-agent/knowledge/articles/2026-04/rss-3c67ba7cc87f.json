@@ -1,0 +1,35 @@
+{
+  "id": "rss-3c67ba7cc87f",
+  "title": "Bob Odenkirk would like to remind you that life is a meaningless farce",
+  "source_url": "https://www.nytimes.com/2026/04/25/magazine/bob-odenkirk-interview.html",
+  "source_type": "rss",
+  "summary": "该内容标题为“Bob Odenkirk would like to remind you that life is a meaningless farce”，来源为rss，原始内容无描述。标题引用喜剧演员Bob Odenkirk的观点，强调生活的荒诞与无意义，可能涉及哲学、喜剧或文化评论。由于缺乏具体技术内容，无法提取技术细节或应用场景。内容可能属于娱乐或人文领域，与AI技术无关。",
+  "tags": [
+    "荒诞主义",
+    "喜剧",
+    "哲学",
+    "生活意义",
+    "文化评论"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:14:05Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 12:42:11 +0000"
+  },
+  "_analysis": {
+    "quality_score": 2,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

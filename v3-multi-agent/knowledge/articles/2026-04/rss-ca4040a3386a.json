@@ -1,0 +1,35 @@
+{
+  "id": "rss-ca4040a3386a",
+  "title": "Bugs Rust won&#x27;t catch",
+  "source_url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+  "source_type": "rss",
+  "summary": "该内容标题为“Bugs Rust won't catch”，暗示讨论Rust语言在内存安全方面的局限性，即Rust虽然通过所有权系统、借用检查器等机制消除了大量内存相关错误（如空指针、数据竞争），但仍无法捕获某些类型的bug，例如逻辑错误、死锁、资源泄漏、整数溢出、并发设计缺陷等。内容可能深入分析Rust编译器无法静态检测的常见错误类型，并举例说明开发者仍需依赖测试、代码审查和运行时检查来保证代码正确性。由于原始内容未提供详细描述，分析基于标题推断。",
+  "tags": [
+    "软件缺陷",
+    "内存安全",
+    "Rust",
+    "静态分析",
+    "编程语言"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:04:56Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 29 Apr 2026 02:19:11 +0000"
+  },
+  "_analysis": {
+    "quality_score": 5,
+    "relevance_score": 7,
+    "language": "en"
+  }
+}

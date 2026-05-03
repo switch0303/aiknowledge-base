@@ -1,0 +1,37 @@
+{
+  "id": "rss-4c74876c2c63",
+  "title": "Amateur armed with ChatGPT solves an Erdős problem",
+  "source_url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+  "source_type": "rss",
+  "summary": "该内容报道了一位业余数学爱好者利用ChatGPT成功解决了一个埃尔德什（Erdős）问题的案例。埃尔德什问题是数学领域中的一系列著名难题，通常需要深厚的数学功底和创造性思维才能解决。这位业余爱好者通过向ChatGPT提出数学问题，并借助其生成的分析思路、公式推导和逻辑建议，逐步攻克了难题。这一事件展示了大型语言模型在辅助数学研究方面的潜力，尤其是在启发思路、提供跨领域知识整合以及加速问题解决过程方面的价值。同时，它也引发了关于AI在科学发现中角色、人类与AI协作模式以及数学研究未来形态的讨论。内容强调了AI工具如何降低专业门槛，使非专业人士也能参与高难度学术问题的探索。",
+  "tags": [
+    "ChatGPT",
+    "埃尔德什问题",
+    "科学发现",
+    "业余爱好者",
+    "AI辅助研究",
+    "大型语言模型",
+    "数学问题求解"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T08:59:52Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 17:40:38 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

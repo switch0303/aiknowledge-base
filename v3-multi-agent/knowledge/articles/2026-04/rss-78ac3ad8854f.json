@@ -1,0 +1,35 @@
+{
+  "id": "rss-78ac3ad8854f",
+  "title": "Why I still reach for Lisp and Scheme instead of Haskell",
+  "source_url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
+  "source_type": "rss",
+  "summary": "本文探讨了作者为何在函数式编程语言中仍然偏好Lisp和Scheme，而非更现代、类型系统更强大的Haskell。作者认为，尽管Haskell拥有严格的类型检查和纯函数式特性，但其学习曲线陡峭、类型系统复杂且有时限制过多，影响了开发效率与灵活性。相比之下，Lisp和Scheme以其极简的语法、宏系统和动态类型著称，允许开发者更自由地表达思想、快速原型设计，并更容易实现元编程。作者强调，Lisp家族语言的交互式开发体验（如REPL）和“代码即数据”的理念，使其在解决特定问题（如AI、符号计算）时依然具有独特优势。文章还提到，Haskell的类型系统虽然能减少运行时错误，但增加了前期设计负担，而Lisp的灵活性更适合探索性编程。最终，作者认为选择语言应基于任务需求和个人偏好，而非盲目追求类型安全或流行趋势。",
+  "tags": [
+    "Lisp",
+    "Scheme",
+    "编程语言对比",
+    "函数式编程",
+    "Haskell"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:07:05Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 29 Apr 2026 08:43:17 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 6,
+    "language": "en"
+  }
+}

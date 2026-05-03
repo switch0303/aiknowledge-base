@@ -1,0 +1,35 @@
+{
+  "id": "rss-60dd06c7f61d",
+  "title": "TurboQuant: A first-principles walkthrough",
+  "source_url": "https://arkaung.github.io/interactive-turboquant/",
+  "source_type": "rss",
+  "summary": "由于原始内容仅提供了标题“TurboQuant: A first-principles walkthrough”且无具体描述，无法获取详细技术内容。该标题暗示可能是一篇关于名为“TurboQuant”的技术或工具的入门指南，强调从第一性原理（first-principles）出发进行讲解。推测内容可能涉及量化交易、量子计算或高性能计算等领域，但缺乏实质信息。因此，摘要基于标题推测其可能为技术教程或论文，旨在从基础原理逐步解释TurboQuant的实现或应用。",
+  "tags": [
+    "技术教程",
+    "量化交易",
+    "TurboQuant",
+    "高性能计算",
+    "第一性原理"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:14:15Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Mon, 27 Apr 2026 01:54:32 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 5,
+    "language": "en"
+  }
+}

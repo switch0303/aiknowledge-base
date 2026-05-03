@@ -1,0 +1,38 @@
+{
+  "id": "github-639079153",
+  "title": "pixeltable",
+  "source_url": "https://github.com/pixeltable/pixeltable",
+  "source_type": "github",
+  "summary": "Pixeltable 是一个面向多模态 AI 工作负载的数据基础设施，提供声明式和增量式的数据处理方法。它旨在简化图像、视频、文本、音频等异构数据的存储、管理和查询，支持在数据之上直接定义和运行机器学习模型。通过增量计算和自动版本控制，Pixeltable 能够高效处理数据更新和模型迭代，减少重复计算。该工具特别适用于需要结合结构化数据与非结构化数据的 AI 应用场景，如视觉问答、多模态检索、内容生成等。其声明式接口允许用户以类似 SQL 的方式表达数据处理逻辑，降低了多模态 AI 系统的开发复杂度。作为一个开源项目，Pixeltable 为开发者提供了可扩展的底层架构，便于集成自定义模型和数据源。",
+  "tags": [
+    "声明式数据处理",
+    "数据基础设施",
+    "多模态AI",
+    "开源工具",
+    "增量计算"
+  ],
+  "category": "tool",
+  "content_en": "Data Infrastructure providing a declarative, incremental approach for multimodal AI workloads.",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-26T08:58:39Z",
+  "processed_at": "2026-04-26T08:59:35Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 1548,
+    "language": "Python",
+    "author": "pixeltable",
+    "created_at": "2023-05-10T18:03:02Z",
+    "updated_at": "2026-04-25T18:32:05Z"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

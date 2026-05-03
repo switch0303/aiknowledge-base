@@ -1,0 +1,40 @@
+{
+  "id": "github-1190778303",
+  "title": "awesome-opensource-ai",
+  "source_url": "https://github.com/alvinreal/awesome-opensource-ai",
+  "source_type": "github",
+  "summary": "该内容是一个名为“awesome-opensource-ai”的GitHub仓库，旨在整理和推荐最优秀的真正开源人工智能项目、模型、工具和基础设施。它作为一个精选列表，涵盖了AI领域的多个方面，包括但不限于大型语言模型、计算机视觉、自然语言处理、强化学习、机器学习框架、数据处理工具、模型部署与推理引擎、AI应用开发平台等。该列表强调项目的“真正开源”属性，即采用OSI批准的开源许可证，确保用户能够自由使用、修改和分发。通过汇集社区公认的高质量开源AI资源，该项目为开发者、研究人员和AI爱好者提供了一个便捷的导航入口，帮助他们快速找到适合特定需求的工具和模型，从而加速AI技术的研发与应用落地。整体上，这是一个面向AI社区的资源聚合与索引项目。",
+  "tags": [
+    "开发者资源",
+    "资源列表",
+    "开源AI",
+    "基础设施",
+    "AI工具",
+    "GitHub项目",
+    "模型库"
+  ],
+  "category": "resource",
+  "content_en": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure.",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:24:56Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 2963,
+    "language": "Python",
+    "author": "alvinreal",
+    "created_at": "2026-03-24T15:58:22Z",
+    "updated_at": "2026-04-25T06:38:48Z"
+  },
+  "_analysis": {
+    "quality_score": 8,
+    "relevance_score": 10,
+    "language": "en"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rss-ff031b3b83a8",
+  "title": "A 3D Body from Eight Questions – No Photo, No GPU",
+  "source_url": "https://clad.you/blog/posts/questionnaire-mlp/",
+  "source_type": "rss",
+  "summary": "该内容标题为“A 3D Body from Eight Questions – No Photo, No GPU”，来源为rss，但原始内容为空，无法获取具体技术细节。根据标题推测，该内容可能介绍了一种无需照片和GPU即可通过八个问题生成3D人体模型的方法，涉及3D建模、人体重建、轻量化计算等技术领域。由于缺乏实际内容，无法确认其具体实现、技术价值或应用场景。整体而言，该内容可能属于资源或新闻类别，但信息不完整，无法进行深度分析。",
+  "tags": [
+    "3D人体重建",
+    "问答式建模",
+    "无GPU",
+    "轻量化计算",
+    "3D建模"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:06Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 22 Apr 2026 12:20:01 +0000"
+  },
+  "_analysis": {
+    "quality_score": 2,
+    "relevance_score": 5,
+    "language": "en"
+  }
+}

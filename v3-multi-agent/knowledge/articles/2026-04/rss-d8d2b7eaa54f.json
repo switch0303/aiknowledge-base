@@ -1,0 +1,35 @@
+{
+  "id": "rss-d8d2b7eaa54f",
+  "title": "Functional programmers need to take a look at Zig",
+  "source_url": "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html",
+  "source_type": "rss",
+  "summary": "该内容标题为《Functional programmers need to take a look at Zig》，来自rss源，但原始内容为空，无法获取具体正文。根据标题推测，文章可能探讨函数式编程（Functional Programming）与Zig语言之间的关联，指出Zig作为一种系统级编程语言，虽然并非纯函数式语言，但其编译期计算、无隐式控制流、内存安全等特性对函数式编程者具有吸引力。文章可能对比Zig与Haskell、OCaml等函数式语言的设计哲学，分析Zig如何提供类似函数式的可预测性与安全性，同时保持底层控制力。由于缺乏具体内容，分析基于标题推断，实际内容可能涉及Zig的编译时元编程、无运行时开销、错误处理机制等对函数式编程者的启发。整体上，这是一篇面向函数式编程社区的技术观点文章。",
+  "tags": [
+    "Zig",
+    "编程语言对比",
+    "编译时计算",
+    "系统编程",
+    "函数式编程"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:52Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Thu, 30 Apr 2026 03:11:33 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 5,
+    "language": "en"
+  }
+}

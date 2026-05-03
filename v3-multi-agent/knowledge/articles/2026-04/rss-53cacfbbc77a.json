@@ -1,0 +1,35 @@
+{
+  "id": "rss-53cacfbbc77a",
+  "title": "FreeBSD Device Drivers Book",
+  "source_url": "https://github.com/ebrandi/FDD-book",
+  "source_type": "rss",
+  "summary": "该内容标题为《FreeBSD Device Drivers Book》，来源为RSS订阅，原始描述为空。根据标题推断，这是一本关于FreeBSD操作系统设备驱动开发的书籍资源。FreeBSD是一个类Unix操作系统，广泛应用于服务器、嵌入式系统和网络设备中。设备驱动开发是操作系统内核编程的重要组成部分，涉及硬件抽象、中断处理、内存管理、I/O操作等底层技术。该书可能涵盖FreeBSD内核架构、驱动框架、总线系统、字符设备与块设备驱动、网络驱动、USB与PCI设备支持等内容。由于缺乏具体描述，无法确认其详细章节或适用版本，但可以推测这是一本面向系统程序员或内核开发者的技术资源，适合希望深入理解FreeBSD内核驱动机制的读者。整体上，该资源具有较高的技术深度和实用性，尤其对于从事操作系统开发或嵌入式系统工作的技术人员。",
+  "tags": [
+    "操作系统",
+    "内核编程",
+    "设备驱动",
+    "系统开发",
+    "FreeBSD"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:14:51Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 22:53:06 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 6,
+    "language": "en"
+  }
+}

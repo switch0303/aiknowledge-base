@@ -1,0 +1,246 @@
+{
+  "source": "rss",
+  "collected_at": "2026-04-28T10:11:57Z",
+  "items": [
+    {
+      "id": "rss-3494d00f622a",
+      "source": "rss",
+      "source_url": "https://gtfobins.org/",
+      "title": "GTFOBins",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Tue, 28 Apr 2026 06:27:39 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-9086f6d34763",
+      "source": "rss",
+      "source_url": "https://talkie-lm.com/introducing-talkie",
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 21:55:48 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-114eebda8666",
+      "source": "rss",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 13:22:42 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-3750612827ae",
+      "source": "rss",
+      "source_url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+      "title": "The World&#x27;s Most Complex Machine",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sat, 25 Apr 2026 12:47:32 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-9545f59b2066",
+      "source": "rss",
+      "source_url": "https://ismy.blue/",
+      "title": "Is my blue your blue?",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 20:24:33 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-11862f175b47",
+      "source": "rss",
+      "source_url": "https://apod.nasa.gov/apod/ap260427.html",
+      "title": "Can You Find the Comet?",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 07:59:37 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-c0d956a22ec5",
+      "source": "rss",
+      "source_url": "https://github.com/pgcentralfoundation/pgrx",
+      "title": "Pgrx: Build Postgres Extensions with Rust",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sat, 25 Apr 2026 08:16:19 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-61b2b05cd03a",
+      "source": "rss",
+      "source_url": "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/",
+      "title": "WASM is not quite a stack machine",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Tue, 28 Apr 2026 04:34:29 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-fd305fbcd1eb",
+      "source": "rss",
+      "source_url": "https://gitperf.com/",
+      "title": "High Performance Git",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Tue, 28 Apr 2026 00:32:04 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-5867e37d6165",
+      "source": "rss",
+      "source_url": "https://fabiensanglard.net/curse/",
+      "title": "Mo RAM, Mo Problems (2025)",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sat, 25 Apr 2026 15:41:54 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-464b82a8a36d",
+      "source": "rss",
+      "source_url": "https://app.oravys.com/blog/mercor-breach-2026",
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 09:57:10 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-586e893d9d02",
+      "source": "rss",
+      "source_url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
+      "title": "Men who stare at walls",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 11:08:26 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-5e887f06b9fc",
+      "source": "rss",
+      "source_url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 20:44:16 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-11a4fe4aa72a",
+      "source": "rss",
+      "source_url": "https://atempleton.bearblog.dev/quiet-resurgence-of-rf-engineering/",
+      "title": "The quiet resurgence of RF engineering",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sat, 25 Apr 2026 18:25:54 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-ff5a19d6482b",
+      "source": "rss",
+      "source_url": "https://github.com/Hanqaqa/Easyduino",
+      "title": "Easyduino: Open Source PCB Devboards for KiCad",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 17:45:02 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-d0c0a008188f",
+      "source": "rss",
+      "source_url": "https://nbelakovski.substack.com/p/how-i-learned-what-a-decoupling-capacitor",
+      "title": "How I leared what a decoupling capacitor is for, the hard way",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sat, 25 Apr 2026 22:27:44 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-b91da86ecf67",
+      "source": "rss",
+      "source_url": "https://eclecticlight.co/2026/04/23/networking-changes-coming-in-macos-27/",
+      "title": "Networking changes coming in macOS 27",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 15:36:12 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-fa5748ecb230",
+      "source": "rss",
+      "source_url": "https://technology.robbyant.com/lingbot-map",
+      "title": "LingBot-Map: Streaming 3D reconstruction with geometric context transformer",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Tue, 28 Apr 2026 03:27:40 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-e9c3233da747",
+      "source": "rss",
+      "source_url": "https://muffin.ink/blog/scratch-svg-sanitization/",
+      "title": "The woes of sanitizing SVGs",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 15:31:36 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    },
+    {
+      "id": "rss-d052a69a3cbf",
+      "source": "rss",
+      "source_url": "https://paulmakeswebsites.com/writing/six-months-of-tiled-words/",
+      "title": "Tiled Words 6 Month Update",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Sun, 26 Apr 2026 19:14:49 +0000"
+      },
+      "collected_at": "2026-04-28T10:11:56Z"
+    }
+  ]
+}

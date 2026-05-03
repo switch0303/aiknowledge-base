@@ -1,0 +1,35 @@
+{
+  "id": "rss-ab87d541b41b",
+  "title": "Cursor Camp",
+  "source_url": "https://neal.fun/cursor-camp/",
+  "source_type": "rss",
+  "summary": "该内容标题为“Cursor Camp”，来源为RSS，但原始内容仅标注“No description”，未提供任何具体描述或详细信息。基于标题推测，Cursor Camp可能是一个与AI编程工具Cursor相关的训练营、社区活动或资源集合，旨在帮助开发者学习使用Cursor进行高效编码。由于缺乏实际内容，无法确认其具体形式、技术细节或价值。摘要需基于有限信息：Cursor Camp可能聚焦于AI辅助编程实践，涉及代码生成、调试优化等场景，但无实质内容可分析。",
+  "tags": [
+    "AI编程",
+    "Cursor",
+    "训练营",
+    "开发者工具",
+    "资源"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:35Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 29 Apr 2026 15:39:43 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 5,
+    "language": "en"
+  }
+}

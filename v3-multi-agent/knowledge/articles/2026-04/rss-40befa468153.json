@@ -1,0 +1,35 @@
+{
+  "id": "rss-40befa468153",
+  "title": "Noctua releases official 3D CAD models for its cooling fans",
+  "source_url": "https://www.noctua.at/en/3d-cad-models",
+  "source_type": "rss",
+  "summary": "Noctua（猫头鹰）公司正式发布了其散热风扇的官方3D CAD模型，供用户免费下载使用。这些模型涵盖了Noctua旗下多个系列的风扇产品，包括NF-A系列、NF-F系列等，支持多种文件格式如STEP、IGES和STL。此举旨在帮助硬件爱好者、DIY玩家和工程师在构建电脑系统或进行散热设计时，能够更精确地进行空间规划和模拟安装，避免因尺寸或接口不匹配导致的兼容性问题。Noctua以其高品质、低噪音的散热风扇闻名，此次开放CAD模型进一步提升了其产品的易用性和设计友好度，尤其对3D打印定制配件或进行风道优化的用户具有重要价值。该资源发布在Noctua官方网站上，无需注册即可直接下载。",
+  "tags": [
+    "硬件设计",
+    "Noctua",
+    "散热风扇",
+    "3D CAD模型",
+    "开源资源"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:10Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Mon, 27 Apr 2026 21:35:07 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 3,
+    "language": "en"
+  }
+}

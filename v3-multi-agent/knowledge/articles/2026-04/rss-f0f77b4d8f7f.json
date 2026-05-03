@@ -1,0 +1,35 @@
+{
+  "id": "rss-f0f77b4d8f7f",
+  "title": "Why Law Is Law-Shaped",
+  "source_url": "https://lawvm.org/why-law-is-law-shaped/",
+  "source_type": "rss",
+  "summary": "该内容标题为“Why Law Is Law-Shaped”，来源于RSS订阅，但原始内容为空，未提供任何描述或正文。基于标题推测，该内容可能探讨法律体系的结构性特征，即法律为何呈现其特定的形态（如规则性、层级性、程序性等），可能涉及法理学、法律逻辑或法律与社会科学交叉领域。由于缺乏具体内容，无法确认其技术深度或AI相关性。分析仅基于标题，无法提供详细摘要。",
+  "tags": [
+    "社会科学",
+    "法律理论",
+    "法理学",
+    "概念分析",
+    "法律结构"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:05:33Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 29 Apr 2026 09:03:31 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

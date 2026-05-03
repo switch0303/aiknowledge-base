@@ -1,0 +1,35 @@
+{
+  "id": "rss-75746f23afd5",
+  "title": "GnuPG – post-quantum crypto landing in mainline",
+  "source_url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+  "source_type": "rss",
+  "summary": "该内容标题为“GnuPG – post-quantum crypto landing in mainline”，来源于RSS订阅，但原始内容为空，无具体描述。根据标题推断，该内容主要报道GnuPG（GNU Privacy Guard）项目在主分支中集成了后量子密码学（post-quantum cryptography）支持。这标志着GnuPG这一广泛使用的加密工具在抗量子计算攻击方面迈出了重要一步，可能涉及引入如CRYSTALS-Kyber、Dilithium等后量子加密算法，以应对未来量子计算机对传统RSA、ECC等公钥密码体系的威胁。由于缺乏具体细节，无法确认具体实现算法、性能影响或兼容性信息。整体上，这是一则关于开源加密工具技术演进的重要新闻，对密码学社区和安全从业者具有参考价值。",
+  "tags": [
+    "后量子密码学",
+    "量子安全",
+    "GnuPG",
+    "加密工具",
+    "开源安全"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T09:00:06Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 03:25:02 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 8,
+    "language": "en"
+  }
+}

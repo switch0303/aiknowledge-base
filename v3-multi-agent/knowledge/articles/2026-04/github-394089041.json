@@ -1,0 +1,38 @@
+{
+  "id": "github-394089041",
+  "title": "spiceai",
+  "source_url": "https://github.com/spiceai/spiceai",
+  "source_type": "github",
+  "summary": "SpiceAI 是一个用 Rust 编写的可移植加速 SQL 查询、搜索和 LLM 推理引擎，专为数据驱动的 AI 应用和智能体设计。它旨在提供高性能的数据查询和推理能力，支持在多种环境中运行，并能够与大型语言模型（LLM）集成，以支持基于数据的 AI 应用场景。该引擎通过加速 SQL 查询和搜索功能，帮助开发者更高效地处理和分析数据，同时利用 LLM 进行自然语言交互和智能决策。SpiceAI 的便携性和高性能使其适用于边缘计算、云服务以及本地部署等多种场景，为 AI 应用提供实时数据支持和推理能力。",
+  "tags": [
+    "开源工具",
+    "SQL引擎",
+    "数据驱动AI",
+    "LLM推理",
+    "Rust"
+  ],
+  "category": "tool",
+  "content_en": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:25:02Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 2895,
+    "language": "Rust",
+    "author": "spiceai",
+    "created_at": "2021-08-08T23:26:13Z",
+    "updated_at": "2026-04-25T06:08:05Z"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

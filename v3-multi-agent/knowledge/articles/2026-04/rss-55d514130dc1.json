@@ -1,0 +1,35 @@
+{
+  "id": "rss-55d514130dc1",
+  "title": "Show HN: Auto-Architecture: Karpathy&#x27;s Loop, pointed at a CPU",
+  "source_url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
+  "source_type": "rss",
+  "summary": "该内容标题为'Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU'，源自Hacker News的Show HN板块，但原始内容无详细描述。从标题推断，该项目可能是一个自动架构设计工具或实验，将Karpathy提出的'Loop'概念（通常指AI自我改进或迭代优化循环）应用于CPU架构设计。内容可能涉及利用机器学习或自动化方法优化CPU微架构、指令集或硬件设计流程，属于AI与硬件交叉领域。由于缺乏具体描述，无法确认其实现细节、技术成熟度或开源状态。整体上，这是一个面向技术社区展示的早期项目或概念验证，旨在探索AI辅助硬件设计的可能性。",
+  "tags": [
+    "AI硬件设计",
+    "自动化架构",
+    "Hacker News",
+    "CPU架构",
+    "Karpathy Loop"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:05:19Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Tue, 28 Apr 2026 17:12:30 +0000"
+  },
+  "_analysis": {
+    "quality_score": 4,
+    "relevance_score": 7,
+    "language": "en"
+  }
+}

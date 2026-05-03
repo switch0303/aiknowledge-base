@@ -1,0 +1,35 @@
+{
+  "id": "rss-3750612827ae",
+  "title": "The World&#x27;s Most Complex Machine",
+  "source_url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+  "source_type": "rss",
+  "summary": "该内容标题为《The World's Most Complex Machine》，来源为rss，但原始内容为空，无法获取具体技术细节。标题暗示可能讨论世界上最复杂的机器，如大型强子对撞机、超级计算机或人工智能系统等。由于缺乏实际内容，无法提供详细摘要。",
+  "tags": [
+    "机器",
+    "未知",
+    "技术",
+    "rss",
+    "复杂系统"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:13:16Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 12:47:32 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

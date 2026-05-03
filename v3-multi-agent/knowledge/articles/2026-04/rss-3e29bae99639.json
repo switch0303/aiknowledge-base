@@ -1,0 +1,35 @@
+{
+  "id": "rss-3e29bae99639",
+  "title": "A disabled kea parrot is the alpha male of his circus",
+  "source_url": "https://www.cell.com/current-biology/fulltext/S0960-9822(26)00259-9",
+  "source_type": "rss",
+  "summary": "该内容标题为“A disabled kea parrot is the alpha male of his circus”，来源为RSS，但原始内容为空，无具体描述。标题描述了一只残疾的啄羊鹦鹉（kea）在马戏团中成为雄性首领的故事，可能涉及动物行为、康复或马戏团生态等话题。由于缺乏正文，无法提取技术细节或深度分析。内容可能属于动物行为学或科普类新闻，但未提供任何实质性信息。因此，分析基于标题推测，实际技术价值极低。",
+  "tags": [
+    "马戏团",
+    "鹦鹉",
+    "残疾动物",
+    "动物行为",
+    "科普新闻"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:49Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Thu, 23 Apr 2026 05:07:51 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

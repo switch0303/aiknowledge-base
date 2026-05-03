@@ -1,0 +1,35 @@
+{
+  "id": "rss-29648f2bee5e",
+  "title": "Withnail&#x27;s Coat and I",
+  "source_url": "https://ontherow.substack.com/p/withnails-coat-and-i",
+  "source_type": "rss",
+  "summary": "该内容标题为'Withnail's Coat and I'，来源为rss，但原始内容为空，未提供任何描述或技术细节。因此无法提取具体的技术信息、应用场景或深度分析。标题可能指向某个文化或技术相关的主题，但缺乏实质内容。基于现有信息，该内容不具备技术分析价值。",
+  "tags": [
+    "rss源",
+    "无描述",
+    "技术分析受限",
+    "未分类",
+    "内容缺失"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:05:22Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Mon, 27 Apr 2026 19:27:47 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

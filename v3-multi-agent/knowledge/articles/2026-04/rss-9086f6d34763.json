@@ -1,0 +1,35 @@
+{
+  "id": "rss-9086f6d34763",
+  "title": "Talkie: a 13B vintage language model from 1930",
+  "source_url": "https://talkie-lm.com/introducing-talkie",
+  "source_type": "rss",
+  "summary": "该内容标题为“Talkie: a 13B vintage language model from 1930”，来源为RSS，但原始内容为空，无具体描述。从标题推测，这可能是一个关于名为“Talkie”的13B参数规模的语言模型的介绍或新闻，但“来自1930年”的表述带有明显的虚构或幽默色彩，暗示该模型可能是一个复古风格或概念性的项目，而非实际发布于1930年的技术。由于缺乏正文内容，无法确认其真实性、技术细节或应用场景。整体上，该内容更像是一个标题党或玩笑性质的条目，不具备实际的技术分析价值。",
+  "tags": [
+    "13B参数",
+    "复古",
+    "虚构",
+    "RSS",
+    "语言模型"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:13:11Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Mon, 27 Apr 2026 21:55:48 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 2,
+    "language": "en"
+  }
+}

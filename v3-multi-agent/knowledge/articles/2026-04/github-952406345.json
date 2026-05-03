@@ -1,0 +1,38 @@
+{
+  "id": "github-952406345",
+  "title": "agentic-ai",
+  "source_url": "https://github.com/mahmoudrabie/agentic-ai",
+  "source_type": "github",
+  "summary": "该GitHub仓库作为一个综合性知识中心，精选并整理了涵盖24个专业领域的前沿研究论文和发展动态。这些领域可能包括人工智能、机器学习、深度学习、自然语言处理、计算机视觉、强化学习等子方向，以及跨学科应用如医疗、金融、机器人等。仓库旨在为研究人员、开发者和技术爱好者提供一站式资源聚合，便于追踪最新技术进展和学术成果。通过系统化分类和持续更新，它降低了信息获取门槛，促进了知识共享与协作。整体上，这是一个面向AI技术社区的高质量资源集合，强调内容的时效性、专业性和广度。",
+  "tags": [
+    "开源项目",
+    "知识库",
+    "AI",
+    "研究论文",
+    "技术资源"
+  ],
+  "category": "resource",
+  "content_en": "This repository serves as a comprehensive knowledge hub, curating cutting-edge research papers and developments across 24 specialized domains",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:13:13Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 120,
+    "language": "Unknown",
+    "author": "mahmoudrabie",
+    "created_at": "2025-03-21T08:23:49Z",
+    "updated_at": "2026-04-27T08:29:55Z"
+  },
+  "_analysis": {
+    "quality_score": 8,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

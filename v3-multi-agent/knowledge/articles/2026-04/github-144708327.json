@@ -1,0 +1,38 @@
+{
+  "id": "github-144708327",
+  "title": "gorse",
+  "source_url": "https://github.com/gorse-io/gorse",
+  "source_type": "github",
+  "summary": "Gorse是一个基于人工智能的开源推荐系统引擎，支持经典推荐算法和基于大语言模型（LLM）的排序器，并通过嵌入技术处理多模态内容。该项目旨在提供高性能、易部署的推荐系统解决方案，适用于个性化推荐、内容发现等场景。Gorse采用Go语言开发，具备分布式架构，支持多种数据源和实时更新，能够处理用户行为、物品特征等多维度数据。其核心功能包括协同过滤、矩阵分解、深度学习模型以及LLM驱动的排序优化，同时支持图像、文本等多模态内容的嵌入表示。Gorse提供了完整的API和Web管理界面，便于集成和监控，适合开发者快速构建和部署推荐系统。该项目在GitHub上开源，拥有活跃的社区和文档支持，适用于电商、社交媒体、新闻推荐等领域。",
+  "tags": [
+    "大语言模型",
+    "Go语言",
+    "开源工具",
+    "多模态嵌入",
+    "推荐系统"
+  ],
+  "category": "tool",
+  "content_en": "AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:13:31Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 9620,
+    "language": "Go",
+    "author": "gorse-io",
+    "created_at": "2018-08-14T11:01:09Z",
+    "updated_at": "2026-04-27T08:19:07Z"
+  },
+  "_analysis": {
+    "quality_score": 8,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

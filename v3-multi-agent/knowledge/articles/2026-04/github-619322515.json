@@ -1,0 +1,38 @@
+{
+  "id": "github-619322515",
+  "title": "bravegpt",
+  "source_url": "https://github.com/KudoAI/bravegpt",
+  "source_type": "github",
+  "summary": "bravegpt 是一个开源项目，旨在为 Brave Search 浏览器提供 AI 聊天和搜索摘要功能。该项目利用最新的大型语言模型（LLMs）来增强用户的搜索体验，通过生成智能对话和内容摘要，帮助用户更高效地获取信息。该工具集成在 Brave Search 中，使得用户在进行网络搜索时能够获得由 AI 驱动的即时总结和交互式问答，从而提升信息检索的准确性和便捷性。bravegpt 的核心价值在于将先进的 LLM 能力直接嵌入到搜索引擎中，实现搜索结果的智能化和个性化。该项目适合对 AI 搜索增强、浏览器扩展开发以及 LLM 应用落地感兴趣的开发者和技术爱好者。",
+  "tags": [
+    "开源工具",
+    "AI搜索",
+    "浏览器扩展",
+    "大型语言模型",
+    "Brave Search"
+  ],
+  "category": "tool",
+  "content_en": "🦁 AI chat & search summaries in Brave Search, powered by the latest LLMs",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:25:44Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 209,
+    "language": "JavaScript",
+    "author": "KudoAI",
+    "created_at": "2023-03-26T22:20:07Z",
+    "updated_at": "2026-04-24T21:32:57Z"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

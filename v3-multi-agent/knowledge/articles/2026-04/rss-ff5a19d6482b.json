@@ -1,0 +1,35 @@
+{
+  "id": "rss-ff5a19d6482b",
+  "title": "Easyduino: Open Source PCB Devboards for KiCad",
+  "source_url": "https://github.com/Hanqaqa/Easyduino",
+  "source_type": "rss",
+  "summary": "Easyduino 是一个开源项目，旨在为 KiCad 用户提供一系列 PCB 开发板设计资源。该项目包含多种基于 Arduino 兼容的电路板设计文件，如 Easyduino Nano、Easyduino Pro Mini 等，所有设计均采用 KiCad 格式。这些开发板设计注重易用性、低成本和可定制性，适合电子爱好者、创客和嵌入式开发者快速制作原型。项目提供了完整的原理图、PCB 布局和 BOM 清单，用户可以直接在 KiCad 中打开并修改，或用于生产。Easyduino 降低了 Arduino 兼容板的设计门槛，促进了开源硬件生态的发展。该资源对于学习 PCB 设计、定制开发板或进行教育项目具有实用价值。",
+  "tags": [
+    "Arduino",
+    "开源硬件",
+    "KiCad",
+    "PCB设计",
+    "嵌入式开发"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:13:49Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Mon, 27 Apr 2026 17:45:02 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 6,
+    "language": "en"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rss-c0d956a22ec5",
+  "title": "Pgrx: Build Postgres Extensions with Rust",
+  "source_url": "https://github.com/pgcentralfoundation/pgrx",
+  "source_type": "rss",
+  "summary": "Pgrx 是一个用于使用 Rust 编程语言构建 PostgreSQL 扩展的框架。它提供了一套完整的工具和库，使开发者能够利用 Rust 的内存安全、高性能和并发特性来编写数据库扩展，替代传统的 C 语言扩展方式。Pgrx 支持定义自定义函数、数据类型、操作符、索引方法等 PostgreSQL 扩展组件，并提供了自动的 SQL 绑定生成、测试框架和打包工具。通过 Pgrx，开发者可以更安全、更高效地扩展 PostgreSQL 功能，同时享受 Rust 的现代语言特性。该项目在 GitHub 上开源，拥有活跃的社区支持，适用于需要高性能和可靠性的数据库扩展场景。",
+  "tags": [
+    "Rust",
+    "数据库扩展",
+    "工具",
+    "PostgreSQL",
+    "开源"
+  ],
+  "category": "tool",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:13:25Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 08:16:19 +0000"
+  },
+  "_analysis": {
+    "quality_score": 8,
+    "relevance_score": 7,
+    "language": "en"
+  }
+}

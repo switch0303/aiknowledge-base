@@ -1,0 +1,38 @@
+{
+  "id": "github-1076969585",
+  "title": "agentic-context-engine",
+  "source_url": "https://github.com/kayba-ai/agentic-context-engine",
+  "source_type": "github",
+  "summary": "该内容介绍了名为“agentic-context-engine”的项目，旨在让AI代理能够从经验中学习。项目目前以托管解决方案的形式在kayba.ai平台上提供。该引擎可能通过上下文管理机制，使AI代理在交互过程中积累和利用历史经验，从而提升其决策能力和适应性。内容简短，主要聚焦于产品推广和功能概述，未提供技术细节或实现原理。",
+  "tags": [
+    "经验学习",
+    "上下文引擎",
+    "托管服务",
+    "AI工具",
+    "AI代理"
+  ],
+  "category": "tool",
+  "content_en": "🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai ",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-26T08:58:39Z",
+  "processed_at": "2026-04-26T08:59:22Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 2163,
+    "language": "Python",
+    "author": "kayba-ai",
+    "created_at": "2025-10-15T15:36:20Z",
+    "updated_at": "2026-04-25T20:56:06Z"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 8,
+    "language": "en"
+  }
+}

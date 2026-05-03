@@ -1,0 +1,35 @@
+{
+  "id": "rss-1ac5591d9ec4",
+  "title": "Who owns the code Claude Code wrote?",
+  "source_url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+  "source_type": "rss",
+  "summary": "该内容探讨了由AI代码生成工具（如Claude Code）编写的代码的所有权归属问题。随着AI辅助编程的普及，开发者、企业以及AI服务提供商之间对于生成代码的知识产权界定变得日益复杂。文章可能分析了当前法律框架下的模糊地带，例如AI生成内容是否受版权保护、用户与平台之间的服务条款如何规定、以及开源许可证与AI生成代码的兼容性。此外，还可能讨论了实际案例和潜在风险，如代码侵权责任、商业使用限制以及未来立法趋势。该内容对于使用AI编程工具的开发者、法律从业者以及关注AI伦理的群体具有重要参考价值。",
+  "tags": [
+    "代码所有权",
+    "法律合规",
+    "知识产权",
+    "AI伦理",
+    "AI编程"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:05:46Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Tue, 28 Apr 2026 11:24:52 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

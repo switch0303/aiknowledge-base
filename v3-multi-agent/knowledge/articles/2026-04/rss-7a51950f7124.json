@@ -1,0 +1,35 @@
+{
+  "id": "rss-7a51950f7124",
+  "title": "Mike: open-source legal AI",
+  "source_url": "https://mikeoss.com/",
+  "source_type": "rss",
+  "summary": "该内容标题为“Mike: open-source legal AI”，但原始内容中未提供具体描述。根据标题推测，Mike可能是一个开源的、专注于法律领域的人工智能项目或工具。这类项目通常旨在利用自然语言处理、机器学习等技术，辅助法律文档分析、合同审查、案例检索、法律咨询等任务。由于缺乏详细内容，无法确认其具体功能、技术架构或应用场景。开源特性意味着其代码公开，可供开发者社区使用、修改和贡献。该内容可能属于工具或资源类别，但信息不完整，需进一步获取详情以进行准确评估。",
+  "tags": [
+    "法律科技",
+    "工具",
+    "法律AI",
+    "开源",
+    "自然语言处理"
+  ],
+  "category": "tool",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:58Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Thu, 30 Apr 2026 00:56:23 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 7,
+    "language": "en"
+  }
+}

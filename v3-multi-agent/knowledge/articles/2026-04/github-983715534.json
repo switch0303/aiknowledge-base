@@ -1,0 +1,38 @@
+{
+  "id": "github-983715534",
+  "title": "sdk-python",
+  "source_url": "https://github.com/strands-agents/sdk-python",
+  "source_type": "github",
+  "summary": "该内容介绍了一个名为'sdk-python'的GitHub项目，其核心理念是采用模型驱动的方法，让开发者仅需编写少量代码即可构建AI代理。该项目旨在简化AI代理的开发流程，通过预定义的模型和抽象层，降低开发门槛，提高开发效率。用户可以利用该SDK快速集成和部署AI功能，无需深入了解底层复杂的技术细节。内容简短，主要聚焦于项目的宣传和定位，未提供具体的技术实现细节或示例代码。",
+  "tags": [
+    "Python SDK",
+    "GitHub项目",
+    "AI代理",
+    "开发工具",
+    "模型驱动"
+  ],
+  "category": "tool",
+  "content_en": "A model-driven approach to building AI agents in just a few lines of code.",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:13:10Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 5712,
+    "language": "Python",
+    "author": "strands-agents",
+    "created_at": "2025-05-14T19:59:51Z",
+    "updated_at": "2026-04-27T09:09:13Z"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 8,
+    "language": "en"
+  }
+}

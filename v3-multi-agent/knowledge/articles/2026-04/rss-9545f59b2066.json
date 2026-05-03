@@ -1,0 +1,35 @@
+{
+  "id": "rss-9545f59b2066",
+  "title": "Is my blue your blue?",
+  "source_url": "https://ismy.blue/",
+  "source_type": "rss",
+  "summary": "该内容标题为“Is my blue your blue?”，来源于RSS，但原始内容无描述。标题暗示可能探讨关于颜色感知的主观性、哲学或认知科学问题，涉及个体间对同一颜色（如蓝色）的感知差异。由于缺乏具体内容，无法确定其技术深度或领域。可能是一篇科普文章、哲学讨论或神经科学相关研究，但未提供任何实质信息。因此，摘要仅能基于标题推测其潜在主题，即关于颜色感知的个体差异和主观体验的探讨。",
+  "tags": [
+    "颜色感知",
+    "主观体验",
+    "认知科学",
+    "哲学",
+    "神经科学"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:13:19Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Mon, 27 Apr 2026 20:24:33 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

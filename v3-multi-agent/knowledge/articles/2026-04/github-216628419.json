@@ -1,0 +1,38 @@
+{
+  "id": "github-216628419",
+  "title": "flyte",
+  "source_url": "https://github.com/flyteorg/flyte",
+  "source_type": "github",
+  "summary": "Flyte 是一个动态且具有弹性的AI编排平台，旨在协调数据、模型和计算资源，以构建AI工作流。该内容主要介绍了Flyte的核心功能，强调其能够处理复杂的AI工作流编排任务，支持数据、模型和计算资源的统一协调。此外，内容还提到Flyte 2版本现已本地可用，并提供了GitHub上Flyte SDK的链接，方便开发者获取和使用。Flyte作为开源工具，专注于提升AI工作流的可扩展性、可靠性和可重复性，适用于机器学习流水线、数据处理和模型训练等场景。该内容简洁地概括了Flyte的定位和最新进展，但缺乏详细的技术细节或使用案例。",
+  "tags": [
+    "数据协调",
+    "开源工具",
+    "机器学习平台",
+    "AI编排",
+    "工作流管理"
+  ],
+  "category": "tool",
+  "content_en": "Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:25:06Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 6954,
+    "language": "Go",
+    "author": "flyteorg",
+    "created_at": "2019-10-21T17:40:04Z",
+    "updated_at": "2026-04-25T06:15:08Z"
+  },
+  "_analysis": {
+    "quality_score": 5,
+    "relevance_score": 8,
+    "language": "en"
+  }
+}

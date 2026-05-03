@@ -1,0 +1,38 @@
+{
+  "id": "github-614906119",
+  "title": "AITreasureBox",
+  "source_url": "https://github.com/superiorlu/AITreasureBox",
+  "source_type": "github",
+  "summary": "AITreasureBox是一个在GitHub上自动收集的人工智能资源集合，涵盖了AI相关的代码仓库、工具、网站、论文和教程。该项目旨在为AI开发者和爱好者提供一个全面的实用百宝箱，方便快速查找和学习各类AI技术资源。内容涉及机器学习、深度学习、自然语言处理、计算机视觉等多个热门领域，资源经过自动筛选和整理，具有较高的实用性和时效性。该仓库适合不同层次的AI学习者与从业者使用，是获取AI前沿信息和工具的重要入口。",
+  "tags": [
+    "深度学习",
+    "实用工具",
+    "AI资源集合",
+    "GitHub仓库",
+    "机器学习"
+  ],
+  "category": "resource",
+  "content_en": "",
+  "content_zh": "🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:24:52Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 789,
+    "language": "Ruby",
+    "author": "superiorlu",
+    "created_at": "2023-03-16T14:55:55Z",
+    "updated_at": "2026-04-25T06:47:38Z"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "mixed"
+  }
+}

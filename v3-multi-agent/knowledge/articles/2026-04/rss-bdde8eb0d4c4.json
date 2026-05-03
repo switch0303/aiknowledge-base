@@ -1,0 +1,35 @@
+{
+  "id": "rss-bdde8eb0d4c4",
+  "title": "Before GitHub",
+  "source_url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+  "source_type": "rss",
+  "summary": "该内容标题为“Before GitHub”，来源为RSS，但原始内容为空，无具体描述。因此无法提取详细的技术内容、观点或数据。标题暗示可能讨论GitHub出现之前的版本控制或代码托管历史，但缺乏实际内容支撑。分析基于现有信息，无法进行深度技术评估。",
+  "tags": [
+    "开源",
+    "版本控制",
+    "代码托管",
+    "历史回顾",
+    "Git"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-29T10:03:33Z",
+  "processed_at": "2026-04-29T10:05:12Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Tue, 28 Apr 2026 21:17:40 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

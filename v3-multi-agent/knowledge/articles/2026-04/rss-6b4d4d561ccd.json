@@ -1,0 +1,35 @@
+{
+  "id": "rss-6b4d4d561ccd",
+  "title": "Three constraints before I build anything",
+  "source_url": "https://jordanlord.co.uk/blog/3-constraints/",
+  "source_type": "rss",
+  "summary": "该内容标题为'Three constraints before I build anything'，来自RSS源，但原始内容为空，无具体描述。基于标题推测，内容可能探讨在构建任何技术产品或系统前需要考虑的三个关键约束条件，例如资源限制、技术可行性、时间成本、用户需求或业务目标等。由于缺乏实际内容，无法提供详细摘要，但标题暗示这是一篇关于项目启动前决策框架或方法论的文章，可能涉及软件工程、产品开发或系统设计领域。",
+  "tags": [
+    "决策框架",
+    "产品开发",
+    "约束条件",
+    "软件工程",
+    "项目规划"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:14:24Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 18:41:03 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 3,
+    "language": "en"
+  }
+}

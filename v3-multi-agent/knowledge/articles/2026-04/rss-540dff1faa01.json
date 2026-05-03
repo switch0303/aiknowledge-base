@@ -1,0 +1,35 @@
+{
+  "id": "rss-540dff1faa01",
+  "title": "APL is more French than English",
+  "source_url": "https://www.jsoftware.com/papers/perlis78.htm",
+  "source_type": "rss",
+  "summary": "该内容标题为'APL is more French than English'，来源为RSS，但未提供具体描述。从标题推测，内容可能探讨APL编程语言的设计哲学或语法特性，将其与法语和英语的语言特点进行类比，强调APL在符号化、非直观性、表达力等方面更接近法语而非英语。APL是一种以符号和数组操作为核心的编程语言，具有高度简洁和数学化的特点，常被认为难以阅读和理解。标题可能暗示APL的语法和思维方式与自然语言中的法语有相似之处，例如更依赖符号和结构而非线性文字。由于缺乏具体内容，分析基于标题和APL的已知特性。",
+  "tags": [
+    "符号化编程",
+    "编程语言",
+    "语言设计",
+    "APL",
+    "技术类比"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T09:00:41Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sun, 26 Apr 2026 07:24:07 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 5,
+    "language": "en"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rss-2f82cc725fa7",
+  "title": "A Powerful New &#x27;QR Code&#x27; Untangles Math&#x27;s Knottiest Knots",
+  "source_url": "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-knots-20260422/",
+  "source_type": "rss",
+  "summary": "该内容报道了一种新型数学工具，被比喻为强大的“QR码”，用于解决数学中最复杂的扭结问题。扭结理论是拓扑学的一个分支，研究三维空间中的闭合曲线如何相互缠绕，长期以来，区分不同扭结以及计算其不变量一直是数学难题。这项新方法通过将扭结编码为类似QR码的二维图案，使得数学家能够更直观、更高效地分析和分类扭结。这种可视化编码方式可能简化了扭结的代数表示，并有助于发现新的扭结不变量。文章强调了这一创新在纯数学领域的突破性意义，并暗示其未来可能在生物学（如DNA缠绕）和物理学（如量子场论）中具有潜在应用。整体内容聚焦于数学研究的前沿进展，属于学术新闻范畴。",
+  "tags": [
+    "可视化编码",
+    "学术新闻",
+    "扭结理论",
+    "数学",
+    "拓扑学"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T08:50:36Z",
+  "processed_at": "2026-04-25T08:52:17Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 22 Apr 2026 15:46:12 +0000"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 2,
+    "language": "en"
+  }
+}

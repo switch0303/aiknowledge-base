@@ -1,0 +1,35 @@
+{
+  "id": "rss-b5ff2e94eb1d",
+  "title": "Mahjong: A Visual Guide",
+  "source_url": "https://themahjong.guide/",
+  "source_type": "rss",
+  "summary": "该内容标题为《Mahjong: A Visual Guide》，来源为RSS，但原始内容描述为空，无法获取具体技术细节。从标题推测，这可能是一份关于麻将的视觉指南，可能涉及麻将规则、牌型识别、策略分析或相关AI应用（如计算机视觉识别麻将牌面、游戏AI策略等）。由于缺乏具体内容，无法确认其技术深度或实际价值。该资源可能面向麻将爱好者或AI研究者，但信息不完整，需进一步获取原文以评估。",
+  "tags": [
+    "麻将",
+    "策略分析",
+    "视觉指南",
+    "计算机视觉",
+    "游戏AI"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-26T08:58:40Z",
+  "processed_at": "2026-04-26T09:00:13Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Fri, 24 Apr 2026 03:41:09 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 4,
+    "language": "en"
+  }
+}

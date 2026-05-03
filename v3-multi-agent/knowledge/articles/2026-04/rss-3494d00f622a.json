@@ -1,0 +1,35 @@
+{
+  "id": "rss-3494d00f622a",
+  "title": "GTFOBins",
+  "source_url": "https://gtfobins.org/",
+  "source_type": "rss",
+  "summary": "GTFOBins 是一个精选的 Unix 二进制文件列表，这些二进制文件可以被用于绕过本地安全限制，在渗透测试、特权提升和后渗透阶段中发挥关键作用。该项目收集了常见的系统工具（如 curl、vim、bash 等）在特定参数或环境下的非预期行为，允许攻击者以受限用户身份执行命令、读取文件、建立网络连接或进行其他恶意操作。每个条目通常包含二进制文件的名称、利用方式、所需参数以及适用场景。GTFOBins 是安全研究人员、渗透测试人员和系统管理员的重要资源，用于评估系统安全配置和检测潜在的风险点。该资源持续更新，社区贡献活跃，覆盖了数十种常见的利用模式，如文件上传、命令执行、反向 shell 等。",
+  "tags": [
+    "特权提升",
+    "渗透测试",
+    "后渗透",
+    "安全工具",
+    "Unix二进制"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "medium",
+  "collected_at": "2026-04-28T10:11:56Z",
+  "processed_at": "2026-04-28T10:13:08Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Tue, 28 Apr 2026 06:27:39 +0000"
+  },
+  "_analysis": {
+    "quality_score": 8,
+    "relevance_score": 6,
+    "language": "en"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rss-fe1a8483c8ef",
+  "title": "London to Calcutta by Bus (2022)",
+  "source_url": "https://www.amusingplanet.com/2022/08/london-to-calcutta-by-bus.html",
+  "source_type": "rss",
+  "summary": "该内容标题为‘London to Calcutta by Bus (2022)’，来源为RSS，但原始内容中未提供任何描述。从标题推测，这可能是一篇关于2022年从伦敦到加尔各答的巴士旅行记录或新闻报道，涉及长途巴士路线、旅行经历或相关交通信息。然而，由于缺乏具体内容，无法确认其技术深度或AI相关性。该内容可能属于旅行类资源或新闻，但未提供技术细节，因此分析受限。",
+  "tags": [
+    "交通",
+    "2022",
+    "巴士",
+    "长途路线",
+    "旅行"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:42Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Tue, 28 Apr 2026 22:52:22 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

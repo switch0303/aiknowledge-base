@@ -1,0 +1,38 @@
+{
+  "id": "github-1225025578",
+  "title": "ai-trading-agent",
+  "source_url": "https://github.com/endless-sky-team/ai-trading-agent",
+  "source_type": "github",
+  "summary": "该项目是一个基于大型语言模型（LLM）的AI交易代理，专注于加密货币市场，特别是比特币和以太坊的永续合约交易。它结合了算法交易、量化金融和机器学习技术，使用TypeScript和React构建前端，Postgres作为数据库，Bun作为运行时环境。项目集成了OpenRouter以访问多种LLM模型，支持自动化交易信号生成和执行。作为开源项目，它旨在为DeFi和金融科技领域提供智能交易解决方案，降低用户参与复杂交易的门槛。",
+  "tags": [
+    "LLM",
+    "加密货币",
+    "交易代理",
+    "算法交易",
+    "开源工具"
+  ],
+  "category": "tool",
+  "content_en": "llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "high",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:00Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "stars": 105,
+    "language": "TypeScript",
+    "author": "endless-sky-team",
+    "created_at": "2026-04-29T21:48:01Z",
+    "updated_at": "2026-04-30T09:50:33Z"
+  },
+  "_analysis": {
+    "quality_score": 7,
+    "relevance_score": 9,
+    "language": "en"
+  }
+}

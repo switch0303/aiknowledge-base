@@ -1,0 +1,35 @@
+{
+  "id": "rss-bf524bfcccd1",
+  "title": "The Prompt API",
+  "source_url": "https://developer.chrome.com/docs/ai/prompt-api",
+  "source_type": "rss",
+  "summary": "该内容标题为'The Prompt API'，但原始内容仅标注'No description'，未提供任何具体的技术细节、功能说明或应用场景。从标题推测，这可能涉及一种用于处理或生成提示（Prompt）的应用程序编程接口（API），通常与大型语言模型（LLM）的交互相关。然而，由于缺乏实际描述，无法确认其具体实现、技术架构或用途。该内容可能是一个未完成的文档、占位符或错误条目。基于现有信息，无法进行深入的技术分析或评估其价值。",
+  "tags": [
+    "未定义",
+    "API",
+    "大语言模型",
+    "接口",
+    "Prompt"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-27T10:12:47Z",
+  "processed_at": "2026-04-27T10:14:22Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Mon, 27 Apr 2026 02:18:58 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 3,
+    "language": "en"
+  }
+}

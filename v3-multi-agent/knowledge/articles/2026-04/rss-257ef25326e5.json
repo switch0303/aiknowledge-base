@@ -1,0 +1,35 @@
+{
+  "id": "rss-257ef25326e5",
+  "title": "Iliad fragment found in Roman-era mummy",
+  "source_url": "https://www.thehistoryblog.com/archives/75877",
+  "source_type": "rss",
+  "summary": "该内容报道了一项考古发现：在罗马时期的木乃伊中发现了《伊利亚特》的碎片。这一发现具有重要的历史和文化价值，表明古希腊文学作品在罗马时期仍被保存和流传。虽然内容简短，但涉及古典学、考古学、文献学等领域，可能对研究古代文本传播和物质文化有启示。由于原始内容仅提供标题而无详细描述，无法进一步评估技术细节或深度。",
+  "tags": [
+    "历史研究",
+    "文化遗产",
+    "考古学",
+    "文献学",
+    "古典文学"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:32Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Wed, 22 Apr 2026 14:18:35 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

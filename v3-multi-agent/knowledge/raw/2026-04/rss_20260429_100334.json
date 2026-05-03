@@ -1,0 +1,246 @@
+{
+  "source": "rss",
+  "collected_at": "2026-04-29T10:03:34Z",
+  "items": [
+    {
+      "id": "rss-89eae6eebb45",
+      "source": "rss",
+      "source_url": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "title": "Ghostty is leaving GitHub",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Tue, 28 Apr 2026 19:44:52 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-d62676faed2e",
+      "source": "rss",
+      "source_url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+      "title": "Soft launch of open-source code platform for government",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Wed, 29 Apr 2026 09:14:37 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-ca4040a3386a",
+      "source": "rss",
+      "source_url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+      "title": "Bugs Rust won&#x27;t catch",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Wed, 29 Apr 2026 02:19:11 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-36f51b7dde03",
+      "source": "rss",
+      "source_url": "https://rip.so",
+      "title": "Show HN: Rip.so – a graveyard for dead internet things",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Wed, 29 Apr 2026 09:21:32 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-cd718a0b0c3b",
+      "source": "rss",
+      "source_url": "https://news.ycombinator.com/item?id=47945522",
+      "title": "Tell HN: An update from the new Tindie team",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Wed, 29 Apr 2026 08:16:37 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-fd2dd86b8d51",
+      "source": "rss",
+      "source_url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
+      "title": "HardenedBSD Is Now Officially on Radicle",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Wed, 29 Apr 2026 06:38:44 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-db9dd2a665b0",
+      "source": "rss",
+      "source_url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+      "title": "How ChatGPT serves ads",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Tue, 28 Apr 2026 23:54:14 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-bdde8eb0d4c4",
+      "source": "rss",
+      "source_url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+      "title": "Before GitHub",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Tue, 28 Apr 2026 21:17:40 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-fe047c984195",
+      "source": "rss",
+      "source_url": "https://github.com/rocky-data/rocky",
+      "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Tue, 28 Apr 2026 14:35:59 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-55d514130dc1",
+      "source": "rss",
+      "source_url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
+      "title": "Show HN: Auto-Architecture: Karpathy&#x27;s Loop, pointed at a CPU",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Tue, 28 Apr 2026 17:12:30 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-29648f2bee5e",
+      "source": "rss",
+      "source_url": "https://ontherow.substack.com/p/withnails-coat-and-i",
+      "title": "Withnail&#x27;s Coat and I",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 19:27:47 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-fa7f01a032dd",
+      "source": "rss",
+      "source_url": "https://dl.acm.org/doi/abs/10.1145/3767295.3803591",
+      "title": "Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Wed, 29 Apr 2026 06:47:53 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-37e09e628581",
+      "source": "rss",
+      "source_url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Tue, 28 Apr 2026 19:24:43 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-f0f77b4d8f7f",
+      "source": "rss",
+      "source_url": "https://lawvm.org/why-law-is-law-shaped/",
+      "title": "Why Law Is Law-Shaped",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Wed, 29 Apr 2026 09:03:31 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-ef03c896e6c4",
+      "source": "rss",
+      "source_url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
+      "title": "I won a championship that doesn&#x27;t exist",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Tue, 28 Apr 2026 20:38:21 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-e43508424141",
+      "source": "rss",
+      "source_url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+      "title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Tue, 28 Apr 2026 16:15:43 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-17d30f20df5e",
+      "source": "rss",
+      "source_url": "https://discovery.kaust.edu.sa/en/article/26858/gallium-oxide-electronics-withstand-extreme-cold/",
+      "title": "Gallium oxide electronics withstand extreme cold",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 11:31:20 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-1ac5591d9ec4",
+      "source": "rss",
+      "source_url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+      "title": "Who owns the code Claude Code wrote?",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Tue, 28 Apr 2026 11:24:52 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-149ccd7bb367",
+      "source": "rss",
+      "source_url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
+      "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 13:54:47 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    },
+    {
+      "id": "rss-9086f6d34763",
+      "source": "rss",
+      "source_url": "https://talkie-lm.com/introducing-talkie",
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "content": "No description",
+      "metadata": {
+        "feed_url": "https://news.ycombinator.com/rss",
+        "published_at": "Mon, 27 Apr 2026 21:55:48 +0000"
+      },
+      "collected_at": "2026-04-29T10:03:33Z"
+    }
+  ]
+}

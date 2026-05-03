@@ -1,0 +1,35 @@
+{
+  "id": "rss-6a414be1220b",
+  "title": "Education must go beyond the mere production of words",
+  "source_url": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
+  "source_type": "rss",
+  "summary": "该内容标题为“Education must go beyond the mere production of words”，来源为RSS，但原始内容为空，无具体描述。标题暗示教育不应仅限于文字产出，而应注重更深层次的认知、实践或技术应用。由于缺乏实际内容，无法提取详细技术信息或具体分析。",
+  "tags": [
+    "内容缺失",
+    "教育技术",
+    "认知发展",
+    "学习模式",
+    "理论探讨"
+  ],
+  "category": "news",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-25T07:24:48Z",
+  "processed_at": "2026-04-25T07:26:40Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Sat, 25 Apr 2026 00:11:43 +0000"
+  },
+  "_analysis": {
+    "quality_score": 1,
+    "relevance_score": 1,
+    "language": "en"
+  }
+}

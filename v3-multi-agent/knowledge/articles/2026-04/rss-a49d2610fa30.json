@@ -1,0 +1,35 @@
+{
+  "id": "rss-a49d2610fa30",
+  "title": "Biology is a Burrito: A text- and visual-based journey through a living cell",
+  "source_url": "https://burrito.bio/essays/biology-is-a-burrito",
+  "source_type": "rss",
+  "summary": "该内容标题为“Biology is a Burrito: A text- and visual-based journey through a living cell”，来自rss源，但原始内容为空，无具体描述。从标题推测，该内容可能是一种以文本和视觉结合的方式，将活细胞比喻为墨西哥卷饼，进行生物学知识科普或教学资源。由于缺乏实际内容，无法确认其技术深度或具体应用，但标题暗示其可能属于教育或可视化资源类别，旨在通过类比和多媒体手段帮助理解细胞结构与功能。",
+  "tags": [
+    "生物学",
+    "类比学习",
+    "教育资源",
+    "细胞生物学",
+    "可视化教学"
+  ],
+  "category": "resource",
+  "content_en": "No description",
+  "content_zh": "",
+  "status": "pending",
+  "priority": "low",
+  "collected_at": "2026-04-30T10:04:55Z",
+  "processed_at": "2026-04-30T10:06:28Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ],
+  "_raw_metadata": {
+    "feed_url": "https://news.ycombinator.com/rss",
+    "published_at": "Thu, 30 Apr 2026 03:24:41 +0000"
+  },
+  "_analysis": {
+    "quality_score": 3,
+    "relevance_score": 2,
+    "language": "en"
+  }
+}
