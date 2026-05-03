@@ -12,7 +12,12 @@ Example:
 
 import json
 import logging
+import sys
+from pathlib import Path
 from typing import Dict, Tuple, Optional
+
+# 将项目根目录添加到 sys.path
+sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from pipeline.model_client import create_provider, chat_with_retry
 

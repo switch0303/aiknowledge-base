@@ -18,12 +18,17 @@ Example:
 import json
 import logging
 import ssl
+import sys
 import urllib.parse
 import urllib.request
+from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
 # 修复 SSL 证书问题
 ssl._create_default_https_context = ssl._create_unverified_context
+
+# 将项目根目录添加到 sys.path
+sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from pipeline.model_client import create_provider, chat_with_retry
 
