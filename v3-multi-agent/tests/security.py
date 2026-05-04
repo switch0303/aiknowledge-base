@@ -42,8 +42,8 @@ INJECTION_PATTERNS = [
     (r'输出(你的|系统|全部).*(提示|prompt)', 'chinese_prompt_leak'),
     (r'(执行|运行|开始).*(命令|指令)', 'chinese_command_exec'),
     
-    # 控制字符类
-    (r'[\x00-\x1F\x7F]', 'control_character'),
+    # 控制字符类（排除换行 \n 和制表符 \t，这些是常见合法字符）
+    (r'[\x00-\x08\x0B-\x0C\x0E-\x1F\x7F]', 'control_character'),
 ]
 
 # 预编译正则
