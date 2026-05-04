@@ -1,0 +1,24 @@
+{
+  "id": "github-132464395",
+  "title": "JavaGuide",
+  "source_url": "https://github.com/Snailclimb/JavaGuide",
+  "source_type": "github",
+  "summary": "JavaGuide 是一个全面的 Java 面试与后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发、系统设计与 AI 应用开发等核心领域。该项目在 GitHub 上拥有 155k 星标，主要使用 Java 语言，为开发者提供系统化的面试准备资源。",
+  "tags": [
+    "Java",
+    "面试指南",
+    "后端开发",
+    "分布式系统",
+    "高并发"
+  ],
+  "category": "tool",
+  "priority": "medium",
+  "status": "pending",
+  "collected_at": "2026-05-04T06:39:55.471333Z",
+  "processed_at": "2026-05-04T06:40:51.041429Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ]
+}

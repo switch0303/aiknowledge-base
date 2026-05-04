@@ -3,17 +3,17 @@
   "title": "everything-claude-code",
   "source_url": "https://github.com/affaan-m/everything-claude-code",
   "source_type": "github",
-  "summary": "everything-claude-code 是一个为 Claude Code、Codex、Opencode、Cursor 等 AI 编码代理设计的性能优化系统，集成了技能、直觉、记忆、安全性和研究优先的开发模式。该项目采用 JavaScript 编写，在 GitHub 上获得了超过 17 万颗星，旨在提升代理工具的效率和可靠性，通过模块化架构支持多种代理环境，并强调安全性和持续改进。",
+  "summary": "everything-claude-code 是一个针对 Claude Code、Codex、Opencode、Cursor 等 AI 编码代理的智能体性能优化系统。该项目提供了技能、直觉、记忆、安全性和研究优先的开发框架，旨在提升编码代理的性能和可靠性。使用 JavaScript 开发，拥有超过 17 万颗星标，是一个广受关注的开源工具。",
   "tags": [
     "AI代理",
     "性能优化",
-    "Claude Code"
+    "编码辅助"
   ],
-  "category": "framework",
+  "category": "tool",
   "priority": "high",
   "status": "pending",
-  "collected_at": "2026-05-03T12:56:50.388625Z",
-  "processed_at": "2026-05-03T12:57:21.121382Z",
+  "collected_at": "2026-05-04T06:39:55.471322Z",
+  "processed_at": "2026-05-04T06:40:51.041416Z",
   "published_at": null,
   "channels": [
     "telegram",

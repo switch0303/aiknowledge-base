@@ -3,17 +3,17 @@
   "title": "superpowers",
   "source_url": "https://github.com/obra/superpowers",
   "source_type": "github",
-  "summary": "superpowers 是一个基于 Shell 语言的智能技能框架与软件开发方法论，旨在提供高效的开发工作流程。该项目在 GitHub 上获得超过 176,000 颗星，表明其受到广泛关注和认可。它通过整合技能框架与方法论，帮助开发者更高效地构建和管理项目。",
+  "summary": "Superpowers 是一个代理技能框架和软件开发方法论，旨在提升开发效率和协作能力。该项目使用 Shell 语言实现，拥有超过 177,000 颗星标，表明其在开发者社区中具有广泛影响力和认可度。该框架和方法论专注于优化开发流程，可能涉及自动化、智能代理和团队协作等方面。",
   "tags": [
-    "智能技能框架",
+    "代理技能框架",
     "软件开发方法论",
     "Shell"
   ],
   "category": "framework",
   "priority": "high",
   "status": "pending",
-  "collected_at": "2026-05-03T12:56:50.388622Z",
-  "processed_at": "2026-05-03T12:57:21.121374Z",
+  "collected_at": "2026-05-04T06:39:55.471315Z",
+  "processed_at": "2026-05-04T06:40:51.041412Z",
   "published_at": null,
   "channels": [
     "telegram",

@@ -6,17 +6,24 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from langgraph.graph import StateGraph, END
 
 from workflows.state import KBState
-from workflows.nodes import collect_node, analyze_node, organize_node, save_node
+from workflows.collector import collect_node
+from workflows.analyzer import analyze_node
+from workflows.organizer import organize_node
+from workflows.saver import save_node
+from workflows.planner import planner_node
 from workflows.reviewer import review_node
 from workflows.reviser import revise_node
 from workflows.human_flag import human_flag_node
 
 
 def route_after_review(state: KBState) -> str:
-    """审核后的 3 路条件路由。"""
+    """审核后的 3 路条件路由（读取 Planner 动态配置）。"""
     if state.get("review_passed", False):
         return "organize"
-    if state.get("iteration", 0) < 3:
+    
+    # 从 plan 读取动态配置，默认值 3
+    max_iterations = state.get("plan", {}).get("max_iterations", 3)
+    if state.get("iteration", 0) < max_iterations:
         return "revise"
     return "human_flag"
 
@@ -25,6 +32,7 @@ def build_graph():
     graph = StateGraph(KBState)
 
     graph.add_node("collect", collect_node)
+    graph.add_node("planner", planner_node)
     graph.add_node("analyze", analyze_node)
     graph.add_node("review", review_node)
     graph.add_node("revise", revise_node)
@@ -34,7 +42,8 @@ def build_graph():
 
     graph.set_entry_point("collect")
 
-    graph.add_edge("collect", "analyze")
+    graph.add_edge("collect", "planner")
+    graph.add_edge("planner", "analyze")
     graph.add_edge("analyze", "review")
 
     graph.add_conditional_edges(
@@ -68,6 +77,7 @@ if __name__ == "__main__":
         "cost_tracker": {},
         "needs_human_review": False,
         "human_review_file": "",
+        "plan": {},
     }
 
     for output in app.stream(initial_state):
@@ -80,6 +90,12 @@ if __name__ == "__main__":
                 print(f"采集数量: {len(node_output.get('sources', []))}")
                 if node_output.get("sources"):
                     print(f"首个来源: {node_output['sources'][0]['title']}")
+
+            elif node_name == "planner":
+                plan = node_output.get("plan", {})
+                print(f"策略类型: {plan.get('name', 'default')}")
+                print(f"最大迭代: {plan.get('max_iterations', 'N/A')}")
+                print(f"相关性阈值: {plan.get('relevance_threshold', 'N/A')}")
 
             elif node_name == "analyze":
                 print(f"分析数量: {len(node_output.get('analyses', []))}")

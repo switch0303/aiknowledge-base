@@ -71,3 +71,11 @@ class KBState(TypedDict):
 
     存储 human_flag_node 生成的待审核文件名，便于后续追踪。
     """
+
+    plan: Dict
+    """Planner Agent 制定的执行策略。
+
+    包含：max_iterations, confidence_threshold, analyze_batch_size,
+    auto_approve_score, strategy 等动态参数。
+    下游所有节点读取此配置调整行为，避免硬编码。
+    """

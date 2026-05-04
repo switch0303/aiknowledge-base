@@ -54,9 +54,23 @@ def _chat_json(prompt: str, system: str, temperature: float = 0.1) -> Dict[str, 
 def review_node(state: KBState) -> Dict[str, Any]:
     print("[review_node] 开始审核分析结果...")
 
-    analyses = state.get("analyses", [])[:5]
+    # 读取 Planner 配置
+    plan = state.get("plan", {}) or {}
+    per_source_limit = int(plan.get("per_source_limit", 10))
+    max_iterations = int(plan.get("max_iterations", 3))
+
+    analyses = state.get("analyses", [])[:per_source_limit]
     iteration = state.get("iteration", 0)
-    cost_tracker = state.get("cost_tracker", {}).copy()
+
+    # Planner 兜底：达到最大迭代次数时强制通过
+    if iteration >= max_iterations:
+        print(f"[review_node] 达到最大迭代次数 {max_iterations}，强制通过")
+        return {
+            "review_passed": True,
+            "review_feedback": f"达到最大迭代次数 {max_iterations}，强制通过",
+            "iteration": iteration + 1,
+            "cost_tracker": _get_cost_data(),
+        }
 
     if not analyses:
         print("[review_node] 没有分析结果需要审核，直接通过")

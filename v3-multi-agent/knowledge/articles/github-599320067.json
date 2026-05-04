@@ -1,0 +1,22 @@
+{
+  "id": "github-599320067",
+  "title": "langflow",
+  "source_url": "https://github.com/langflow-ai/langflow",
+  "source_type": "github",
+  "summary": "Langflow 是一个用于构建和部署 AI 驱动的代理和工作流的强大工具。它基于 Python 开发，在 GitHub 上获得了 147669 颗星，表明其受到广泛关注和认可。该工具简化了 AI 应用的开发流程，支持快速搭建和部署复杂的 AI 工作流，适用于开发者和企业用户。",
+  "tags": [
+    "AI代理",
+    "工作流",
+    "部署工具"
+  ],
+  "category": "tool",
+  "priority": "high",
+  "status": "pending",
+  "collected_at": "2026-05-04T06:39:55.471347Z",
+  "processed_at": "2026-05-04T06:40:51.041434Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ]
+}

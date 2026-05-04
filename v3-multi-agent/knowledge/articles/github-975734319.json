@@ -1,0 +1,24 @@
+{
+  "id": "github-975734319",
+  "title": "opencode",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "source_type": "github",
+  "summary": "opencode是一个开源编码代理项目，使用TypeScript开发，旨在提供一个开放源代码的编程助手。该项目在GitHub上获得了极高的关注度，拥有超过15万颗星标，表明其受欢迎程度和社区认可度。作为一款编码代理工具，opencode可能集成了代码生成、补全、调试等功能，类似于GitHub Copilot但开源，允许开发者自由定制和部署。它降低了AI辅助编程的门槛，促进了代码编写效率的提升。",
+  "tags": [
+    "coding agent",
+    "open source",
+    "TypeScript",
+    "AI assistant",
+    "code generation"
+  ],
+  "category": "tool",
+  "priority": "high",
+  "status": "pending",
+  "collected_at": "2026-05-04T06:39:55.471343Z",
+  "processed_at": "2026-05-04T06:40:51.041431Z",
+  "published_at": null,
+  "channels": [
+    "telegram",
+    "feishu"
+  ]
+}
