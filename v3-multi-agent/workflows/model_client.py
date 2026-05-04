@@ -24,6 +24,31 @@ logger = logging.getLogger(__name__)
 
 
 # ============================================================================
+# CostGuard 全局实例（懒加载）
+# ============================================================================
+
+_cost_guard: Optional[Any] = None
+
+
+def get_cost_guard() -> Any:
+    """获取全局 CostGuard 实例（懒加载）。
+
+    第一次调用时创建实例，后续复用同一实例。
+    预算从环境变量 BUDGET_YUAN 读取，默认 1.0 元。
+
+    Returns:
+        CostGuard 实例
+    """
+    global _cost_guard
+    if _cost_guard is None:
+        from tests.cost_guard import CostGuard
+        budget_yuan = float(os.environ.get('BUDGET_YUAN', '1.0'))
+        _cost_guard = CostGuard(budget_yuan=budget_yuan)
+        logger.info(f"CostGuard initialized with budget: {budget_yuan} yuan")
+    return _cost_guard
+
+
+# ============================================================================
 # 数据类定义
 # ============================================================================
 
@@ -186,6 +211,7 @@ class OpenAICompatibleProvider(LLMProvider):
                 - temperature: 采样温度（默认 0.7）
                 - max_tokens: 最大生成 Token 数
                 - stream: 是否流式输出（默认 False）
+                - node_name: 调用节点名称（默认 "unknown"，用于 CostGuard 统计）
         
         Returns:
             LLMResponse 对象，包含生成的内容和 Token 统计
@@ -193,8 +219,12 @@ class OpenAICompatibleProvider(LLMProvider):
         Raises:
             httpx.HTTPError: 当 HTTP 请求失败时
             ValueError: 当响应格式无效时
+            BudgetExceededError: 当总成本超出预算时
         """
         start_time = time.time()
+        
+        # 获取节点名称（默认 unknown）
+        node_name = kwargs.pop('node_name', 'unknown')
         
         # 构建请求体
         payload = {
@@ -243,8 +273,17 @@ class OpenAICompatibleProvider(LLMProvider):
                 f"tokens={usage.total_tokens}, latency={latency_ms:.1f}ms"
             )
             
-            # 记录成本
+            # 记录成本 tracker
             tracker.record(usage, self.provider_name)
+            
+            # CostGuard 记录和检查
+            usage_dict = {
+                'prompt_tokens': usage.prompt_tokens,
+                'completion_tokens': usage.completion_tokens,
+            }
+            cost_guard = get_cost_guard()
+            cost_guard.record(node_name, usage_dict, llm_response.model)
+            cost_guard.check()
             
             return llm_response
             
@@ -368,6 +407,7 @@ def chat_with_retry(
     messages: List[Dict[str, str]],
     max_retries: int = 3,
     timeout: float = 60.0,
+    node_name: str = "unknown",
     **kwargs
 ) -> LLMResponse:
     """带重试机制的 LLM 聊天调用。
@@ -379,6 +419,7 @@ def chat_with_retry(
         messages: 消息列表，格式为 [{"role": "user", "content": "..."}]
         max_retries: 最大重试次数（默认 3）
         timeout: 请求超时时间（秒，默认 60）
+        node_name: 调用节点名称（默认 "unknown"，用于 CostGuard 统计）
         **kwargs: 传递给 provider.chat() 的额外参数
     
     Returns:
@@ -386,6 +427,7 @@ def chat_with_retry(
     
     Raises:
         Exception: 当所有重试都失败时抛出
+        BudgetExceededError: 当总成本超出预算时
     
     Example:
         >>> provider = create_provider()
@@ -411,7 +453,7 @@ def chat_with_retry(
         provider.client.timeout = timeout
         
         try:
-            return provider.chat(messages, **kwargs)
+            return provider.chat(messages, node_name=node_name, **kwargs)
         finally:
             provider.client.timeout = original_timeout
     
@@ -777,6 +819,7 @@ def quick_chat(
     prompt: str,
     system_prompt: Optional[str] = None,
     provider: Optional[str] = None,
+    node_name: str = "unknown",
     **kwargs
 ) -> str:
     """便捷函数：快速发送单轮对话并返回结果。
@@ -788,6 +831,7 @@ def quick_chat(
         prompt: 用户输入的提示文本
         system_prompt: 可选的系统提示词
         provider: 提供商名称，默认从环境变量读取
+        node_name: 调用节点名称（默认 "unknown"，用于 CostGuard 统计）
         **kwargs: 传递给 create_provider 和 chat 的额外参数
     
     Returns:
@@ -795,6 +839,7 @@ def quick_chat(
     
     Raises:
         Exception: 当 API 调用失败时抛出
+        BudgetExceededError: 当总成本超出预算时
     
     Example:
         >>> # 简单调用
@@ -818,7 +863,8 @@ def quick_chat(
             llm_provider,
             messages,
             max_retries=kwargs.get('max_retries', 3),
-            timeout=kwargs.get('timeout', 60.0)
+            timeout=kwargs.get('timeout', 60.0),
+            node_name=node_name
         )
     
     return response.content
