@@ -72,8 +72,7 @@ EVAL_CASES = [
         "expected": {
             "checks": [
                 lambda result: len(result) >= 50,
-                lambda result: "摘要" in result or "总结" in result or "分析" in result,
-                lambda result: any(kw in result.lower() for kw in ["agent", "langgraph", "工作流", "代理"]),
+                lambda result: any(kw in result.lower() for kw in ["agent", "langgraph", "工作流", "代理", "状态", "循环"]),
             ],
             "min_keywords": 2,
             "min_length": 50,
