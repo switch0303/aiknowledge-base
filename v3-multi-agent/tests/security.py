@@ -101,7 +101,7 @@ def sanitize_input(text: str, max_length: int = 10000) -> Tuple[str, List[Dict[s
 # PII 正则模式
 PII_PATTERNS = [
     # 手机号（中国大陆）
-    (r'(?<!\d)(?:\+?86)?1[3-9]\d{9}(?!\d)', 'phone', 'PHONE_MASKED'),
+    (r'(?<!\d)(?:\+?86)?1[3-9]\d{9}(?!\d)', 'phone_cn', 'PHONE_CN_MASKED'),
     
     # 邮箱地址
     (r'(?i)[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}', 'email', 'EMAIL_MASKED'),
@@ -117,7 +117,7 @@ PII_PATTERNS = [
     
     # IP 地址（IPv4）
     (r'(?<!\d)(?:(?:25[0-5]|2[0-4]\d|[01]?\d\d?)\.){3}(?:25[0-5]|2[0-4]\d|[01]?\d\d?)(?!\d)',
-     'ip_address', 'IP_MASKED'),
+     'ip_address', 'IP_ADDRESS_MASKED'),
     
     # 银行卡号（简化检测）
     (r'(?<!\d)\d{16,19}(?!\d)', 'bank_card', 'BANK_CARD_MASKED'),
