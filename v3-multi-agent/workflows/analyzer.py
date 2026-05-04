@@ -31,7 +31,8 @@ Stars: {src['metadata'].get('stars', 0)}
 语言: {src['metadata'].get('language', '')}
 """
 
-        result = _chat_json(prompt, system="你是 AI 技术分析师，输出严格 JSON 格式。")
+        # 传递 node_name 用于安全审计和成本统计
+        result = _chat_json(prompt, system="你是 AI 技术分析师，输出严格 JSON 格式。", node_name="analyze_node")
         if result:
             result["source_id"] = src["id"]
             result["confidence"] = result.get("confidence", 0.8)

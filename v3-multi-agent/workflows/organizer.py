@@ -4,6 +4,7 @@ from typing import Dict, Any
 
 from .state import KBState
 from .utils import _get_cost_data, _chat_json
+from tests.security import secure_input, secure_output, get_audit_summary
 
 
 def organize_node(state: KBState) -> Dict[str, Any]:
@@ -36,7 +37,8 @@ def organize_node(state: KBState) -> Dict[str, Any]:
 审核反馈: {feedback}
 原始分析: {json.dumps(item['analysis'], ensure_ascii=False)}
 """
-            revised = _chat_json(prompt, system="你是内容修正助手，输出 JSON。")
+            # 传递 node_name 用于安全审计和成本统计
+            revised = _chat_json(prompt, system="你是内容修正助手，输出 JSON。", node_name="organize_node")
             if revised:
                 item["analysis"].update(revised)
 
@@ -61,6 +63,11 @@ def organize_node(state: KBState) -> Dict[str, Any]:
                 "channels": ["telegram", "feishu"],
             }
         )
+
+    # 输出安全审计摘要
+    audit_summary = get_audit_summary()
+    if audit_summary.get("total_entries", 0) > 0:
+        print(f"[security] 审计统计: 总记录 {audit_summary['total_entries']} 条")
 
     print(f"[organize_node] 完成，生成 {len(articles)} 篇文章")
     return {"articles": articles, "cost_tracker": _get_cost_data()}
