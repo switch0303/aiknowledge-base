@@ -460,6 +460,27 @@ class AuditLogger:
 _rate_limiter = RateLimiter()
 _audit_logger = AuditLogger()
 
+# 全局 PII 统计
+_pii_stats = {}
+
+
+def _record_pii_stats(node_name: str, detections: list) -> None:
+    """记录 PII 检测统计。"""
+    if node_name not in _pii_stats:
+        _pii_stats[node_name] = 0
+    _pii_stats[node_name] += len(detections)
+
+
+def get_pii_stats() -> dict:
+    """获取 PII 检测统计。"""
+    return dict(_pii_stats)
+
+
+def reset_pii_stats() -> None:
+    """重置 PII 统计。"""
+    global _pii_stats
+    _pii_stats = {}
+
 
 def secure_input(text: str, client_id: str = 'default') -> Dict[str, Any]:
     """安全处理输入文本。
@@ -517,6 +538,10 @@ def secure_output(text: str, client_id: str = 'default',
     """
     filtered, detections = filter_output(text, mask)
     _audit_logger.log_output(client_id, len(filtered), detections)
+    
+    # 记录 PII 统计
+    if detections:
+        _record_pii_stats(client_id, detections)
 
     return {
         'filtered_text': filtered,
